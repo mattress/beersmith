@@ -1,0 +1,1943 @@
+<Selections><_MOD_>2015-03-09</_MOD_>
+<Name>Selections</Name>
+<Type>7428</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>69</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Moderne Lys Lager</F_S_NAME>
+<F_S_CATEGORY>Lys Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0150000</F_S_MAX_FG>
+<F_S_MIN_IBU>35.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>45.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>7.6142132</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En lys karakterfull undergj&aelig;ret &oslash;l med et markant bidrag fra humlen, alle humlesorter er tillatt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Humlen skal v&aelig;re middels til kraftig. DMS og diacetylniv&aring; frav&aelig;rende til svakt.
+Farge/utseende: Halmgul til gylden. Kraftig skum. Klar til lett t&aring;kete.
+Smak: Velhumlet, med middels til kraftig humlebitterhet. Lys maltkarakter, som ikke dominerer. DMS og diacetylniv&aring; frav&aelig;rende til svakt.
+Kropp: Lett til medium kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;gne &Oslash; Pils, Det Lille Bryggeri Bj&oslash;nn&oslash;l, J&auml;mtland Hell.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#1a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Internasjonal Lager</F_S_NAME>
+<F_S_CATEGORY>Lys Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.0456853</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>6.0913706</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.3000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En industriell og lett tilgjengelig versjon av pilsner&oslash;let. Det er ikke ualminnelig at det kun brukes bitterhumle, malten suppleres ofte med r&aring;frukt, og &oslash;let gj&aelig;rer et par grader varmere enn normal pilsnergj&aelig;ring.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Generelt sett en svak aroma av malt og humle. DMS skal v&aelig;re svakt til middels. Diacetyl skal v&aelig;re frav&aelig;rende.
+Farge/utseende: Lys halmgul til gylden. Helt klar, uten t&aring;ke.
+Smak: Frav&aelig;rende til svak s&oslash;t maltsmak. Svak humlesmak og -bitterhet.
+Kropp: Lett til medium kropp. H&oslash;yt kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Carlsberg, Heineken, Gr&oslash;n Tuborg, (Amerikansk) Budweiser.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#1b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Tsjekkisk Pilsner</F_S_NAME>
+<F_S_CATEGORY>Lys Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0170000</F_S_MAX_FG>
+<F_S_MIN_IBU>35.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>45.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>7.6142132</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.1000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Tsjekkisk pilsner kjennetegnes av stor maltfylde og rests&oslash;dme, samt bruken av Saaz-humle. Diacetyl er ofte en del av karakteren.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels krydret humleduft. Svak til middels maltaroma av br&oslash;d og kjeks. Diacetylniv&aring; fra frav&aelig;rende til middels.
+Farge/utseende: Gylden. Kraftig og tykt skum. Klar til lett t&aring;kete.
+Smak: Fyldig maltsmak balansert av markant humlekarakter. H&oslash;y rests&oslash;dme og middels til kraftig bitterhet.
+Kropp: Medium kropp, middels kullsyreniv&aring;, lavere enn de fleste undergj&aelig;ret &oslash;ltyper.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Pilsner Urquell, Budweiser Budvar, Staropramen Pilsner.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#1c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Tysk Pilsner</F_S_NAME>
+<F_S_CATEGORY>Lys Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0450000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.5380711</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>5.0761421</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.3000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Tysk pilsner er en lys og t&oslash;rr pilsner&oslash;l, med markant humlebitterhet. Det harde og sulfatrike vann i Nord-Tyskland gj&oslash;r at &oslash;let har en mer kantet og humlet profil enn de tsjekkiske pilsnere.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Humleduften skal v&aelig;re svak til kraftig. Lys maltaroma fra frav&aelig;rende til svak. DMS skal v&aelig;re svak til kraftig. Diacetyl skal v&aelig;re frav&aelig;rende.
+Farge/utseende: Lys halmgul til halmgul. Kraftig og tykt skum. Klar.
+Smak: Frisk og skarp og lett metallisk hard humlesmak. Middels til kraftig humlebitterhet. Svak til middels smak av pilsnermalt, som ikke skal dominere. DMS skal v&aelig;re svak til kraftig. Diacetyl skal v&aelig;re frav&aelig;rende.
+Kropp: Lett til medium kropp. H&oslash;yt kullsyreinnhold,</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Bitburger Premium, Warsteiner Premium Verum, Jever Pilsener.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#1d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>M&uuml;nchener Helles</F_S_NAME>
+<F_S_CATEGORY>Lys Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>18.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>7.1065990</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>M&uuml;nchener helles er en bl&oslash;t og maltdominert lys lager.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Pilsnermalt dominerer aromaen, med karakter av br&oslash;d og korn. Svak humlearoma av mellomeuropeiske typer. DMS fra frav&aelig;rende til svak. Diacetyl skal ikke forekomme.
+Farge/utseende: Halmgul til gyldengul. Holdbart hvitt skum. Klar til lett t&aring;kete.
+Smak: Svak humlebitterhet. Middels til kraftig maltsmak, med karakter av br&oslash;d og korn, men ingen karamell. DMS fra frav&aelig;rende til svak. Diacetyl skal ikke forekomme.
+Kropp: Medium kropp. lav til middels karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Weltenburger Barock-Hell, Ayinger Jahrhundert, Hacker-Pschorr M&uuml;nchner Hell.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#1e</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Norsk Pilsner Butikk-Klasse</F_S_NAME>
+<F_S_CATEGORY>Lys Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>6</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0450000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0090000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0110000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>10.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.7500000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Vanlig norsk pilsner er ganske ensartet nesten uansett hvilket bryggeri som st&aring;r bak. &Oslash;let har gjerne noe mer aroma, smak og fylde enn internasjonal og s&aelig;rlig amerikansk lager. Men den er ikke like karakteristisk som tysk pils (eller tsjekkisk). Forskjellene er dog ikke s&aring; store. Norsk pils brygges etter renhetsloven uten mais, ris m.m. P&aring; grunn av dagens lovverk holder norsk pils alltid ca 4,5 vol% alkohol.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Liten til middels humlearoma. Stort sett ikke gr&oslash;nnsakstoner.
+Farge/Utseende: Lys farge, ingen kj&oslash;let&aring;ke. Lite skum.
+Smak: Mye kullsyre. Ikke s&oslash;t, men noe bitterhet og humlesmak b&oslash;r finnes. Ingen fruktighet eller diacetyl.
+Kropp: Liten til middels fylde.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Aass pils, Frydenlunds pils, Ringnes pils.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#1f</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Moderne M&oslash;rk Lager</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0580000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En m&oslash;rk karakterfull undergj&aelig;ret &oslash;l med en god balanse mellom malt og humle, alle humlesorter er tillatt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Humlen skal v&aelig;re svak til kraftig. Markant maltaroma med karakter av br&oslash;dskorpe, karamell eller sjokolade. DMS og diacetylniv&aring; frav&aelig;rende til svakt.
+Farge/utseende: Ravfarget til m&oslash;rkebrun. Klar til lett t&aring;kete.
+Smak: En velhumlet &oslash;l, med lett til medium bitterhet, som er balansert av medium til kraftig maltkarakter. Maltkarakteren kan beskrives som br&oslash;dskorpe, kjeks, karamell eller sjokolade. DMS og diacetylniv&aring; frav&aelig;rende til svakt.
+Kropp: Medium kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Samuel Adams Boston Lager, N&oslash;rrebro New York Lager</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#2a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Wiener</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0480000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>22.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>28.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>8.1218274</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>15.2284264</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Wiener &oslash;l er en m&oslash;rk lager, kjennetegnet ved balanse mellom malt og humle. Fargen kommer fra wiener- og m&uuml;nchenermalt. Humlen er mellomeuropeisk.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med karakter av br&oslash;d og karamell. Humlearoma fra frav&aelig;rende til svak. DMS fra frav&aelig;rende til svak, diacetyl skal ikke forekomme.
+Farge/utseende: Ravfarget til kobberfarget. Klar til lett t&aring;kete.
+Smak: Middels til kraftig maltsmak, med karakter av br&oslash;d og karamell, lett ristede noter kan forekomme. Humlesmak og bitterhet skal v&aelig;re svak til middels.
+Kropp: Lett til medium kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Aass Classic, Grans Vinter&oslash;l, Negra Modelo.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#2b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>M&auml;rzen</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0520000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>22.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>28.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>5.5837563</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.7664975</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.2000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Denne kategori har ingenting &aring; gj&oslash;re med de moderne oktoberfest&oslash;l som i dag minner mer om en standard lys lager&oslash;l. M&auml;rzen er en utvikling av wiener&oslash;let med en litt h&oslash;yere v&oslash;rterstyrke som gj&oslash;r den mer holdbar over sommeren.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med karakter av br&oslash;d, kjeks og karamell. Svak til middels humlearoma, med karakter av mellomeuropeiske humletyper. DMS fra frav&aelig;rende til svak, diacetyl skal ikke forekomme.
+Farge/utseende: Gyldengul til kobberfarget. Klar til lett t&aring;kete.
+Smak: Middels til kraftig maltsmak, som skal v&aelig;re mer lett ristet enn karamell. Svak, men merkbar humlesmak og bitterhet.
+Kropp: Medium kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>&AElig;gir P&aring;skesol, Borg Oktober&oslash;l, Sp&auml;ten Oktoberfest Ur-m&auml;rzen.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#2c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>M&uuml;nchener dunkel</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0520000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0140000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>16.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.3045685</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>40.6091371</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En m&uuml;nchener dunkel skal v&aelig;re m&oslash;rk og maltet med ristede, men ikke brente noter. En god m&uuml;nchener er fyldig, maltet og bl&oslash;t, mens en d&aring;rlig er s&oslash;t og kvalmende.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med en br&oslash;daktig, ristet aroma og noter av sjokolade. Svak aroma av ugj&aelig;ret v&oslash;rter. Svak humlearoma av mellomeuropeiske typer. DMS og diacetylniv&aring; fra frav&aelig;rende til svak.
+Farge/utseende: M&oslash;rk kobber til m&oslash;rk r&oslash;dbrun. Klar til lett t&aring;kete.
+Smak: Middels til kraftig, bl&oslash;t og fyldig maltsmak, med karakter av br&oslash;d, karamell og sjokolade fra m&uuml;nchnenermalt. Svak, men merkbar humlesmak og bitterhet gir balanse i &oslash;let.
+Kropp: Medium kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Aass Bayer, CB Magnum M&oslash;rk, K&ouml;nig Ludwig Dunkel, Paulaner Original M&uuml;nchner Dunkel, Weltenburger Kloster Barock Dunkel, Frydenlund bayer.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#2d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>M&oslash;rk Tsjekkisk Lager</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>22.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.3045685</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>45.6852792</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.9000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.8000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>M&oslash;rk tsjekkisk lager er ofte s&oslash;t som v&oslash;rter, men mer balanserte eksempler forekommer ogs&aring;.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med karakter av toffee, karamell, melkesjokolade og ugj&aelig;ret v&oslash;rter. Frav&aelig;rende til svak humlearoma. Svak til kraftig diacetyl.
+Farge/utsende: M&oslash;rk kobberfarge til r&oslash;dsvart. Klar til lett t&aring;kete.
+Smak: Middels til kraftig s&oslash;t malt smak, med karakter av karamell og melkesjokolade. Det kan v&aelig;re svak til middels ristet maltkarakter, som kan bidra med bitterhet. Frav&aelig;rende til svak humlesmak. Svak til kraftig diacetyl.
+Kropp: Medium kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>1795 dark, B.B. Dark, Kozel Dark, Bohemia Regent Dark.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#2e</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Schwarzbier</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>6</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>22.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>25.3807107</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>45.6852792</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.6000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Schwarzbier er en ristet undergj&aelig;ret &oslash;l, som kan betegnes som en svart pilsner.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels ristet maltaroma. Svak til middels humlearoma, som stammer fra mellomeuropeiske humletyper. Humlen kan godt v&aelig;re dominerende i forhold til malten. DMS fra frav&aelig;rende til middels. Diacetyl fra frav&aelig;rende til svak.
+Farge: R&oslash;dbrun til r&oslash;dsvart. Klar til lett t&aring;kete.
+Smak: Svak til kraftig ristet maltsmak, med lav til middels s&oslash;dme. Svak til middels humlesmak og bitterhet.
+Kropp: Lett til medium kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>K&ouml;stritzer Schwarzbier, &Oslash;rb&aelig;k Dark Horse, Krusovice Cerne (dark).</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#2f</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Klassisk r&oslash;yk&oslash;l</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Lager</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>7</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0480000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0580000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>38.0710660</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>R&oslash;yk&oslash;l skal ha en tydelig r&oslash;ykt karakter i b&aring;de smak og duft fra tysk r&oslash;ykmalt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: En r&oslash;ykt maltaroma som kan variere fra svak til kraftig, med karakter av bacon og r&oslash;kt skinke. Humlearoma kjennes ikke. DMS og diacetyl skal ikke forekomme.
+Farge/utseende: Ravfarget til m&oslash;rk r&oslash;dbrun. Klar til lett t&aring;kete.
+Smak: Middels til kraftig maltsmak, med karakter av br&oslash;d, kjeks og karamell. R&oslash;yksmak fra svak til kraftig. Svak til middels bitterhet, uten smak fra humlen.
+Kropp: Medium kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Aecht Schlenkerla Rauchbier M&auml;rzen, Spezial Rauchbier M&auml;rzen.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#2g</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Helles Bock/Maibock</F_S_NAME>
+<F_S_CATEGORY>Bock</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>3</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0660000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0680000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>5.5837563</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>10.1522843</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.3000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En lys og velhumlet bock til v&aring;r og sommer.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma av pilsnermalt, eventuelt med ytterligere karakter av br&oslash;dskorpe og ristet br&oslash;d. Frav&aelig;rende til middels humlearoma fra mellomeuropeisk humle. Frav&aelig;rende til svakt niv&aring; av fruktestere, alkohol og DMS. Diacetyl skal ikke forekomme.
+Farge/Utseende: Gylden til lys ravfarget. Klar.
+Smak: Middels til kraftig s&oslash;t maltsmak. Middels til kraftig bitterhet, men kun svak til middels humlesmak.
+Kropp: Medium til fyldig kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>&AElig;gir Maibokk, Einbecker Ur-Bock Hell, Einbecker Mai-Ur-Bock, Andechser Bergbock Hell.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#3a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Bock</F_S_NAME>
+<F_S_CATEGORY>Bock</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>3</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0660000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0740000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0180000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0240000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.4568528</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.3000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Bock er et s&oslash;tt og fyldig &oslash;l, som er helt dominert av malt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til meget kraftig maltaroma, med karakter av br&oslash;dskorpe og kjeks. Stort sett frav&aelig;rende humlearoma. Fra frav&aelig;rende til svakt niv&aring; av fruktester og alkohol, som kan gi karakter av t&oslash;rket frukt. DMS og diacetyl skal ikke forekomme.
+Farge/Utseende: Kobberfarget til r&oslash;dbrun. Klar.
+Smak: Middels til kraftig, s&oslash;t og maltet smak, med tydelige innslag av alkohol. S&oslash;dmen balanseres av humlebitterhet, men uten humlesmak. Svakt niv&aring; av fruktestere.
+Kropp: Medium til fyldig kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Borg Bokk&oslash;l, Frydenlund Bokk&oslash;l, Mack Bok&oslash;l, Aass Bokk&oslash;l, Einbecker Ur-Bock Dunkel, Kulmbacher M&ouml;nchshof Bockbier</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#3b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Doppelbock</F_S_NAME>
+<F_S_CATEGORY>Bock</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>3</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0740000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0800000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0200000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0280000</F_S_MAX_FG>
+<F_S_MIN_IBU>17.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>27.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>17.7664975</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>48.2233503</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.8000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Vin&oslash;s og kraftig, en sterkere utgave av Bock.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Kraftig til meget kraftig maltaroma, med karakter av br&oslash;d og karamell. Sjokoladenoter kan forekomme i m&oslash;rkere utgaver, men aldri ristet karakter. En kombinasjon av fruktester, lagring og alkohol kan gi en vin&oslash;s karakter av t&oslash;rket frukt. Humlearoma skal ikke kjennes. DMS og diacetyl skal ikke forekomme.
+Farge/utseende: M&oslash;rk kobberfarget til r&oslash;dsvart. Klar.
+Smak: Kraftig til meget kraftig, s&oslash;t og vin&oslash;s maltsmak, med noter at t&oslash;rket frukt, br&oslash;d og sjokolade. &Oslash;let er s&oslash;tt, men skal ikke v&aelig;re kvalmende. Varmende alkohol. Svak humlebitterhet. Bitterhet fra ristet malt skal ikke smakes.
+Kropp: Fyldig kropp.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Ringnes Julebokk, Weltenburger Asam Bock, Ayinger Celebrator, Weiheinstephaner Korbinian.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#3c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Eisbock</F_S_NAME>
+<F_S_CATEGORY>Bock</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>3</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0780000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1200000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0200000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0350000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>8.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>14.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En ekstra sterk bock (ofte doppelbock) hvis karakter konsentreres og forsterkes ved at den fryses og isen fjernes fra &oslash;let.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig aroma av alkohol, med vin&oslash;se noter av t&oslash;rket frukt. Kraftig til meget kraftig maltaroma, med karakter av br&oslash;d og karamell. Humlearoma skal ikke kjennes.
+Farge/Utseende: Kobberfarget til m&oslash;rk r&oslash;dbrun, svak skumdannelse er tillatt, p&aring; grunn av det h&oslash;ye innhold av alkohol. Klar.
+Smak: Kraftig til meget kraftig s&oslash;t maltsmak. &Oslash;let er s&oslash;tt, men skal ikke v&aelig;re kvalmende. Varmende alkohol. Svak humlebitterhet.
+Kropp: Fyldig kropp. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Kulmbacher EKU 28, Kulmbacher Eisbock.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#3d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Engelsk ordinary bitter</F_S_NAME>
+<F_S_CATEGORY>Lys Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0330000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0390000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.2000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>7.6142132</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>15.2284264</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>3.9000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Den mildeste av de lyse engelske aletypene.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Lav til middels engelsk humlearoma, lav til middels maltaroma, med karakter av blant annet karamell. Frav&aelig;rende til lavt niv&aring; av fruktestere. Frav&aelig;rende til lavt niv&aring; av diacetyl.
+Farge/utseende: Lys ravfarget til kobberfarget, svak skumdannelse er tillatt. Klar til lett t&aring;kete.
+Smak: Middels til kraftig humlesmak og -bitterhet. Humlesmaken skal v&aelig;re fra engelsk humle. Lav til middels maltsmak, med karakter av toffee, karamell og lyst br&oslash;d.
+Kropp: Lett til medium kropp. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Fullers Chiswick Bitter, Cains IPA, Jennings Lakeland Bitter.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#4a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Engelsk best bitter</F_S_NAME>
+<F_S_CATEGORY>Lys Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0460000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.1000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>12.6903553</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.7664975</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.8000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION></F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Lav til middels engelsk humlearoma, lav til middels maltaroma, med karakter av blant annet karamell. Frav&aelig;rende til lavt niv&aring; av fruktestere. Frav&aelig;rende til lavt niv&aring; av diacetyl.
+Farge/utseende: Kobberfarget, svak skumdannelse er tillatt. Klar til lett t&aring;kete.
+Smak: Middels til kraftig humlesmak og -bitterhet. Humlesmaken skal v&aelig;re fra engelsk humle. Lav til middels maltsmak, med karakter av toffee, karamell og lyst br&oslash;d.
+Kropp: Medium kropp. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;gne &Oslash; Bitter, Inder&oslash;y Hommel&oslash;l, Kinn Pilegrim, Fullers London Pride, Greene King Ruddles County Bitter.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#4b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Engelsk Strong Bitter/Engelsk Pale Ale</F_S_NAME>
+<F_S_CATEGORY>Lys Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>45.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.4000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>12.6903553</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>20.3045685</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Engelsk Pale ale er typisk en flasket utgave av den sterkeste engelske bitter.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Lav til middels engelsk humlearoma, lav til middels maltaroma, med karakter av blant annet karamell. Frav&aelig;rende til lavt niv&aring; av fruktestere. Frav&aelig;rende til lavt niv&aring; av diacetyl.
+Farge/utseende: Lys til m&oslash;rk kobberfarget. Klar til lett t&aring;kete.
+Smak: Middels til kraftig humlesmak og -bitterhet. Humlesmaken skal v&aelig;re fra engelsk humle. Lav til middels maltsmak, med karakter av toffee, karamell og lyst br&oslash;d. Noe rests&oslash;dme kan v&aelig;re til stede.
+Kropp: Medium til fyldig kropp. Lavt kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Fullers ESB, Young&rsquo;s Spesial London Ale, Shepherd Neame Bishops Finger, Greene King Abbot Ale.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#4c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Engelsk Golden Ale</F_S_NAME>
+<F_S_CATEGORY>Lys Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.5380711</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>7.6142132</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Utviklet som et real ale-alternativ til pilsner&oslash;l. Skal v&aelig;re lett og forfriskende. Brygges typisk p&aring; pilsner/pale malt og eventuelt litt hvetemalt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Duft/Aroma: Middels til kraftig humlearoma, med karakter av engelske eller amerikanske typer. Svak til middels maltaroma, typisk med karakter av lyst br&oslash;d. Frav&aelig;rende til lavt niv&aring; av fruktestere. DMS og diacetyl skal v&aelig;re frav&aelig;rende.
+Farge/utseende: Lys halmgul til gylden. Klar til lett t&aring;kete.
+Smak: Middels til kraftig humlesmak og -bitterhet. Maltsmaken skal v&aelig;re lav til middels. Rests&oslash;dme kan forekomme, men i balanse med humlen.
+Kropp: Lav til medium kropp. Lav til middels kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>&AElig;gir B&oslash;yla Blonde Ale, Trollbryggeriet Slogen Lys Ale, &Oslash;lve Sigrid &Oslash;l, Fullers Discovery, Badger Golden Champion, Brewdog Trashy Blonde.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#4d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Amerikansk Pale Ale</F_S_NAME>
+<F_S_CATEGORY>Lys Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>6.0913706</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>14.2131980</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.4000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.9000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En etterhvert klassisk amerikansk &oslash;ltype, som er en mer humlet utgave av engelske pale ale. Typisk med markant duft og smak fra amerikanske humletyper.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig humlearoma, fra amerikansk humle. Frav&aelig;rende til svak maltaroma, typisk med karakter av karamell. DMS og diacetyl skal v&aelig;re frav&aelig;rende.
+Farge/utseende: Gyldengul til kobberfarget. Klar til lett t&aring;kete.
+Smak: Middels til kraftig humlesmak og -bitterhet. Svak maltsmak.
+Kropp: Medium kropp. Middels til kraftig kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Haandbryggeriet Pale Ale, Lervig Lucky Jack, N&oslash;gne &Oslash; Pale Ale, Sierra Nevada Pale Ale.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#4e</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>California Common/Steam Beer</F_S_NAME>
+<F_S_CATEGORY>Lys Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>6</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0550000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0110000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>8.1218274</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>15.2284264</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En &oslash;ltype som oppstod da man ikke kunne gj&aelig;re ved lagertemperatur i varmen i Amerika.</F_S_DESCRIPTION>
+<F_S_PROFILE>Duft/Aroma: Svak til middels maltaroma, med karakter av karamell og br&oslash;dskorpe. Svak til middels aroma av mellomeuropeisk humle. Svakt niv&aring; av fruktestere, med karakter av r&oslash;de epler og plommer. En svakt svovelaktig aroma fra gj&aelig;ringen med lagerg&aelig;r. DMS og diacetyl skal ikke forekomme.
+Farge/utseende: Ravfarget til kobberfarget. Klar til lett t&aring;kete.
+Smak: Middels maltsmak, med karakter av karamell og br&oslash;dskorpe. Middels, mellomeruopeisk humlesmak og bitterhet, som er i balanse med malten. Ettersmaken domineres av humle.
+Kropp: Medium kropp, middels til h&oslash;yt kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Anchor Steam Beer, Oslo Mikrobryggeri Steamer.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#4f</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>K&ouml;lsch</F_S_NAME>
+<F_S_CATEGORY>Lys Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>7</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>1.0420000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0460000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0304569</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>7.1065990</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.1000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>K&ouml;lsch er overgj&aelig;ret og lagret ved lav temperatur. Et t&oslash;rt og forfriskende &oslash;l.</F_S_DESCRIPTION>
+<F_S_PROFILE>Duft/aroma: Frav&aelig;rende til svak br&oslash;daktig maltaroma, vin&oslash;se fruktestere og mellomeruopeisk humle. Svake pepperaktige krydrede noter kan forekomme. DMS kan forekomme.
+Farge/utseende: Lys halmgul til lys gylden. Klar til lett t&aring;kete.
+Smak: Frav&aelig;rende til svak br&oslash;daktig maltsmak, vin&oslash;se fruktestere og mellomeruopeisk humle.
+Kropp: Lett kropp. H&oslash;yt kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Inder&oslash;y Kvamsholmer, &AElig;gir Kvase K&oslash;lsch, Gaffel K&ouml;lsch, Dom K&ouml;lsch, Fr&uuml;h K&ouml;lsch.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#4g</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Irsk R&oslash;d</F_S_NAME>
+<F_S_CATEGORY>Lys Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>8</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>17.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>28.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.3000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>9.1370558</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.7664975</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Et balansert &oslash;l med moderat maltkarakter som kan ha toner av karamell og ristet eller brent malt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Domineres av ristet malt med noe karamellkarakter. Svak til frav&aelig;rende fruktighet. Frav&aelig;rende til svak duft av engelske humletyper. Frav&aelig;rende til svak diacetyl.
+Farge/utseende: Dyp kobber til brunr&oslash;d farge. Tykt lyst skum. Klar til lett t&aring;ket.
+Smak: Moderat karamellsmak og s&oslash;dme. Svak til middels ristet malt i avslutningen som gj&oslash;r at &oslash;let virker t&oslash;rt. Kan ha svak karakter av engelske humletyper. Lav til middels humlebitterhet.
+Kropp: Lett til middels kropp. Lav til middels karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>O&rsquo;hara&rsquo;s Irish red, Murphy&rsquo;s Irish red, Kilkenny</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#4h</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Amerikansk Amber</F_S_NAME>
+<F_S_CATEGORY>Lys Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>9</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0450000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0650000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>60.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.7664975</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Et velhumlet men samtidig maltrikt &oslash;l med tydelig karakter av karamellmalt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels maltaroma med karakter av karamell. Middels til kraftig humlearoma som kan ha karakter av sitrus, blomster, harpiks/furun&aring;l, fersken eller tropiske frukter. Humlen skal dominere eventuelle fruktestere. Ingen diacetyl.
+Farge/Utseende: Kobberr&oslash;d til brunr&oslash;d. Kremfarget til lyst brunt varig skum. Klar til lett t&aring;kete.
+Smak: Middels s&oslash;t maltsmak som f&oslash;lges av karamellmalt. Middels til sterk humlesmak og -bitterhet.
+Kropp: Medium til fyldig kropp. Middels karbonering</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Meantime Yakima Red (litt svak p&aring; 4,1 vol%), &AElig;gir Rallar amber, Lervig Hoppy Joe, Brew Dog 5 am saint, North Coast Red Seal ale</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#4i</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Engelsk Brown Ale</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>17.7664975</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>25.3807107</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.1000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>&Oslash;ltypen dekker den nordengelske brown ale-type, som er lysere og mindre s&oslash;t enn den historiske s&oslash;rengelske typen.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med karakter av karamell og toffee. Svakt til middels niv&aring; av fruktester. Fra frav&aelig;rende til svakt niv&aring; av diacetyl.
+Utseende: M&oslash;rk kobberfarget til r&oslash;dbrun. Klar til lett t&aring;kete.
+Smak: Middels til kraftig maltsmak, med karakter av karamell og toffee. En svak note av ristet br&oslash;d kan forekomme. Svak til middels bitterhet, uten smak av humlen.
+Kropp: Svak til medium kropp, middels kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Hansa Waldemars Brown Ale, Lervig Betty Brown, Mack Ludwig Premium Brown Ale, Newcastle Brown Ale, Samuel Smith&rsquo;s Nut Brown Ale.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#5a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Amerikansk Brown Ale</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0170000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>60.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.3045685</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.4568528</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>M&oslash;rkere og kraftigere enn engelsk brown ale, med markant karakter av amerikanske humletyper.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, is&aelig;r med karakter av sjokolade og karamell. Svak til middels humlearoma av amerikanske typer, is&aelig;r med sitruspreg. Fra frav&aelig;rende til svakt niv&aring; av fruktestere. Diacetyl skal ikke forekomme.
+Utseende: M&oslash;rk kobberfarget til r&oslash;dbrun. Klar til lett t&aring;kete.
+Smak: Middels til kraftig maltsmak, med karakter av sjokolade, ristet br&oslash;d og karamell. Svak til middels humlesmak og bitterhet. Lett ristet ettersmak kan forekomme.
+Kropp: Svak til medium kropp, middels til h&oslash;yt kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;gne &Oslash; Brown Ale, Brooklyn Brown Ale, Mikkeller Jackie Brown.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#5b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Engelsk Dark Mild</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>0.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0400000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>10.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>24.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.3000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>17.7664975</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>40.6091371</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Et lett &oslash;l, ofte kun tilgjengelig p&aring; cask, da holdbarheten gjerne er d&aring;rlig.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, som kan ha karakter av karamell, toffee, kjeks, lys sjokolade og ristet br&oslash;d. Svakt til middels niv&aring; av fruktestere, som kan ha karakter av plommer og rosiner. Frav&aelig;rende til svak engelsk humlearoma.
+Farge/utseende: Kobber til m&oslash;rkebrun, svak skumdannelse er tillatt. Lett t&aring;kete.
+Smak: Svak til middels maltsmak, som kan ha karakter av karamell, toffee, kjeks, sjokolade, lakris, m&oslash;rk sirup og ristet malt. Middels til kraftig malts&oslash;dme. Svak til middels niv&aring; av fruktestere, som kan ha karakter av plommer og rosiner. Svak bitterhet, uten smak av humlen.
+Kropp: Lett til medium kropp. Lavt kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Kinn Mild Ale, Brains Dark Mild, St. Peters Mild, Cains Dark Mild.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#5c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Altbier</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0090000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>12.6903553</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>20.3045685</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Overgj&aelig;ret, men kaldtlagret tradisjonell tysk &oslash;ltype fra D&uuml;sseldorf og omegn.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, med karakter av br&oslash;d, karamell og eventuelt lys sjokolade. Svak til middels, mellomeruopeisk humlearoma. Frav&aelig;rende til svakt niv&aring; av fruktestere. DMS og diacetyl skal ikke forekomme.
+Farge/utseende: Kobberfarget til m&oslash;rk kobberfarget. Klar til lett t&aring;kete.
+Smak: Middels til kraftig maltsmak, is&aelig;r med karakter av br&oslash;d. Middels humlesmak og bitterhet.
+Kropp: Medium kropp. Middels til h&oslash;yt kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>&AElig;gir Altbier, Pinkus Original M&uuml;nstersch Ale, Diebels Alt, Uerige Alt.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#5d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Skotsk Ale</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0300000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>9.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.3000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>8.1218274</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.4568528</F_S_MAX_COLOR>
+<F_S_MIN_ABV>2.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Den skotske ale er if&oslash;lge tradisjonen mer maltet og mindre humlet enn den engelske bitter.</F_S_DESCRIPTION>
+<F_S_PROFILE>Duft/Aroma: Svak til middels maltaroma, is&aelig;r med karakter av kjeks og karamell. Svake niv&aring;er av fruktestere og diacetyl kan forekomme. Frav&aelig;rende til svak humlearoma.
+Farge/utseende: Ravfarget til brun. Klar til lett t&aring;kete.
+Smak: Svak til middels maltsmak og malts&oslash;dme, is&aelig;r med karakter av karamell. Svak humlebitterhet. Ristet malt kan bidra med en t&oslash;rr avslutning.
+Kropp: Lett til medium kropp. Lavt til middels kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Belhaven Scottish Ale, Belhaven St. Andrews Ale, Orkney Red McGregor, Caledonian 80/-</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#5e</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Skotsk Sterk Ale/Wee Heavy</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>6</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0650000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0860000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0240000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.6000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.4000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.3045685</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>45.6852792</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.4000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>S&oslash;t og vin&oslash;s kraftig utgave av den skotske ale.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med karakter av kjeks og karamell. Svakt til middels niv&aring; av vin&oslash;se fruktestere og alkohol. Frav&aelig;rende til svakt niv&aring; av diacetyl. Humlearoma forekommer ikke.
+Farge/Utseende: M&oslash;rk kobberfarget til r&oslash;dsort. Klar til lett t&aring;kete.
+Smak: Kraftig maltsmak, med karakter av karamell. Middels til kraftig malts&oslash;dme, dog balansert av bitterhet slik at &oslash;let ikke virker kvalmende. Svak til middels vin&oslash;s alkoholkarakter, med preg av rosiner og andre t&oslash;rkede frukter. En smule ristet karakter kan forekomme.
+Kropp: Fyldig kropp. Lav til middels kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Traquair House Ale, Belhaven Wee Heavy.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#5f</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Engelsk Old/Strong Ale</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>7</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0600000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0800000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>22.8426396</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Et s&oslash;tt og maltdomineret &oslash;l, i omr&aring;det mellom Strong Bitter og Barley wine. Syrlige langtidslagret eksempler h&oslash;rer ikke inn under denne &oslash;ltypen.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Kraftig maltaroma, med karakter av kjeks og karamell. Middels til kraftig niv&aring; av fruktestere, herunder et vin&oslash;st preg av t&oslash;rket frukt. Frav&aelig;rende til svak humlearoma, av engelske typer. Frav&aelig;rende til svakt niv&aring; av alkohol. Diacetyl skal ikke forekomme.
+Farge/Utseende: Ravfarget til m&oslash;rk kobberfarget, svak skumdannelse er tillatt. Klar til lett t&aring;kete.
+Smak: Kraftig maltaroma, med karakter av kjeks og karamell. Et svakt niv&aring; av ristede noter og sjokolade kan forekomme. Svak til kraftig malts&oslash;dme. Svakt til middels niv&aring; av t&oslash;rket frukt og vin&oslash;s alkohol. Svak til middels humlesmak og bitterhet.
+Kropp: Medium til fyldig kropp, lavt kullsyreinnhold.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Haandbryggeriet Nissemor, Aass Jule&oslash;l Premium, Theakston&rsquo;s Old Peculier, Fullers 1845.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#5g</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Engelsk IPA</F_S_NAME>
+<F_S_CATEGORY>IPA</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>6</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0500000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0750000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>40.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>60.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>7.6142132</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.7664975</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kraftig humlet pale ale, med engelske humletyper. Blant engelske bryggerier brukes benevnelsen IPA oftest til &oslash;l som ikke er mer humlet enn deres standard&oslash;l. Slike &oslash;l h&oslash;rer hjemme i en av bitter-kategoriene.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, med karakter av karamell og kjeks. Middels til kraftig humlearoma, som kan ha karakter av gress, blomster eller harpiks/furun&aring;ler. Frav&aelig;rende til svakt niv&aring; av fruktestere. Diacetyl skal ikke forekomme.
+Farge/utseende: Lys ravfarget til kobberfarget. Klar til lett t&aring;kete. Stort og holdbart skum.
+Smak: Svak til middels s&oslash;tlig maltsmak, med karakter av karamell og kjeks. Middels til kraftig humlesmak og bitterhet.
+Kropp: Medium kropp, middels karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Haandbryggeriet India Pale Ale (kun tidlige utgaver), Inder&oslash;y Barsk (egentlig for alkoholsvak), Marstons Old Empire, N&oslash;rrebro Bombay Pale Ale, Brooklyn East India Pale Ale.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#6a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Amerikansk IPA</F_S_NAME>
+<F_S_CATEGORY>IPA</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>6</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0560000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0750000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>40.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>60.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>7.6142132</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.7664975</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kraftig humlet pale ale med amerikanske humletyper. Mer alkoholsterk og smaksrik enn amerikansk pale ale.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak maltaroma, med karakter av karamell. Middels til kraftig humlearoma, som kan ha karakter av sitrus (appelsin, sitron, lime, grapefrukt), blomster, harpiks/furun&aring;l, fersken eller tropisk frukt. Humlen skal overd&oslash;ve eventuelle fruktestere. Diacetyl skal ikke forekomme.
+Farge/Utseende: Ravfarget til kobberfarget. Klar til lett t&aring;kete. Stort og holdbart skum.
+Smak: Svak karamelagtig maltsmak. Eksemplerne kan v&aelig;re fra meget t&oslash;rre til lett s&oslash;te. Middels til kraftig humlesmak og bitterhet.
+Kropp: Medium kropp, middels karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;gne &Oslash; India Pale Ale, Haandbryggeriet India Pale Ale (siden 2010), Amager IPA, Mikkeller Green Gold (og mange andre fra Mikkeller), Great Divide Titan IPA.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#6b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Imperial IPA</F_S_NAME>
+<F_S_CATEGORY>IPA</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>6</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0750000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0900000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>60.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>100.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>22.8426396</F_S_MAX_COLOR>
+<F_S_MIN_ABV>7.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>10.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>&Oslash;ltypen er en hovedsakelig amerikansk videreutvikling av den &rdquo;klassiske&rdquo; IPA, og gir humleentusiaster fritt spill.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til kraftig maltaroma, med karakter av br&oslash;d, kjeks og karamell. Kraftig til meget kraftig humlearoma, som kan ha karakter av sitrus (appelsin, sitron, lime, grapefrukt), blomst, harpiks/furun&aring;l, fersken eller tropisk frukt. Humlen skal overd&oslash;ve eventuelle fruktestere. Vin&oslash;s alkohol kan duftes, men skal ikke dominere. Diacetyl skal ikke forekomme.
+Farge/Utseende: Ravfarget til m&oslash;rk kobberfarget. Klar til lett t&aring;kete. Stort og holdbart skum.
+Smak: Svak til kraftig maltsmak, som kan v&aelig;re litt s&oslash;t til meget s&oslash;t. Kraftig til meget kraftig humlesmak og bitterhet.
+Kropp: Medium til fyldig kropp, middels karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Haandbryggeriet Dobbel Dose, N&oslash;gne &Oslash; Two Captains IPA, N&oslash;gne &Oslash; Imperial IPA (#500), Great Divide Hercules Double IPA, Stone Ruination IPA.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#6c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Sort IPA</F_S_NAME>
+<F_S_CATEGORY>IPA</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>6</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0560000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0750000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>40.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>60.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>30.4568528</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>60.9137056</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.7000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En amerikansk IPA som er m&oslash;rk brun eller sort, men som har lite karakter av m&oslash;rk malt i b&aring;de aroma og smak.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak maltaroma med svak til frav&aelig;rende karakter av brentmalt. Middels til kraftig humlearoma som kan ha karakter av sitrus, blomster, harpiks/furun&aring;l, fersken eller tropiske frukter. Humlen skal dominere eventuelle fruktestere. Ingen diacetyl.
+Farge/Utseende: M&oslash;rk brun til sort. Kremfarget til lyst brunt varig skum. Klar til lett t&aring;ket.
+Smak: Svak karamell og brentmalt. Meget t&oslash;rr til lett s&oslash;lt. Middels til kraftig humlesmak og bitterhet.
+Kropp: Medium kropp, middels karbonering</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>7 fjell Svartediket</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#6d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Weizen (sydtysk)</F_S_NAME>
+<F_S_CATEGORY>Hvete&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>7</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>10.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>15.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>4.0609137</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>10.1522843</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.9000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Et tradisjonelt sydtysk hvete&oslash;l, med markant preg fra hvete&oslash;lgj&aelig;r.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, med karakter av fersk loff. Ingen humlearoma. Middels til kraftig niv&aring; av fruktestere og fenoler. Fruktesterne er spesielt banan, men ogs&aring; sitron kan forekomme. Den fenoliske karakteren beskrives ofte som kryddernellik, med noter av muskat og kokt skinke. Svak aroma av gj&aelig;r. Diacetyl skal ikke forekomme.
+Farge/Utseende: Halmgul til ravfarget med kraftig skum. Lett til kraftig t&aring;kete.
+Smak: Svakt til middels maltsmak, med karakter av fersk loff. Frav&aelig;rende til svak bitterhet, uten smak av humlen. Svakt til kraftig niv&aring; av fruktestere og fenoler. Kan ha en fruktaktig s&oslash;dme.
+Kropp: Medium til fyldig kropp. H&oslash;yt kullsyreniv&aring;.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Weihenstephaner Hefe, Schneider Weisse Tap 1 Mein Blondes, Erdinger Hefe Weisse, Pinkus Hefe Weissen, Weltenburger Weissbier Hell, Haandbryggeriet Bavarian Weizen, Waldemars Hvete&oslash;l.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#7a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Dunkelweizen</F_S_NAME>
+<F_S_CATEGORY>Hvete&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>7</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>10.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>15.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>40.6091371</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.9000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Det tradisjonelle sydtyske hvete&oslash;l, med innslag av m&oslash;rkere malt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, med karakter av fersk loff, karamell og lys sjokolade. Ingen humlearoma. Middels til kraftig niv&aring; av fruktestere og fenoler. Fruktesterne er spesielt banan, men ogs&aring; sitron kan forekomme. Den fenoliske karakteren beskrives ofte som kryddernellik, med noter av muskat og kokt skinke. Svak aroma av gj&aelig;r. Diacetyl skal ikke forekomme.
+Farge/Utseende: Kobberfarget til m&oslash;rkebrun med kraftig skum. Lett til kraftig t&aring;kete.
+Smak: Svak til middels maltsmak, som kan ha karakter av ristet br&oslash;d, fersk loff, karamell, sjokolade eller en smule lakris. Den ristede karakter er ikke en n&oslash;dvendighet. Frav&aelig;rende til svak bitterhet, uten smak av humlen. Svakt til kraftig niv&aring; av fruktestere og fenoler. Kan ha en fruktaktig s&oslash;dme.
+Kropp: Medium kropp. H&oslash;y karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Erdinger Weissbier Dunkel, Paulaner Hefe-Weissbier Dunkel, Weihenstephaner HefeWeissbier Dunkel.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#7b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Belgisk Wit</F_S_NAME>
+<F_S_CATEGORY>Hvete&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>7</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.5380711</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>5.0761421</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.3000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Tradisjonel belgisk hvete&oslash;l, brygget p&aring; umaltet hvete, med markant karakter av bitter-appelsinskall og koriander.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak br&oslash;daktig aroma av hvete. Ingen humlearoma. Middels til kraftig duft av koriander og appelsinskall. Diacetyl skal ikke forekomme.
+Farge/Utseende: Lyst halmgul til halmgul med kraftig skum. Lett til kraftig t&aring;kete.
+Smak: Svak til middels smak av umaltet hvete. Svak bitterhet fra b&aring;de humle og appelsinskall. Middels til kraftig smak av koriander og appelsinskall. Det kan forekomme noter av vanilje. &Oslash;let skal v&aelig;re t&oslash;rt og kan ha et innslag av melkesyre.
+Kropp: Lett til medium kropp. H&oslash;y karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Lervig White Dog, N&oslash;gne &Oslash; Wit, Heoegaarden Wit.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#7c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Weizenbock</F_S_NAME>
+<F_S_CATEGORY>Hvete&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>7</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0640000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0900000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0150000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0220000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>13.1979695</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>45.6852792</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En sterk overgj&aelig;ret &oslash;l, som kanskje kan sies &aring; ta bocken inn i hvete&oslash;let.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Medium til kraftig maltaroma, med karakter av br&oslash;d, kjeks, karamell og sjokolade. Noter av banan og nellik kan v&aelig;re fra svak til kraftig. Humlearoma, DMS og diacetyl skal ikke forekomme.
+Farge/Utseende: Kobberfarget til brunsort. Lett til kraftig t&aring;ke.
+Smak: Middels til kraftig, s&oslash;t maltsmak, lett ristede noter kan forekomme. Noter av banan og nellik kan v&aelig;re svake til kraftige. Humlesmak og bitterhet merkes ikke. Varmende alkohol p&aring; svakt niv&aring;.
+Kropp: Medium til fyldig kropp. Middels til h&oslash;y karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Schneider Aventinus, Erdinger Pikantus, Weihenstephan Vitus, Indslev Hvete Bock.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#7d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Dry Stout</F_S_NAME>
+<F_S_CATEGORY>Porter/Stout</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>8</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0360000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0070000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0110000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.6000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>40.6091371</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>0.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>I hjemmebryggersammenheng er forskjellen p&aring; stout og porter at stouten er preget av ristet bygg og har en hardt ristet karakter, mens porteren er rundere og bl&oslash;tere. I kommersiell sammenheng er grensen ofte mer flytende.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Dominert av hardt ristede og kaffeaktige noter, som f&oslash;lges av sjokolade og toffee. Frav&aelig;rende til middels niv&aring; av fruktestere. Diacetyl skal v&aelig;re frav&aelig;rende. Frav&aelig;rende til svak duft av engelske humletyper.
+Farge/Utseende: R&oslash;dsort til sort, med kraftig skum, som er hvitt til kremfarget. Klar til lett t&aring;kete.
+Smak: Middels til kraftig ristet smak, som kan ha karakter av kaffe, sjokolade, lakris og korn. Brent karakter og middels humlebitterhet karakteriserer ettersmaken. En viss syrlighet fra det ristede kornet kan imidlertid forekomme, men er ikke n&oslash;dvendig.
+Kropp: Lett kropp. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Berentsen Sorte F&aring;r, Kinn Svart Hav, Guinness Draught, Murphy&rsquo;s Irish Stout. De store irske bryggeriene bruker blandingsgass, som man i hjemmebryggersammenheng skal se bort fra.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#8a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Sweet stout</F_S_NAME>
+<F_S_CATEGORY>Porter/Stout</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>8</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0660000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0220000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.4000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>35.5329949</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.7614213</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.7000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Sweet stout er en samlebetegnelse for forskjellige typer s&oslash;te stouts. Milk stout er tradisjonelt brygget med laktose, og markedsf&oslash;rt som en n&aelig;rende &oslash;l til barn og gravide. Andre typer sweet stout under navn som oyster stout eller cream stout, skiller seg fra dry stout med en grunnleggende s&oslash;dme.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med karakter av toffee, karamell, s&oslash;t lakris, melkesjokolade eller kaffe. Frav&aelig;rende til lavt niv&aring; av fruktestere. Humle skal v&aelig;re frav&aelig;rende. Frav&aelig;rende til lavt niv&aring; av diacetyl.
+Farge/Utseende: M&oslash;rkebrun til svart, med kraftig skum, som er hvitt til kremfarget. Klar til lett t&aring;kete.
+Smak: Middels til kraftig ristet smak, balansert av en grunnleggende s&oslash;dme. Karakter av sjokolade, toffee, karamell eller lakris. En brent note kan forekomme. I meget s&oslash;te eksempler kan laktosen smake som sukker og lys melkesjokolade. I andre eksempler kan s&oslash;dmen stamme utelukkende fra maltens dekstriner. Humlesmaken skal v&aelig;re frav&aelig;rende og bitterheten skal v&aelig;re svak.
+Kropp: Medium til kraftig kropp. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Left Hand Milk Stout, Marstons Oyster Stout, St. Peter&rsquo;s Cream Stout, Mackeson&rsquo;s XXX Stout (milk stout).</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#8b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Oatmeal stout</F_S_NAME>
+<F_S_CATEGORY>Porter/Stout</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>8</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0470000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0110000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>45.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.9000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>35.5329949</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.7614213</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En stout som tar karakter fra et visst innhold av havre.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med karakter av toffee, karamell, sjokolade, kjeks, korn, lakris eller kaffe. Frav&aelig;rende til svakt niv&aring; av fruktestere. Humle skal v&aelig;re frav&aelig;rende. Diacetyl skal ikke forekomme.
+Farge/Utseende: M&oslash;rkebrun til svart, med kraftig skum som er hvitt til kremfarget. Klar til lett t&aring;kete.
+Smak: Middels til kraftig ristet smak balansert av en viss malts&oslash;dme. Karakter av sjokolade, toffee, karamell eller lakris. Svak til kraftig karakter av havre. Humlesmaken skal v&aelig;re frav&aelig;rende til svak, og bitterheten skal v&aelig;re svak til middels.
+Kropp: Medium til kraftig kropp, med en fet og silkebl&oslash;t tekstur. Lav til medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;gne &Oslash; Havre Stout, Samuel Smiths Oatmeal Stout.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#8c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Porter</F_S_NAME>
+<F_S_CATEGORY>Porter/Stout</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>8</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0630000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>25.3807107</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>40.6091371</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>I hjemmebryggersammenheng er forskellen p&aring; stout og porter at stouten er preget av ristet bygg og hardt ristet karakter mens porteren er rundere og mykere. I kommersiell sammenheng er grensen ofte mer flytende.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, som kan ha karakter av toffee, karamell, sjokolade og lakris. Svak til middels niv&aring; av fruktestere, som kan ha karakter av t&oslash;rket frukt. Frav&aelig;rende til svak duft av engelske humletyper. Diacetyl skal ikke forekomme.
+Farge/Utseende: Brun til m&oslash;rkebrun, med kraftig skum som er kremfarget til lys brun. Klar til lett t&aring;kete.
+Smak: Middels til kraftig maltsmak som kan ha karakter av toffee, karamell, sjokolade, kaffe, ristet br&oslash;d og lakris. Humlesmaken skal v&aelig;re frav&aelig;rende til svak, og bitterheten skal v&aelig;re svak til middels.
+Kropp: Medium til kraftig kropp. Svak til medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Samuel Smiths Taddy Porter, Fullers London Porter, Anchor Porter, Haandbryggeriets London Porter.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#8d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Moderne porter og stout</F_S_NAME>
+<F_S_CATEGORY>Porter/Stout</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>8</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0480000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0630000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0220000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>40.6091371</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>0.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Portere og stouts som er kjennetegnet ved &aring; v&aelig;re kraftigere humlet enn de tradisjonelle typer.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, som b&aring;de kan ha den milde porter-karakter og den hardt ristede stout-karakter. Det kan v&aelig;re noter av toffee, karamell, sjokolade, lakris, kaffe, ristet br&oslash;d, kjeks og korn. Middels til kraftig humlearoma &ndash; alle typer tillatt. Svak til middels niv&aring; av fruktestere, som kan v&aelig;re overd&oslash;vet av humlen. Diacetyl skal ikke forekomme.
+Farge/Utseende: R&oslash;dsvart til sort, med kraftig skum som er hvitt til lysebrunt. Klar til lett t&aring;kete.
+Smak: Svak til middels maltsmak som kan ha karakter av toffee, karamell, sjokolade, lakris, kaffe, ristet br&oslash;d, kjeks og korn. Middels til kraftig humlesmak. Middels bitterhet.
+Kropp: Lett til kraftig kropp. Svak til medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Sierra Nevada Porter, Sierra Nevada Stout, J&auml;mtlands Porter.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#8e</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-08</_MOD_>
+<F_S_NAME>Engelsk barley wine</F_S_NAME>
+<F_S_CATEGORY>Sterk &Oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0800000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0180000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0320000</F_S_MAX_FG>
+<F_S_MIN_IBU>50.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>100.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.6000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>12.6903553</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.4568528</F_S_MAX_COLOR>
+<F_S_MIN_ABV>8.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>0.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Engelsk barley wine domineres av vin&oslash;s og kompleks karakter, mens amerikansk barley wine er mer entydig preget av smaks- og aromahumle.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med karakter av kjeks og br&oslash;dskorpe. Middels til kraftig niv&aring; av fruktestere og alkohol, som gir et vin&oslash;st preg, ofte med noter av t&oslash;rket frukt og hetvin. Et sherryaktig oksidert touch, kan v&aelig;re en del av karakteren. Frav&aelig;rende til svak humlearoma. Diacetyl skal ikke forekomme.
+Farge/Utseende: Kobberfarget til r&oslash;dbrun. Ingen eller svak skumdannelse er akseptabelt. Klar til lett t&aring;kete.
+Smak: Kraftig og kompleks maltsmak. Middels til kraftig niv&aring; av fruktestere, som gir karakter av t&oslash;rket frukt. Tydelig, vin&oslash;s alkohol, som likevel ikke skal virke spritaktig. H&oslash;y rests&oslash;dme, som balanseres av en viss bitterhet. En lett, fruktaktig syrlighet som t&oslash;rket aprikos kan forekomme. Frav&aelig;rende til svak humlesmak.
+Kropp: Kraftig kropp. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Lervig Cardinal Winter Wine, Thomas Hardy&rsquo;s Ale, N&oslash;rrebro Little Korkny Ale, Fullers Vintage Ale.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#9a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Amerikansk barley wine</F_S_NAME>
+<F_S_CATEGORY>Sterk &Oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0750000</F_S_MIN_OG>
+<F_S_MAX_OG>0.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0180000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0320000</F_S_MAX_FG>
+<F_S_MIN_IBU>70.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.6000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.4568528</F_S_MAX_COLOR>
+<F_S_MIN_ABV>7.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>0.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Engelsk barley wine domineres av vin&oslash;s og kompleks karakter, mens amerikansk barley wine er mer entydig preget av smaks- og aromahumle.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med karakter av kjeks, karamell og br&oslash;dskorpe. Middels til kraftig duft av amerikanske humletyper. Middels til kraftig niv&aring; av fruktestere og alkohol. Diacetyl skal ikke forekomme.
+Farge/Utseende: M&oslash;rk ravfarget til r&oslash;dbrun. Svak skumdannelse er akseptabel. Klar til lett t&aring;kete.
+Smak: Middels til kraftig, s&oslash;t maltsmak. Middels til kraftig smak av amerikanske humletyper, med h&oslash;y bitterhet. Tydelig alkohol. H&oslash;y rests&oslash;dme, som balanseres av bitterheten.
+Kropp: Kraftig kropp. Lav til middels karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;gne &Oslash; #100, N&oslash;gne &Oslash; Andhrimnir Barley Wine, &AElig;gir Tors Hammer, Anchor Old Foghorn, Sierra Nevada Bigfoot.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#9b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Foreign extra stout</F_S_NAME>
+<F_S_CATEGORY>Sterk &Oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0570000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0760000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0110000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>70.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>40.6091371</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>0.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.1000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kraftigere utgave av enten dry eller sweet stout, opprinnelig brygget til eksport til de tropiske markeder.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig ristet maltaroma som kan ha karakter av lakris, m&oslash;rk sjokolade, karamell eller brun farin. Frav&aelig;rende til lavt niv&aring; av humlearoma. Lavt til middels niv&aring; av fruktestere, som kan ha karakter av t&oslash;rket frukt. Frav&aelig;rende til lavt niv&aring; av vin&oslash;s alkohol, som ikke skal virke spritaktig. Diacetyl skal ikke forekomme.
+Farge/Utseende: Brunsort til sort. Holdbart skum, hvitt til kremfarget. Klar til lett t&aring;kete.
+Smak: Middels til kraftig ristet maltsmak, som kan ha karakter av lakris, m&oslash;rk sjokolade, karamell eller brun farin. B&aring;de s&oslash;te og mer t&oslash;rre eksempler er akseptable. Medium til kraftig humlebitterhet. Kraftig ristet eller brendt ettersmak.
+Kropp: Medium til kraftig kropp. Middels karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Inder&oslash;y Stut, Guinness Foreign Extra Stout, Guinness Spesial Export, Lion Stout (Sri Lanka).</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#9c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Baltisk porter</F_S_NAME>
+<F_S_CATEGORY>Sterk &Oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0640000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0150000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0300000</F_S_MAX_FG>
+<F_S_MIN_IBU>35.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>65.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>30.4568528</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.7614213</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.3000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>9.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Undergj&aelig;ret porter, utviklet som &Oslash;stersj&oslash;landenes versjon av den engelske imperial stout.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Lav til middels ristet maltaroma, som kan ha karakter av lakris, karamell eller brun farin. Frav&aelig;rende til lav humlearoma. Lav til kraftig alkoholkarakter, som eventuelt kan virke alkoholisk. Frav&aelig;rende til middels niv&aring; av fruktestere, som kan ha karakter av t&oslash;rket frukt. Frav&aelig;rende til lavt niv&aring; av DMS. Diacetyl skal ikke forekomme.
+Farge/utseende: M&oslash;rkebrun til sort. Holdbart skum, hvitt til lysebrunt i farge. Klar til lett t&aring;kete.
+Smak: Middels til kraftig s&oslash;tlig maltsmak, som kan ha karakter av lakris, karamell eller brun farin. Ingen brente noter. Middels til kraftig vin&oslash;s alkohol. Lav til middels humlebitterhet, som bare akkurat balanserer s&oslash;dmen.
+Kropp: Medium til kraftig kropp. Middels til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Thisted Limfjordsporter, Carlsberg Carls Porter.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#9d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Imperial stout</F_S_NAME>
+<F_S_CATEGORY>Sterk &Oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0700000</F_S_MIN_OG>
+<F_S_MAX_OG>0.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0140000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0280000</F_S_MAX_FG>
+<F_S_MIN_IBU>50.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>40.6091371</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>0.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>7.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>0.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En bred kategori av kraftige stouts, som inkluderer avdempede engelsk-inspirerte versjoner og voldsommere amerikansk-inspirerte versjoner.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Medium til kraftig ristet maltaroma, som kan ha karakter av sjokolade, karamell, kaffe, lakris, brent malt, soya-saus eller aske. Svak til kraftig humlearoma, alle humletyper er akseptable. Svak til medium vin&oslash;s alkohol, som ikke skal virke spritaktig. Frav&aelig;rende til middels niv&aring; av fruktestere, som kan ha karakter av t&oslash;rket frukt. Diacetyl skal ikke forekomme.
+Farge/utseende: M&oslash;rk r&oslash;dbrun til sort. Klar til lett t&aring;kete.
+Smak: Medium til kraftig ristet maltsmak, som kan ha karakter av sjokolade, karamell, kaffe, lakris, brnd malt eller aske. Svak til kraftig humlesmak. Middels til kraftig humlebitterhet. Malts&oslash;dmen skal v&aelig;re i balanse med humlebitterhet og den ristede bitterhet.
+Kropp: Kraftig kropp. Svak til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Haandbryggeriet Dark Force, N&oslash;gne &Oslash; Imperial Stout, Oslo Mikrobryggeri Chief Imperial Stout, Samuel Smith&rsquo;s Imperial Stout, Brooklyn Black Chocolate Stout, De Molen Hel &amp; Verdoemenis.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#9e</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Belgisk blond</F_S_NAME>
+<F_S_CATEGORY>Lys Belgisk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>10</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0550000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0650000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>10.1522843</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.9000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En lys ale med en forholdsvis lett belgisk karakter.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, med karakter av karamell og br&oslash;dskorpe. Frav&aelig;rende til svak humlearoma, med karakter av europeiske humletyper. Svak til middels niv&aring; av fruktestere, som kan ha karakter av banan, ananas eller tyggegummi. Middels til kraftig niv&aring; av fenoler, som kan v&aelig;re krydrede og syrlige. Frav&aelig;rende til svakt niv&aring; av alkohol, som ikke skal dominere. Diacetyl skal ikke forekomme.
+Farge/utseende: Halmgul til lys ravfarget. Kraftig hvitt skum. Klar til medium t&aring;kete.
+Smak: Svak til middels s&oslash;tlig maltsmak, med karakter av karamell og br&oslash;dskorpe. Svak til middels humlesmak og bitterhet.
+Kropp: Lett til medium kropp. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;gne &Oslash; Blond, La Trappe Blond, Leffe Blond.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#10a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Lys Sterk Belgisk Ale</F_S_NAME>
+<F_S_CATEGORY>Lys Belgisk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>10</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0660000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0070000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0150000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>12.6903553</F_S_MAX_COLOR>
+<F_S_MIN_ABV>7.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>0.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Lyse sterke belgiske ales stammer fra en av to historiske tradisjoner: munkenes tripel og de Duvel-inspirerte gyldne ales. I praksis er det mye overlapp blant de kommersielle eksemplene.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, med karakter av karamell og br&oslash;dskorpe. Frav&aelig;rende til svak humlearoma, med karakter av europeiske humletyper. Middels til kraftig niv&aring; av fruktestere, som kan ha karakter av banan, ananas, sitrus, tyggegummi med mer. Middels til kraftig niv&aring; av fenoler, som kan v&aelig;re krydrede (f.eks. nellik, pepper, koriander og kardemomme), marsipanaktige, syrlige med mer. Svakt til middels niv&aring; av alkohol, som ikke skal virke spritaktig. Diacetyl skal ikke forekomme.
+Farge/utseende: Halmgul til ravfarget. Kraftig hvitt skum. Klar til medium t&aring;kete.
+Smak: Svak til middels s&oslash;tlig maltsmak, med karakter av karamell og br&oslash;dskorpe. Svak til middels humlesmak og bitterhet. Kjennetegnet ved h&oslash;y kompleksitet og en t&oslash;rr avslutning. Svak til kraftig varmende alkohol.
+Kropp: Lett til medium kropp. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Westmalle Tripel, Duvel, Chimay Hvid, Tripel Karmeliet, N&oslash;gne &Oslash; Tiger Tripel.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#10b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Biere de garde</F_S_NAME>
+<F_S_CATEGORY>Lys Belgisk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>10</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0550000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0800000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0110000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>6.0913706</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>15.2284264</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En nordfransk g&aring;rds&oslash;l, som p&aring; grunn av lang og kj&oslash;lig lagring vil ha en god del lager-karakter.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, som kan ha karakter av br&oslash;dskorpe og karamell. Svak humlearoma, med karakter av krydderurter. En svak note av jord og kjeller. De lysere eksemplene skal ha mer humlekarakter, mens de m&oslash;rkere vil ha mer maltkarakter. Diacetyl skal ikke forekomme.
+Farge/utseende: Gylden til kobberfarget. Klar til lett t&aring;kete.
+Smak: Svak til middels maltsmak med en markant malts&oslash;dme. Svak humlesmak og bitterhet.
+Kropp: Medium kropp, middels til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Jenlain Blond, Ch&rsquo;Ti Blond, Jenlain Ambr&eacute;e.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#10c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Saison</F_S_NAME>
+<F_S_CATEGORY>Lys Belgisk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>10</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0500000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0700000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0040000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0150000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>12.6903553</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kompleks og frisk belgisk g&aring;rds&oslash;l, hvor den krydrede karakter overveiende stammer fra gj&aelig;ren.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Frav&aelig;rende til svak maltaroma, som kan ha karakter av lyst br&oslash;d eller karamell. Svak til kraftig humlearoma, som kan ha karakter av gress, krydderurter eller blomster. Middels til kraftig niv&aring; av fruktestere og fenoler, som har karakter av ananas, appelsin og pepper, mens ogs&aring; f.eks. banan, koriander, vanilje eller nellik kan forekomme. Frav&aelig;rende til svakt niv&aring; av alkohol. Diacetyl skal ikke forekomme.
+Farge/utseende: Halmgul til ravfarget. Kraftig hvitt skum. Klar til medium t&aring;kete.
+Smak: Frav&aelig;rende til svak maltsmak, som kan ha karakter av lyst br&oslash;d eller karamell. Svak til kraftig humlesmak, som kan ha karakter av gress, krydderurter eller blomster. Middels til kraftig humlebitterhet. Middels til kraftig niv&aring; av fruktestere og fenoler, som har karakter av ananas, appelsin og pepper, mens ogs&aring; f.eks. banan, koriander, vanilje eller nellik kan forekomme. Frav&aelig;rende til svakt niv&aring; av alkohol.
+Kropp: Medium kropp. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Kinn Sl&aring;tte&oslash;l, N&oslash;gne &Oslash; Saison, Saison Dupont, Silly Saison.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#10d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Belgisk dubbel/bruin</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Belgisk</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>11</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0560000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0700000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>18.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.9000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.4000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En m&oslash;rk belgisk type, i moderat alkoholstyrke, kjent b&aring;de fra klostere og andre belgiske bryggerier.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, som kan ha karakter av karamell, n&oslash;tter, br&oslash;d eller sjokolade. Frav&aelig;rende til svak humlearoma, med karakter fra europeiske humletyper. Medium til kraftig vin&oslash;s karakter av t&oslash;rkede frukter fra alkohol og fruktestere. Svak fenolisk-krydret karakter. Diacetyl skal ikke forekomme.
+Utseende: Lys kobberfarget til m&oslash;rk r&oslash;dbrun. Kraftig kremfarget skum. Klar til medium t&aring;kete.
+Smak: Svak til middels maltsmak, som kan ha karakter av karamell, n&oslash;tter, br&oslash;d eller sjokolade. Frav&aelig;rende til svak humlesmak med medium bitterhet. Medium til kraftig vin&oslash;s karakter av t&oslash;rkede frukter fra alkohol og fruktestere.
+Kropp: Medium til kraftig kropp. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;gne &Oslash; Brun, Westmalle Dubbel, Leffe Brune, Chimay R&oslash;d.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#11a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>M&oslash;rk sterk belgisk ale</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk Belgisk Ale</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>11</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0760000</F_S_MIN_OG>
+<F_S_MAX_OG>0.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0240000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>17.7664975</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>8.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>0.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Den sterkeste belgiske klostertype, kalles ofte for abt eller quadrupel.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels maltaroma, som kan ha karakter av br&oslash;d, n&oslash;tter eller karamell. Ytterligere aroma av karamell, kandis og brun farin fra forgj&aelig;rede sukkertyper. Frav&aelig;rende til svak humlearoma. Medium til kraftig vin&oslash;s karakter av t&oslash;rkede frukter fra alkohol og fruktestere. Frav&aelig;rende til middels fenolisk-krydret karakter. Diacetyl skal ikke forekomme.
+Farge/Utseende: M&oslash;rk kobberfarget til m&oslash;rk r&oslash;dbrun. Kraftig kremfarget skum. Klar til medium t&aring;kete.
+Smak: Svak til middels maltsmak, som kan ha karakter av br&oslash;d, n&oslash;tter eller karamell. Ytterligere smak av karamell, kandis og brun farin fra forgj&aelig;rede sukkertyper. Frav&aelig;rende til svak humlesmak. Svak til middels humlebitterhet, som oftest bare s&aring;vidt balanserer s&oslash;dmen. Medium til kraftig vin&oslash;s karakter av t&oslash;rkede frukter fra alkohol og fruktestere. Alkoholen kan oppleves som kraftig varmende, men skal ikke virke spritaktig.
+Kropp: Medium til kraftig kropp. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Rochefort 10, La Trappe Quadrupel, Bl&aring; Chimay.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#11b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Gueuze lambic</F_S_NAME>
+<F_S_CATEGORY>Syrlig &Oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0630000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>11.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>23.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.1000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>4.0609137</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>12.6903553</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Spontangj&aelig;ret &oslash;l i karbonert utgave. Kompleksiteten og den originale rustikke karakter er vanskelig &aring; sette ord p&aring;, og derfor anbefales det f&oslash;rst og fremst &aring; smake de klassiske eksemplene. Det brukes humle som er to-tre &aring;r gammel i bryggingen av lambic.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Den komplekse blanding av villgj&aelig;r og bakterietyper kan gi inntrykk av grapefrukt, stall, krydderurter, halm, l&aelig;r og/eller jordsl&aring;tt kjeller. Frav&aelig;rende malt- og humlearoma.
+Farge/utseende: Halmgul til ravfarget. Lett til medium t&aring;kete.
+Smak: Medium til kraftig syrlighet dominerer smaken, som dog ikke skal v&aelig;re eddikaktig. Svak til kraftig grapefrukt-karakter som ogs&aring; kan forekomme bitter. Inntryk av gress, krydderurter, tre, stall, l&aelig;r og frukt kan bidre ytterligere til kompleksiteten.
+Kropp: Medium kropp. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>3 Fonteinen Geuze, Cantillion Gueuze, Oud Beersel Oude Geuze.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#12a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Belgisk frukt lambic</F_S_NAME>
+<F_S_CATEGORY>Syrlig &Oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0720000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>21.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.1000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>0.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.2000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Spontangj&aelig;ret &oslash;l i karbonert utgave. Kompleksiteten og den originale rustikke karakter er vanskelig &aring; sette ord p&aring;, og derfor anbefales det f&oslash;rst og fremst &aring; smake de klassiske eksempler. De s&oslash;tede varianter, fra f.eks. Lindemans og St. Louis passer ikke i denne &oslash;ltypen. Kirseb&aelig;r (Kriek) og bringeb&aelig;r (framboise) er de mest utbredte typer, men andre typer finnes ogs&aring;, som f.eks. solb&aelig;r, aprikos, vindruer og bl&aring;b&aelig;r.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til kraftig karakter av det valgte b&aelig;r eller frukt. Den komplekse blandingen av villgj&aelig;r og bakterietyper kan gi inntryk av grapefrukt, stald, krydderurter, halm, l&aelig;r og/eller jordsl&aring;tt kjeller. Frav&aelig;rende malt- og humlearoma.
+Farge/utseende: Tar ofte farge etter frukten &ndash; det er dog ikke alle frukter eller b&aelig;r som avgir noe s&aelig;rlig farge. Lett til medium t&aring;kete. Lite til stort skum.
+Smak: Medium til kraftig syrlighet dominerer smaken, som dog ikke skal v&aelig;re eddikaktig. Svak til kraftig karakter av det valgte b&aelig;r eller frukt. Svak til middels grapefrukt-karakter som ogs&aring; kan forekomme bitter. Inntryk av gress, krydderurter, tre, stall, l&aelig;r og frukt kan bidra ytterligere til kompleksiteten.
+Kropp: Medium kropp. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>3 Fonteinen Kriek, Cantillion Kriek, Vigneronne og Rose de Gambrinus, Oud Beersel Oude Kriek, Boon Kriek, Boon framboise, N&oslash;gne &Oslash; Tytteb&aelig;r.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#12b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Flamsk r&oslash;d</F_S_NAME>
+<F_S_CATEGORY>Syrlig &Oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0570000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0030000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kompleks, lagret syrlig &oslash;l, opprinneligt lagret p&aring; trefat. Blanding av lagret og ikke lagret &oslash;l kan gi et s&oslash;tere resultat, dog uten &aring; v&aelig;re s&oslash;t.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels syrlig aroma, med karakter av melkesyre og balsamico-eddik. Svak til middels karamellaktig maltaroma. Svakt til middels niv&aring; av fruktestere, med karakter av t&oslash;rket frukt og kirseb&aelig;r. Et svakt niv&aring; av krydrede fenoler, bidrar til kompleksiteten. Frav&aelig;rende humlearoma. Frav&aelig;rende til svakt niv&aring; av diacetyl.
+Farge/utseende: Kobberfarget til m&oslash;rk r&oslash;dbrun. Klar til lett t&aring;kete.
+Smak: Svak til kraftig syrlig eller sur/s&oslash;t karakter som balanseres av karamellagtig malts&oslash;dme. Balansen kan g&aring; b&aring;de i meget syrlig og forholdsvis s&oslash;t retning. Syrligheten oppleves kompleks, med tydelige innslag av balsamico-eddik. Inntrykk av kirseb&aelig;r, appelsin, eiktre (dog ikke bourbon/vaniljeaktig) og pepper kan bidra ytterligere til kompleksiteten. Humlebitterhet bemerkes ikke.
+Kropp: Lett til medium kropp. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Rodenbach Grand Cru, Duchesse de Bourgogne, Rodenbach Classic.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#12c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Flamsk brun/Oud bruin</F_S_NAME>
+<F_S_CATEGORY>Syrlig &Oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0740000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kompleks maltet og syrlig &oslash;l. Typisk en blanding av lagret og ikke lagret &oslash;l, for &aring; gi et s&oslash;tere resultat.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middels til kraftig maltaroma, med karakter av karamell, kjeks og br&oslash;d. Svakt syrlig aroma med karakter av melkesyre. Svakt til middels niv&aring; av fruktestere, med karakter av t&oslash;rket frukt og kirseb&aelig;r. Et svakt niv&aring; av krydrede fenoler, bidrar til kompleksiteten. Frav&aelig;rende humlearoma. Frav&aelig;rende til svakt niv&aring; av diacetyl.
+Farge/utseende: Kobberfarget til m&oslash;rk r&oslash;dbrun. Klar til lett t&aring;kete.
+Smak: Svak til middels syrlig eller sur/s&oslash;t karakter som balanseres av karamellaktig malts&oslash;dme. Balansen kan g&aring; b&aring;de i meget syrlig og forholdsvis s&oslash;t retning. Inntryk av kirseb&aelig;r, appelsin og pepper kan bidra ytterligere til kompleksiteten. Humlebitterhet kjennes ikke.
+Kropp: Lett til medium kropp. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Liefman&rsquo;s Goudenband, Liefman&rsquo;s Oud Bruin.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#12d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Berliner weisse</F_S_NAME>
+<F_S_CATEGORY>Syrlig &Oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0250000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0320000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0040000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0060000</F_S_MAX_FG>
+<F_S_MIN_IBU>3.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>8.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.5380711</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>5.0761421</F_S_MAX_COLOR>
+<F_S_MIN_ABV>2.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>3.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En lett tysk hvete&oslash;l med tydelig karakter av melkesyre.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels syrlig aroma, som har karakter av melkesyre og sitronsaft. Ingen humlearoma. DMS og diacetyl skal ikke forekomme.
+Farge/utseende: Lys halmgul til halmgul. Lett til kraftig t&aring;kete.
+Smak: Ren og syrlig smak, med karakter av melkesyre og sitronsaft. Svak br&oslash;daktig og s&oslash;tlig maltsmak. Humle kjennes ikke.
+Kropp: Lett kropp. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Berliner Kindl Berliner Weisse, Bayrischer Bahnhof Berliner Weisse.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#12e</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Frukt-/gr&oslash;nnsaks&oslash;l</F_S_NAME>
+<F_S_CATEGORY>Spesial&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>0.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>0.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>0.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>0.0000000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>0.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>0.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>0.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En harmonisk forening av frukt/gr&oslash;nnsak og &oslash;l. Den grunnleggende &oslash;l skal f&oslash;lge en klassisk &oslash;ltype og i konkurranser skal b&aring;de &oslash;ltype og tilsetning angis. Merk at de kommersielle bryggerier, og dermed eksemplene, sjelden g&aring;r etter &aring; treffe en spesifikk grunnleggende &oslash;ltype.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: &Oslash;let skal f&oslash;lge den grunnleggende &oslash;ltypen. Den valgte tilsetning skal bemerkes, men samtidig v&aelig;re i harmoni med &oslash;let. Bemerk at forskjellige tilsetninger kan v&aelig;re mer eller mindre markante i deres karakter.
+Farge/utseende: Farge og skum skal f&oslash;lge den grunnleggende &oslash;ltype, men den valgte tilsetning kan avspeiles.
+Smak: &Oslash;let skal f&oslash;lge den grunnleggende &oslash;ltypen. Den valgte tilsetning skal bemerkes, men samtidig v&aelig;re i harmoni med &oslash;let. Bemerk at forskjellige tilsetninger kan v&aelig;re mer eller mindre markante i deres karakter.
+Kropp: Kropp og karbonering skal f&oslash;lge den grunnleggende &oslash;ltypen.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Haandbryggeriet Krekling&oslash;l, Jacobsen Ros&eacute; Wit, Wittekerke Ros&eacute; (Wit med bringeb&aelig;r), Herslev Asparges (Weissbier med asparges).</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#13a</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Krydder&oslash;l</F_S_NAME>
+<F_S_CATEGORY>Spesial&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>0.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>0.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>0.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>0.0000000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>0.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>0.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>0.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En harmonisk forening av krydder og &oslash;l. Den grunnleggende &oslash;l skal f&oslash;lge en klassisk &oslash;ltype og i konkurranser skal b&aring;de &oslash;ltype og tilsetninger angis. Jule&oslash;l hvor f.eks. appelsinskall inng&aring;r h&oslash;rer til i denne &oslash;ltypen. Merk at de kommersielle bryggerier, og dermed eksemplene, sjelden g&aring;r etter &aring; treffe en spesifikk grunnleggende &oslash;ltype.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: &Oslash;let skal f&oslash;lge den grunnleggende &oslash;ltype. Den valgte tilsetning skal kjennes, men samtidig v&aelig;re i harmoni med &oslash;let. Merk at forskellige tilsetninger kan v&aelig;re mer eller mindre markante i deres karakter.
+Farge/utseende: Farge og skum skal f&oslash;lge den grunnleggende &oslash;ltype, men den valgte tilsetning kan avspeiles.
+Smak: &Oslash;let skal f&oslash;lge den grunnleggende &oslash;ltype. Den valgte tilsetning skal kjennes, men samtidig v&aelig;re i harmoni med &oslash;let. Bemerk at forskjellige tilsetninger kan v&aelig;re mer eller mindre markante i deres karakter.
+Kropp: Kropp og karbonering skal f&oslash;lge den grunnleggende &oslash;ltypen.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;gne &Oslash; Spesial Holiday Ale, N&oslash;gne &Oslash; Underlig Jul, Thisted Porse Guld (Lys bock med pors).</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#13b</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Trelagret &oslash;l</F_S_NAME>
+<F_S_CATEGORY>Spesial&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>0.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>0.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>0.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>0.0000000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>0.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>0.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>0.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>&Oslash;l lagret p&aring; trefat eller &ndash;spon. Det kan v&aelig;re noter fra sprit, enten fra tidligere bruk av fatet eller hvis sponen har trukket i det. Den grunnleggende &oslash;l skal f&oslash;lge en klassisk &oslash;ltype og fungere harmonisk med trekarakteren. I konkurranser skal &oslash;ltypen angis. Bemerk at de kommersielle bryggerier, og dermed eksemplene, sjeldent g&aring;r etter &aring; treffe en spesifikk grunnleggende &oslash;ltype.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: &Oslash;let skal f&oslash;lge den grunnleggende &oslash;ltypen. Trelagring skal bemerkes, men samtidig v&aelig;re i harmoni med &oslash;let.
+Farge/utseende: Farge og skum skal f&oslash;lge den grunnleggende &oslash;ltype.
+ Smak: &Oslash;let skal f&oslash;lge den grunnleggende &oslash;ltypen. Trelagring skal kjennes, men samtidig v&aelig;re i harmoni med &oslash;let.
+Kropp: Kropp og karbonering skal f&oslash;lge den grunnleggende &oslash;ltypen.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Great Divide Oak Aged Yeti (Imperial stout p&aring; eikespon), Goose Island Bourbon County Stout (Imperial stout p&aring; bourbon-fat), Harviestoun Ola Dubh (Imperial stout p&aring; r&oslash;ykt whisky-fat).</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#13c</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Andre r&oslash;yk&oslash;l</F_S_NAME>
+<F_S_CATEGORY>Spesial&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>0.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>0.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>0.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>0.0000000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>0.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>0.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>0.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>&Oslash;l brygget p&aring; r&oslash;ykmalt, som ikke tilh&oslash;rer klassisk tysk rauchbier. En harmonisk forening av r&oslash;yk og &oslash;l. Den grunnleggende &oslash;l skal f&oslash;lge en klassisk &oslash;ltype som i konkurranser skal angis.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: &Oslash;let skal f&oslash;lge den grunnleggende &oslash;ltypen. R&oslash;yken skal bemerkes, men samtidig v&aelig;re i harmoni med &oslash;let.
+Farge/utseende: Farge og skum skal f&oslash;lge den grunnleggende &oslash;ltype.
+Smak: &Oslash;let skal f&oslash;lge den grunnleggende &oslash;ltypen. R&oslash;yken skal bemerkes, men samtidig v&aelig;re i harmoni med &oslash;let. Kropp: Kropp og karbonering skal f&oslash;lge den grunnleggende &oslash;ltypen.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Haandbryggeriet R&oslash;yk Uten Ild, N&oslash;gne &Oslash; Sunturnbrew, Schlenkerla Weizen Rauchbier (Weissbier) og Ur-Bock Rauchbier (Doppelbock).</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#13d</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Andre tilsetninger, hylleblomst, kaffe, te, sjokolade.</F_S_NAME>
+<F_S_CATEGORY>Spesial&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>0.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>0.0000000</F_S_MAX_OG>
+<F_S_MIN_FG>0.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>0.0000000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>0.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>0.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>0.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>&Oslash;l med tilsetninger (f.eks. kaffe, sjokolade, honning og hylleblomst), som faller utenfor frukt, gr&oslash;nnsaker, krydder, krydderurter, tre og r&oslash;yk; eller som kombinerer flere typer tilsetninger. Den grunnleggende &oslash;l skal f&oslash;lge en klassisk &oslash;ltype og i konkurranser skal b&aring;de &oslash;ltype og tilsetning angis. Bemerk at de kommersielle bryggerier, og dermed eksemplene, sjeldent g&aring;r etter &aring; treffe en spesifikk grunnleggende &oslash;ltype. Jule&oslash;l hvor f.eks. appelsinskall inng&aring;r h&oslash;rer til i &oslash;ltypen krydret &oslash;l.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: &Oslash;let skal f&oslash;lge den grunnleggende &oslash;ltypen. Den eller de valgte tilsetninger skal bemerkes, men samtidig v&aelig;re i harmoni med &oslash;let. Merk at forskellige tilsetninger kan v&aelig;re mer eller mindre markante i deres karakter.
+Farge/utseende: Farge og skum skal f&oslash;lge den grunnleggende &oslash;ltype, men den valgte tilsetning kan avspeiles.
+Smak: &Oslash;let skal f&oslash;lge den grunnleggende &oslash;ltype. Den eller de valgte tilsetninger skal bemerkes, men samtidig v&aelig;re i harmoni med &oslash;let. Merk at forskjellige tilsetninger kan v&aelig;re mer eller mindre markante i deres karakter.
+Kropp: Kropp og karbonering skal f&oslash;lge den grunnleggende &oslash;ltype.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Mikkeller Beer Geek Brunch (Imperial stout med kaffe), Fraoch Heather Ale (Engelsk pale ale med lyng), Youngs Double Chocolate Stout (Sweet stout med sjokolade), Svaneke Choko Stout (Sweet stout med sjokolade og vanilje).</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#13e</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Klassisk norsk jule&oslash;l</F_S_NAME>
+<F_S_CATEGORY>Spesial&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>6</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>1.0600000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0700000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0140000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0220000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>25.3807107</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Det sterke jule&oslash;let norske bryggerier begynte &aring; brygge en stund etter 2. verdenskrig. P&aring; mange m&aring;ter likt m&oslash;rkt bokk&oslash;l.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svak til middels humleduft, og et svakt preg av fruktighet. Maltrik aroma.
+Farge/utseende: Jule&oslash;l kan variere i farge fra kobber til m&oslash;rk brun.
+Smak: Det tradisjonelle jule&oslash;let er undergj&aelig;ret med en utpreget maltsmak og middels bitterhet, liten humlesmak.
+Kropp: Middels til stor fylde.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Borg Jule&oslash;l, CB Jule&oslash;l, Hansa Jule&oslash;l, Mack Jule&oslash;l, Ringnes Jule&oslash;l (polutgaven av alle).</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#13f</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2015-03-09</_MOD_>
+<F_S_NAME>Tradisjonelt norsk hjemmebrygg</F_S_NAME>
+<F_S_CATEGORY>Spesial&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>Norbrygg2014</F_S_GUIDE>
+<F_S_LETTER>7</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0600000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0900000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0150000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0300000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>5.0761421</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>25.3807107</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>9.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Hjemmebrygg som videref&oslash;rer gamle tradisjoner, brygges fremdeles i dag p&aring; steder som Vestlandet, Tr&oslash;ndelag og Telemark. Ofte brukes einer (brake) i bryggevannet, som gir en karakteristisk smak og duft. R&oslash;ykt malt anvendes ogs&aring; i st&oslash;rre eller mindre grad enkelte steder. Det er ikke uvanlig at meskingen og/eller kokingen gj&oslash;res over &aring;pen flamme. Noen f&aring; steder fremstiller bryggerne fremdeles malten selv. Ofte brukes gj&aelig;r (kveik) som er tatt vare p&aring; gjennom flere mannsaldre. I all hovedsak overgj&aelig;ret, ofte ved relativt h&oslash;y temperatur.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: En tydelig aroma av einer er vanlig, men ikke p&aring;krevet. Lite eller ingen humle. Gjerne maltrik og fruktig duft. Eventuelt r&oslash;ykpreg.
+Farge/utseende: Stor variasjon, kan variere fra gyllen til m&oslash;rk brun. En viss uklarhet er ikke uvanlig. Kullsyreniv&aring;et er lavt til frav&aelig;rende, liten eler frav&aelig;rende skumkrone er akseptert.
+Smak: Malts&oslash;dme dominerer, men balanseres av einer dersom dette anvendes. Einer gir friskhet. Lav humlebitterhet og humlesmak. Karakter fra r&oslash;ykmalt dersom dette anvendes. En viss karamellisering fra koking over &aring;pen flame kan forekomme. Som regel ikke tydelig smak av alkohol. Fruktestere fra gj&aelig;ringen bidrar til kompleksitet.
+Kropp: Middels til stor fylde.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Valdres Gardsbryggeri Brisk kan til dels regnes med i denne kategorien, ellers ingen kommersielle eksempler, selv om Haandbryggeriet Norwegian Wood og Haandbryggeriet Hesje&oslash;l har visse likhetstrekk. Ellers, Vossa&oslash;l og Stj&oslash;rdals&oslash;l er kjente begreper.</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://norbrygg.no/2015/02/04/typedefinisjoner-nm-hjemmebrygging-2015/#13g</F_S_WEB_LINK>
+</Style>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Selections>

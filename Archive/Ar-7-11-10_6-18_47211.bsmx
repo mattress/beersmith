@@ -1,0 +1,469 @@
+<Recipe><_MOD_>1969-12-31</_MOD_>
+<Name>Recipes</Name>
+<Type>7372</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>7372</TID>
+<Size>1</Size>
+<_XName>Recipes</_XName>
+<Allocinc>16</Allocinc>
+<Data><Recipe><_MOD_>2015-08-11</_MOD_>
+<F_R_NAME>Christmas Braggot</F_R_NAME>
+<F_R_BREWER>Matt</F_R_BREWER>
+<F_R_ASST_BREWER></F_R_ASST_BREWER>
+<F_R_DATE>2015-08-10</F_R_DATE>
+<F_R_INV_DATE>1990-06-01</F_R_INV_DATE>
+<F_R_FOLDER_NAME></F_R_FOLDER_NAME>
+<F_R_VOLUME_MEASURED>640.0000000</F_R_VOLUME_MEASURED>
+<F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
+<F_R_MASH_TIMER>0</F_R_MASH_TIMER>
+<F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
+<F_R_MTIMER_DOWN>2820</F_R_MTIMER_DOWN>
+<F_R_BTIMER_DOWN>3300</F_R_BTIMER_DOWN>
+<Image></Image>
+<F_R_IMAGE_X>0</F_R_IMAGE_X>
+<F_R_IMAGE_Y>0</F_R_IMAGE_Y>
+<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_E_NAME>My Equipment</F_E_NAME>
+<F_E_MASH_VOL>1536.0000000</F_E_MASH_VOL>
+<F_E_TUN_MASS>160.0000000</F_E_TUN_MASS>
+<F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
+<F_E_TUN_SPECIFIC_HEAT>0.3000000</F_E_TUN_SPECIFIC_HEAT>
+<F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
+<F_E_CALC_BOIL>1</F_E_CALC_BOIL>
+<F_E_BOIL_VOL>1693.4400000</F_E_BOIL_VOL>
+<F_E_BOIL_TIME>60.0000000</F_E_BOIL_TIME>
+<F_E_OLD_EVAP_RATE>10.0000000</F_E_OLD_EVAP_RATE>
+<F_EQUIP_39>1</F_EQUIP_39>
+<F_E_BOIL_OFF>96.0000000</F_E_BOIL_OFF>
+<F_E_TRUB_LOSS>0.0000000</F_E_TRUB_LOSS>
+<F_E_COOL_PCT>4.0000000</F_E_COOL_PCT>
+<F_E_TOP_UP_KETTLE>0.0000000</F_E_TOP_UP_KETTLE>
+<F_E_BATCH_VOL>1536.0000000</F_E_BATCH_VOL>
+<F_E_FERMENTER_LOSS>0.0000000</F_E_FERMENTER_LOSS>
+<F_E_TOP_UP>0.0000000</F_E_TOP_UP>
+<F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
+<F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
+<F_E_NOTES></F_E_NOTES>
+</F_R_EQUIPMENT>
+<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
+<F_S_NAME>Braggot</F_S_NAME>
+<F_S_CATEGORY>Other Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2008</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>26</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0090000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0500000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>16.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A Braggot is a mead made with malt. A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads. Sometimes known as &ldquo;bracket&rdquo; or &ldquo;brackett.&rdquo; The fermentable sugars come from a balance of malt or malt extract and honey, although the specific balance is open to creative interpretation by brewers.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Depending on the sweetness, strength and base style of beer, a subtle to distinctly identifiable honey and beer character (dry and/or hydromel versions will tend to have lower aromatics than sweet and/or sack versions). The honey and beer/malt character should be complementary and balanced, although not always evenly balanced. If a variety of honey is declared, the aroma might have a subtle to very noticeable varietal character reflective of the honey (different varieties have different intensities and characters). If a base style of beer or type of malt is declared, the aroma might have a subtle to very noticeable character reflective of the beer style (different styles and malts have different intensities and characters). A hop aroma (any variety or intensity) is optional; if present, it should blend harmoniously with the other elements. The intensity of the honey aroma will vary based upon the sweetness and strength of the mead. Stronger or sweeter meads may have a stronger honey aroma than drier or weaker versions. Different varieties of honey have different intensities and characters; some (e.g., orange blossom, buckwheat) are more recognizable than others (e.g., avocado, palmetto). If honey varieties are declared, the varietal character of the honey should be apparent even if subtle. The aromatics may seem vinous (similar to wine), and may include fruity, floral, or spicy notes. The bouquet (rich, complex smells arising from the combination of ingredients, fermentation and aging) should show a pleasant fermentation character, with clean and fresh aromatics being preferred over dirty, yeasty, or sulfury notes. A multi-faceted bouquet, also known as complexity or depth, is a positive attribute. Phenolic or diacetyl aromatics should not be present. Harsh or chemical aromatics should not be present. Light oxidation may be present, depending on age, and may result in sherry-like notes, which are acceptable in low to moderate levels (if in balance, these can add to complexity). An excessive sherry character is a fault in most styles (except certain Polish-style specialties, or other meads attempting a sherry-like character). Oxidation resulting in a papery character is always undesirable. Alcohol aromatics may be present, but hot, solventy or irritating overtones are a defect. The harmony and balance of the aroma and bouquet should be pleasant and enticing.
+Appearance: Typical mead appearance does not apply due to beer-like characteristics. Clarity may be good to brilliant, although many braggots are not as clear as other meads. A light to moderate head with some retention is expected. Color may range from light straw to dark brown or black, depending on the variety of malt and honey used. The color should be characteristic of the declared beer style and/or honey used, if a variety is declared. Stronger versions may show signs of body (e.g., legs).
+Flavor: Displays a balanced character identifiable as both a beer and a mead, although the relative intensity of flavors is greatly affected by the sweetness, strength, base style of beer, and variety of honey used. If a beer style is declared, the braggot should have some character traceable to the style although the flavors will be different due to the presence of honey. If a variety of honey is declared, the braggot should feature a subtle to prominent varietal character (different varieties have different intensities). Stronger and/or sweeter braggots should be expected to have a greater intensity of flavor than drier, lower gravity versions. The finish and aftertaste will vary based on the declared level of sweetness (dry to sweet), and may include both beer and mead components. A wide range of malt characteristics is allowable, from plain base malts to rich caramel and toast flavors to dark chocolate and roast flavors. Hop bitterness and flavor may be present, and may reflect any variety or intensity; however, this optional character should always be both suggestive of the base beer style and well blended with the other flavors. The intensity of the honey flavor will vary based upon the sweetness and strength of the mead. Stronger, sweeter meads will have a stronger honey flavor than drier, weaker versions. Different varieties of honey have different intensities and characters; some (e.g., orange blossom, buckwheat) are more recognizable than others (e.g., safflower, palmetto). If honey varieties are declared, the varietal character of the honey should be apparent even if subtle. The residual sweetness level will vary with the sweetness of the mead; dry meads will have no residual sugar, sweet meads will have noticeable to prominent sweetness, semi-sweet meads will have a balanced sweetness. In no case should the residual sweetness be syrupy, cloying or seem like unfermented honey. Any additives, such as acid or tannin, should enhance the honey flavor and lend balance to the overall character of the mead but not be excessively tart or astringent. Artificial, chemical, harsh, phenolic or bitter flavors are defects. Higher carbonation (if present) enhances the acidity and gives a &ldquo;bite&rdquo; to the finish. The aftertaste should be evaluated; longer finishes are generally most desirable. A multi-faceted flavor, also known as complexity or depth, is a positive attribute. Yeast or fermentation characteristics may be none to noticeable, with estery, fresh and clean flavors being most desirable. Alcohol flavors (if present) should be smooth and well-aged, not harsh or solventy. Light oxidation may be present, depending on age, but an excessive sherry-like or papery character should be avoided. Aging and conditioning generally smooth out flavors and create a more elegant, blended, rounded product. Flavors tend to become more subtle over time, and can deteriorate with extended aging.
+Mouthfeel: Typical mead mouthfeel does not apply due to beer-like characteristics. Smooth mouthfeel without astringency. Body may vary from moderately light to full, depending on sweetness, strength, and the base style of beer. Note that stronger meads will have a fuller body. A very thin or watery body is undesirable, as is a cloying, raw sweetness. A warming sense of well-aged alcohol may be present in stronger examples. Carbonation will vary as described in the standard description. A still braggot will usually have some level of carbonation (like a cask bitter) since a completely flat beer is unappetizing. However, just as an aged barleywine may be still, some braggots can be totally still.</F_S_PROFILE>
+<F_S_INGREDIENTS>A braggot is a standard mead made with both honey and malt providing flavor and fermentable extract. Originally, and alternatively, a mixture of mead and ale. A braggot can be made with any type of honey, and any type of base beer style. The malt component may be derived from grain or malt extracts. The beer may be hopped or not. If any other ingredients than honey and beer are contained in the braggot, it should be entered as an Open Category Mead. Smoked braggots may be entered in this category if using smoked malt or a smoked beer as the base style; braggots made using other smoked ingredients (e.g., liquid smoke, chipotles) should be entered in the Open Category Mead style.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Rabbit&rsquo;s Foot Diabhal and Bi&egrave;re de Miele, Magic Hat Braggot, Brother Adams Braggot Barleywine Ale, White Winter Traditional Brackett</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</F_R_STYLE>
+<F_R_MASH><_MOD_>1969-12-31</_MOD_>
+<F_MH_NAME>Single Infusion, Full Body, Batch Sparge</F_MH_NAME>
+<F_MH_GRAIN_WEIGHT>352.0000000</F_MH_GRAIN_WEIGHT>
+<F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
+<F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
+<F_MH_TUN_TEMP>72.0000000</F_MH_TUN_TEMP>
+<F_MH_PH>5.4000000</F_MH_PH>
+<F_MH_SPARGE_TEMP>168.0000000</F_MH_SPARGE_TEMP>
+<F_MH_BATCH>1</F_MH_BATCH>
+<F_MH_BATCH_PCT>90.0000000</F_MH_BATCH_PCT>
+<F_MH_BATCH_EVEN>1</F_MH_BATCH_EVEN>
+<F_MH_BATCH_DRAIN>0</F_MH_BATCH_DRAIN>
+<F_MASH_39>1</F_MASH_39>
+<F_MH_TUN_DEADSPACE>0.0000000</F_MH_TUN_DEADSPACE>
+<F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
+<F_MH_BIAB>0</F_MH_BIAB>
+<F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
+<steps><_MOD_>1969-12-31</_MOD_>
+<Name>steps</Name>
+<Type>7432</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7149</TID>
+<Size>1</Size>
+<_XName>steps</_XName>
+<Allocinc>16</Allocinc>
+<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<F_MS_NAME>Mash In</F_MS_NAME>
+<F_MS_TYPE>0</F_MS_TYPE>
+<F_MS_INFUSION>880.0000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>156.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>45.0000000</F_MS_STEP_TIME>
+<F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
+<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
+<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>1536.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
+<F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
+<F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
+<F_MS_START_VOL>0.0000000</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>352.0000000</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>168.2394701</F_MS_INFUSION_TEMP>
+<F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
+</MashStep>
+</Data>
+<_TExpanded>1</_TExpanded>
+</steps>
+<F_MH_EQUIP_ADJUST>0</F_MH_EQUIP_ADJUST>
+<F_MH_TUN_VOL>1536.0000000</F_MH_TUN_VOL>
+<F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
+<F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
+</F_R_MASH>
+<F_R_BASE_GRAIN><_MOD_>1979-02-15</_MOD_>
+<F_G_NAME>Malt</F_G_NAME>
+<F_G_ORIGIN></F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES></F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>1.5000000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</F_R_BASE_GRAIN>
+<F_R_CARB><_MOD_>1969-12-31</_MOD_>
+<F_C_NAME>Keg</F_C_NAME>
+<F_C_TEMPERATURE>45.0000000</F_C_TEMPERATURE>
+<F_C_TYPE>1</F_C_TYPE>
+<F_C_PRIMER_NAME>Forced Carbonation</F_C_PRIMER_NAME>
+<F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
+<F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
+</F_R_CARB>
+<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_A_NAME>Ale, Single Stage</F_A_NAME>
+<F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
+<F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
+<F_A_SEC_TEMP>65.0000000</F_A_SEC_TEMP>
+<F_A_SEC_END_TEMP>65.0000000</F_A_SEC_END_TEMP>
+<F_A_TERT_TEMP>65.0000000</F_A_TERT_TEMP>
+<F_A_AGE_TEMP>65.0000000</F_A_AGE_TEMP>
+<F_A_TERT_END_TEMP>65.0000000</F_A_TERT_END_TEMP>
+<F_A_END_AGE_TEMP>65.0000000</F_A_END_AGE_TEMP>
+<F_A_END_TEMPS_SET>1</F_A_END_TEMPS_SET>
+<F_A_PRIM_DAYS>14.0000000</F_A_PRIM_DAYS>
+<F_A_SEC_DAYS>10.0000000</F_A_SEC_DAYS>
+<F_A_TERT_DAYS>7.0000000</F_A_TERT_DAYS>
+<F_A_AGE>30.0000000</F_A_AGE>
+<F_A_TYPE>0</F_A_TYPE>
+<F_A_NOTES>A simple single stage fermentation, often used by extract brewers or for classic ales.</F_A_NOTES>
+</F_R_AGE>
+<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Name>Ingredients</Name>
+<Type>7405</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7182</TID>
+<Size>9</Size>
+<_XName>Ingredients</_XName>
+<Allocinc>16</Allocinc>
+<Data><Grain><_MOD_>1979-01-02</_MOD_>
+<F_G_NAME>Northwest Pale Ale Malt</F_G_NAME>
+<F_G_ORIGIN>USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Great Western Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>240.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.8000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>40.5405405</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>1</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>A slightly darker base malt than our Premium 2-Row, our Northwest Pale Ale Malt is produced from well-modified, Western-grown 2-Row barley, with a kilning regimen based closely on traditional British Pale Ale malting practices. Contributes a malty complexity to beer flavor and aroma. Excellent in American Pale Ales and American versions of British beer styles.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0450000</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>1979-01-02</_MOD_>
+<F_G_NAME>Special B Malt</F_G_NAME>
+<F_G_ORIGIN>Belgium</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>180.0000000</F_G_COLOR>
+<F_G_YIELD>65.2000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>2.7027027</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>4</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Extreme caramel aroma and flavored malt.  Used in dark Belgian Abbey and Trappist ales.  Unique flavor and aroma.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>1979-01-02</_MOD_>
+<F_G_NAME>Oats, Flaked</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>48.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.0000000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>8.1081081</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>3</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>9.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>9.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>30.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Adds body, mouth feel and head retention to the beer
+Used in oatmeal stouts and porters
+Adds substantial protein haze to light beers
+Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>1979-01-02</_MOD_>
+<F_G_NAME>Munich Malt - 10L</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>48.0000000</F_G_AMOUNT>
+<F_G_COLOR>10.0000000</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>8.1081081</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>2</F_ORDER>
+<F_G_COARSE_FINE_DIFF>2.8000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>50.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>13.5000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>80.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Malty-sweet flavor characteristic and adds a slight orange color to the beer.
+Does not contribute signficantly to body or head retention.
+Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>1979-01-02</_MOD_>
+<F_G_NAME>Honey</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>2</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>240.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>40.5405405</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>6</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Can be used to lighten flavor and body when substituted for malt.
+Generally limit to 30% when used as an adjunct. Pasturize and add to primary during fermentation. Use up to 100% for meads.
+
+1 pint = 1.5 Lbs</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Hops><_MOD_>1969-12-31</_MOD_>
+<F_H_NAME>Glacier</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.6000000</F_H_ALPHA>
+<F_H_BETA>7.6000000</F_H_BETA>
+<F_H_PERCENT>50.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>2.0000000</F_H_AMOUNT>
+<F_H_HSI>28.5000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Genetic mix of at least 8 hops including Elsasser, Brewers Gold, N Brewer, Bullion, Early Green, and others...released in 2000.
+Used for: Aroma
+Aroma: Excellent, hoppy
+Substitutes: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>14.7524469</F_H_IBU_CONTRIB>
+<F_ORDER>5</F_ORDER>
+<F_H_USE>3</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>1969-12-31</_MOD_>
+<F_H_NAME>Glacier</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.6000000</F_H_ALPHA>
+<F_H_BETA>7.6000000</F_H_BETA>
+<F_H_PERCENT>25.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>28.5000000</F_H_HSI>
+<F_H_BOIL_TIME>5.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Genetic mix of at least 8 hops including Elsasser, Brewers Gold, N Brewer, Bullion, Early Green, and others...released in 2000.
+Used for: Aroma
+Aroma: Excellent, hoppy
+Substitutes: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>1.3368014</F_H_IBU_CONTRIB>
+<F_ORDER>7</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>1969-12-31</_MOD_>
+<F_H_NAME>Glacier</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.6000000</F_H_ALPHA>
+<F_H_BETA>7.6000000</F_H_BETA>
+<F_H_PERCENT>25.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>28.5000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>4.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Genetic mix of at least 8 hops including Elsasser, Brewers Gold, N Brewer, Bullion, Early Green, and others...released in 2000.
+Used for: Aroma
+Aroma: Excellent, hoppy
+Substitutes: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>9</F_ORDER>
+<F_H_USE>1</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+<Yeast><_MOD_>1969-12-31</_MOD_>
+<F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
+<F_Y_LAB>Mute Dog Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>0.0000000</F_Y_PRICE>
+<F_ORDER>8</F_ORDER>
+<F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2015-08-10</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2015-08-11</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>78.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>88.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2012-08-27</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Styles</F_Y_BEST_FOR>
+<F_Y_NOTES>Loads of bubble gum/fruity esters.</F_Y_NOTES>
+</Yeast>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Ingredients>
+<F_R_TYPE>2</F_R_TYPE>
+<F_R_OLD_TYPE>0</F_R_OLD_TYPE>
+<F_R_LOCKED>0</F_R_LOCKED>
+<F_R_OG_MEASURED>1.0460000</F_R_OG_MEASURED>
+<F_R_FG_MEASURED>1.0100000</F_R_FG_MEASURED>
+<F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
+<F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
+<F_R_BOIL_VOL_MEASURED>640.0000000</F_R_BOIL_VOL_MEASURED>
+<F_R_OG_BOIL_MEASURED>1.0500000</F_R_OG_BOIL_MEASURED>
+<F_R_NOTES></F_R_NOTES>
+<F_R_RATING>30.0000000</F_R_RATING>
+<F_R_DESCRIPTION></F_R_DESCRIPTION>
+<F_R_CARB_VOLS>2.3000000</F_R_CARB_VOLS>
+<F_R_MASH_PH>5.2000000</F_R_MASH_PH>
+<F_R_RUNOFF_PH>6.0000000</F_R_RUNOFF_PH>
+<F_R_RUNNING_GRAVITY>1.0100000</F_R_RUNNING_GRAVITY>
+<F_R_GRAIN_STEEP_TIME>30</F_R_GRAIN_STEEP_TIME>
+<F_R_GRAIN_STEEP_TEMP>155.0000000</F_R_GRAIN_STEEP_TEMP>
+<F_R_INCLUDE_STARTER>0</F_R_INCLUDE_STARTER>
+<F_R_VERSION>1.0000000</F_R_VERSION>
+<F_R_STARTER_SIZE>0.0000000</F_R_STARTER_SIZE>
+<F_R_STIR_PLATE>0</F_R_STIR_PLATE>
+<F_R_OLD_VOL>640.0000000</F_R_OLD_VOL>
+<F_R_OLD_BOIL_VOL>640.0000000</F_R_OLD_BOIL_VOL>
+<F_R_OLD_EFFICIENCY>72.0000000</F_R_OLD_EFFICIENCY>
+<F_R_DESIRED_IBU>20.0000000</F_R_DESIRED_IBU>
+<F_R_DESIRED_COLOR>10.0000000</F_R_DESIRED_COLOR>
+<F_R_COLOR_ADJ_STRING></F_R_COLOR_ADJ_STRING>
+<F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
+<F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
+</Recipe>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Recipe>
