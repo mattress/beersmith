@@ -1,7 +1,7 @@
 <Cloud><_MOD_>2011-12-14</_MOD_>
 <Name>Cloud</Name>
 <Type>8717</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>8717</TID>
 <Size>21</Size>
@@ -10071,7 +10071,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </F_C_RECIPE>
 </Cloud>
-<Cloud><_MOD_>1969-12-31</_MOD_>
+<Cloud><_MOD_>2015-07-27</_MOD_>
 <F_R_NAME>American Solera Saison</F_R_NAME>
 <F_R_BREWER>CBA</F_R_BREWER>
 <F_R_STYLE_NAME>Saison</F_R_STYLE_NAME>
@@ -10103,7 +10103,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_C_ON_SERVER>0</F_C_ON_SERVER>
 <F_C_RATING>Unrated</F_C_RATING>
 <F_C_USER></F_C_USER>
-<F_C_RECIPE><_MOD_>2015-07-25</_MOD_>
+<F_C_RECIPE><_MOD_>2015-07-27</_MOD_>
 <F_R_NAME>American Solera Saison</F_R_NAME>
 <F_R_BREWER>CBA</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -10119,7 +10119,7 @@ Substitutes: N/A</F_H_NOTES>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2015-07-27</_MOD_>
 <F_E_NAME>My Equipment</F_E_NAME>
 <F_E_MASH_VOL>1536.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>160.0000000</F_E_TUN_MASS>
@@ -10143,7 +10143,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES></F_E_NOTES>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
+<F_R_STYLE><_MOD_>2015-07-27</_MOD_>
 <F_S_NAME>Saison</F_S_NAME>
 <F_S_CATEGORY>Belgian and French Ale</F_S_CATEGORY>
 <F_S_GUIDE>BJCP 2008</F_S_GUIDE>
@@ -10171,7 +10171,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <F_S_EXAMPLES>Saison Dupont Vieille Provision; Fant&ocirc;me Saison D&rsquo;Erez&eacute;e - Printemps; Saison de Pipaix; Saison Regal; Saison Voisin; Lefebvre Saison 1900; Ellezelloise Saison 2000; Saison Silly; Southampton Saison; New Belgium Saison; Pizza Port SPF 45; Lost Abbey Red Barn Ale; Ommegang Hennepin</F_S_EXAMPLES>
 <F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
 </F_R_STYLE>
-<F_R_MASH><_MOD_>1969-12-31</_MOD_>
+<F_R_MASH><_MOD_>2015-07-27</_MOD_>
 <F_MH_NAME>Single Infusion, Full Body, Batch Sparge</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>352.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
@@ -10188,7 +10188,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>2015-07-25</_MOD_>
+<steps><_MOD_>2015-07-27</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -10197,7 +10197,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2015-07-27</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>880.0000000</F_MS_INFUSION>
@@ -10224,7 +10224,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>2015-07-25</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2015-07-27</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -10251,7 +10251,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </F_R_BASE_GRAIN>
-<F_R_CARB><_MOD_>1969-12-31</_MOD_>
+<F_R_CARB><_MOD_>2015-07-27</_MOD_>
 <F_C_NAME>Keg</F_C_NAME>
 <F_C_TEMPERATURE>45.0000000</F_C_TEMPERATURE>
 <F_C_TYPE>1</F_C_TYPE>
@@ -10259,7 +10259,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2015-07-27</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -10277,7 +10277,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES>Two stage ale fermentation suitable for just about any ale.  Two stage fermentations are used by many homebrewers to improve flavor by separating the active yeast and trub from the beer early.</F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2015-07-27</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -10286,7 +10286,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <Size>6</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<Data><Grain><_MOD_>2015-07-27</_MOD_>
 <F_G_NAME>Northwest Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>USA</F_G_ORIGIN>
 <F_G_SUPPLIER>Great Western Malting</F_G_SUPPLIER>
@@ -10313,7 +10313,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <F_G_PRICE>0.0450000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2015-07-27</_MOD_>
 <F_G_NAME>CaraBelge Malt</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -10340,7 +10340,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <F_G_PRICE>0.1250000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2015-07-27</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -10370,7 +10370,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-07-27</_MOD_>
 <F_H_NAME>Hallertauer</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -10392,7 +10392,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-07-27</_MOD_>
 <F_H_NAME>Hallertauer</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -10414,7 +10414,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2015-07-27</_MOD_>
 <F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
