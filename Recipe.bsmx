@@ -35457,7 +35457,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2015-08-30</_MOD_>
+<Recipe><_MOD_>2015-09-02</_MOD_>
 <F_R_NAME>Raw Mild</F_R_NAME>
 <F_R_BREWER>Matt</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -35751,50 +35751,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2015-08-06</_MOD_>
-<F_H_NAME>Horizon</F_H_NAME>
-<F_H_ORIGIN>U.S.</F_H_ORIGIN>
-<F_H_TYPE>0</F_H_TYPE>
-<F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>11.5000000</F_H_ALPHA>
-<F_H_BETA>7.5000000</F_H_BETA>
-<F_H_PERCENT>50.0000000</F_H_PERCENT>
-<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>2.0000000</F_H_AMOUNT>
-<F_H_HSI>30.0000000</F_H_HSI>
-<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
-<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>Good dual purpose hops derived from Nugget hops in Oregon (1970)
-Used for: All purpose Ales, Lagers
-Aroma: Pleasant, hoppy
-Substitutes: Magnum or other high alpha hops</F_H_NOTES>
-<F_H_IBU_CONTRIB>8.5794891</F_H_IBU_CONTRIB>
-<F_ORDER>5</F_ORDER>
-<F_H_USE>2</F_H_USE>
-<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
-<F_H_PRICE>1.0000000</F_H_PRICE>
-</Hops>
-<Hops><_MOD_>2015-08-10</_MOD_>
-<F_H_NAME>Sonnet</F_H_NAME>
-<F_H_ORIGIN>US</F_H_ORIGIN>
-<F_H_TYPE>2</F_H_TYPE>
-<F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>2.6000000</F_H_ALPHA>
-<F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>50.0000000</F_H_PERCENT>
-<F_H_INVENTORY>16.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>2.0000000</F_H_AMOUNT>
-<F_H_HSI>15.0000000</F_H_HSI>
-<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
-<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>British-like</F_H_NOTES>
-<F_H_IBU_CONTRIB>4.8492764</F_H_IBU_CONTRIB>
-<F_ORDER>6</F_ORDER>
-<F_H_USE>4</F_H_USE>
-<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
-<F_H_PRICE>2.0000000</F_H_PRICE>
-</Hops>
-<Yeast><_MOD_>1976-06-05</_MOD_>
+<Yeast><_MOD_>1969-12-31</_MOD_>
 <F_Y_NAME>Mute Dog Fruity Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL006</F_Y_PRODUCT_ID>
@@ -35822,7 +35779,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_Y_BEST_FOR></F_Y_BEST_FOR>
 <F_Y_NOTES></F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>1975-12-15</_MOD_>
+<Yeast><_MOD_>1976-07-03</_MOD_>
 <F_Y_NAME>Mute Dog Palatki Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL005</F_Y_PRODUCT_ID>
@@ -35850,6 +35807,49 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_Y_BEST_FOR></F_Y_BEST_FOR>
 <F_Y_NOTES></F_Y_NOTES>
 </Yeast>
+<Hops><_MOD_>2015-09-02</_MOD_>
+<F_H_NAME>Sonnet</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>2.6000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>50.0000000</F_H_PERCENT>
+<F_H_INVENTORY>16.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>2.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>British-like</F_H_NOTES>
+<F_H_IBU_CONTRIB>4.8492764</F_H_IBU_CONTRIB>
+<F_ORDER>6</F_ORDER>
+<F_H_USE>4</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>1976-07-03</_MOD_>
+<F_H_NAME>Horizon</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>0</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>11.5000000</F_H_ALPHA>
+<F_H_BETA>7.5000000</F_H_BETA>
+<F_H_PERCENT>50.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>2.0000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Good dual purpose hops derived from Nugget hops in Oregon (1970)
+Used for: All purpose Ales, Lagers
+Aroma: Pleasant, hoppy
+Substitutes: Magnum or other high alpha hops</F_H_NOTES>
+<F_H_IBU_CONTRIB>8.5794891</F_H_IBU_CONTRIB>
+<F_ORDER>5</F_ORDER>
+<F_H_USE>2</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
@@ -39501,7 +39501,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2015-08-30</_MOD_>
+<Recipe><_MOD_>2015-09-02</_MOD_>
 <F_R_NAME>Currant Pale</F_R_NAME>
 <F_R_BREWER>Matt</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -39649,7 +39649,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </F_R_BASE_GRAIN>
-<F_R_CARB><_MOD_>2015-08-30</_MOD_>
+<F_R_CARB><_MOD_>2015-09-02</_MOD_>
 <F_C_NAME>Corn Sugar</F_C_NAME>
 <F_C_TEMPERATURE>70.0000000</F_C_TEMPERATURE>
 <F_C_TYPE>0</F_C_TYPE>
@@ -39766,7 +39766,7 @@ Use for: Nut brown ales, porters</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 30L</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2015-08-30</_MOD_>
+<Hops><_MOD_>2015-09-02</_MOD_>
 <F_H_NAME>Horizon</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -39789,7 +39789,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2015-08-30</_MOD_>
+<Hops><_MOD_>1976-06-08</_MOD_>
 <F_H_NAME>Sonnet</F_H_NAME>
 <F_H_ORIGIN>US</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -39809,7 +39809,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>1976-07-03</_MOD_>
 <F_H_NAME>Sonnet</F_H_NAME>
 <F_H_ORIGIN>US</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -39829,7 +39829,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1976-06-02</_MOD_>
+<Yeast><_MOD_>1976-07-03</_MOD_>
 <F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
@@ -39857,7 +39857,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_Y_BEST_FOR>Belgian Styles</F_Y_BEST_FOR>
 <F_Y_NOTES>Loads of bubble gum/fruity esters.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>1976-06-02</_MOD_>
+<Yeast><_MOD_>1976-07-03</_MOD_>
 <F_Y_NAME>Mute Dog Fruity Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL006</F_Y_PRODUCT_ID>
