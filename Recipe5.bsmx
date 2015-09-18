@@ -9034,7 +9034,7 @@ Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2013-01-11</_MOD_>
+<Recipe><_MOD_>2015-09-02</_MOD_>
 <F_R_NAME>Sunk&#39;n Norwegian</F_R_NAME>
 <F_R_BREWER>Matt</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -9128,7 +9128,7 @@ Mouthfeel: Generally quite full-bodied and smooth, with a well-aged alcohol warm
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2013-01-13</_MOD_>
+<Data><MashStep><_MOD_>2015-09-02</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>150.0000000</F_MS_INFUSION>
@@ -9217,7 +9217,7 @@ Mouthfeel: Generally quite full-bodied and smooth, with a well-aged alcohol warm
 <Size>15</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2013-01-13</_MOD_>
+<Data><Grain><_MOD_>1978-08-08</_MOD_>
 <F_G_NAME>Rye Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -9246,7 +9246,7 @@ Must limit to 10-15% fo the mash as it tends to produce &quot;stuck&quot; mashes
 <F_G_PRICE>0.1375000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-01-11</_MOD_>
+<Grain><_MOD_>1978-08-08</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -9274,7 +9274,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.1156250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-01-13</_MOD_>
+<Grain><_MOD_>1978-08-08</_MOD_>
 <F_G_NAME>Black (Patent) Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -9302,7 +9302,7 @@ Use for: Coloring in small amounts, or flavoring of Stouts and Porters in larger
 <F_G_PRICE>0.1312500</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1978-10-21</_MOD_>
+<Grain><_MOD_>1978-08-08</_MOD_>
 <F_G_NAME>Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -9331,7 +9331,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_PRICE>0.1156250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1978-12-31</_MOD_>
+<Grain><_MOD_>1978-08-08</_MOD_>
 <F_G_NAME>Munich Liquid Extract</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -9359,7 +9359,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_G_PRICE>0.1500000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-01-13</_MOD_>
+<Grain><_MOD_>1978-08-08</_MOD_>
 <F_G_NAME>Sugar, Table (Sucrose)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -9386,7 +9386,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Misc><_MOD_>1978-10-21</_MOD_>
+<Misc><_MOD_>2015-09-02</_MOD_>
 <F_M_NAME>Yarrow, flowers and leaves (dried)</F_M_NAME>
 <F_M_TYPE>2</F_M_TYPE>
 <F_M_USE_FOR>Bittering, flavor</F_M_USE_FOR>
@@ -9404,7 +9404,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>7</F_ORDER>
 </Misc>
-<Misc><_MOD_>1978-10-21</_MOD_>
+<Misc><_MOD_>2015-09-02</_MOD_>
 <F_M_NAME>Juniper Berries</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>Sahti and other Scandinavian brews </F_M_USE_FOR>
@@ -9422,7 +9422,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>8</F_ORDER>
 </Misc>
-<Misc><_MOD_>1978-10-21</_MOD_>
+<Misc><_MOD_>2015-09-02</_MOD_>
 <F_M_NAME>Juniper Berries</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>Sahti and other Scandinavian brews </F_M_USE_FOR>
@@ -9440,7 +9440,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>9</F_ORDER>
 </Misc>
-<Misc><_MOD_>2013-01-11</_MOD_>
+<Misc><_MOD_>2015-09-02</_MOD_>
 <F_M_NAME>Yarrow, flowers and leaves (dried)</F_M_NAME>
 <F_M_TYPE>2</F_M_TYPE>
 <F_M_USE_FOR>Bittering, flavor</F_M_USE_FOR>
@@ -9458,7 +9458,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Misc><_MOD_>2013-01-11</_MOD_>
+<Misc><_MOD_>1978-08-08</_MOD_>
 <F_M_NAME>Juniper Berries</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>Sahti and other Scandinavian brews </F_M_USE_FOR>
@@ -9476,7 +9476,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>11</F_ORDER>
 </Misc>
-<Misc><_MOD_>1978-10-21</_MOD_>
+<Misc><_MOD_>1978-08-08</_MOD_>
 <F_M_NAME>Yarrow, flowers and leaves (dried)</F_M_NAME>
 <F_M_TYPE>2</F_M_TYPE>
 <F_M_USE_FOR>Bittering, flavor</F_M_USE_FOR>
@@ -9494,7 +9494,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>12</F_ORDER>
 </Misc>
-<Misc><_MOD_>2013-01-11</_MOD_>
+<Misc><_MOD_>1978-08-08</_MOD_>
 <F_M_NAME>Juniper Berries</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>Sahti and other Scandinavian brews </F_M_USE_FOR>
@@ -9512,7 +9512,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>13</F_ORDER>
 </Misc>
-<Misc><_MOD_>2013-01-11</_MOD_>
+<Misc><_MOD_>1978-08-08</_MOD_>
 <F_M_NAME>Lapsang Souchong</F_M_NAME>
 <F_M_TYPE>2</F_M_TYPE>
 <F_M_USE_FOR>Smoke and tea flavors, mostly smoke</F_M_USE_FOR>
@@ -9530,7 +9530,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>14</F_ORDER>
 </Misc>
-<Yeast><_MOD_>2013-01-13</_MOD_>
+<Yeast><_MOD_>1978-08-08</_MOD_>
 <F_Y_NAME>Norwegian Wild Yeast</F_Y_NAME>
 <F_Y_LAB>Haand Bryggeriet</F_Y_LAB>
 <F_Y_PRODUCT_ID></F_Y_PRODUCT_ID>
@@ -9565,7 +9565,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
 <F_R_OG_MEASURED>1.0760000</F_R_OG_MEASURED>
-<F_R_FG_MEASURED>0.0000000</F_R_FG_MEASURED>
+<F_R_FG_MEASURED>1.0140000</F_R_FG_MEASURED>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
 <F_R_BOIL_VOL_MEASURED>640.0000000</F_R_BOIL_VOL_MEASURED>
@@ -9997,7 +9997,7 @@ Substitutes: Hallertauer, Liberty, Crystal</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2013-07-15</_MOD_>
+<Recipe><_MOD_>2015-08-27</_MOD_>
 <F_R_NAME>Downtrodden - Concord Strong Ale</F_R_NAME>
 <F_R_BREWER>Matt</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -10091,7 +10091,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2013-07-15</_MOD_>
+<Data><MashStep><_MOD_>2015-08-29</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>60.0000000</F_MS_INFUSION>
@@ -10177,10 +10177,10 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7182</TID>
-<Size>9</Size>
+<Size>8</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2013-07-15</_MOD_>
+<Data><Grain><_MOD_>2015-08-27</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -10191,7 +10191,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_G_COLOR>2.0000000</F_G_COLOR>
 <F_G_YIELD>72.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>4.4444444</F_G_PERCENT>
+<F_G_PERCENT>8.0000000</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>1</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
@@ -10208,7 +10208,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.1156250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1978-12-09</_MOD_>
+<Grain><_MOD_>2015-08-27</_MOD_>
 <F_G_NAME>CaraBelge Malt</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -10219,7 +10219,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_COLOR>13.0000000</F_G_COLOR>
 <F_G_YIELD>75.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>2.2222222</F_G_PERCENT>
+<F_G_PERCENT>4.0000000</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>2</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
@@ -10235,7 +10235,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.1250000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-07-15</_MOD_>
+<Grain><_MOD_>2015-08-29</_MOD_>
 <F_G_NAME>Pilsner Liquid Extract</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -10246,7 +10246,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_COLOR>3.5000000</F_G_COLOR>
 <F_G_YIELD>78.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>40.0000000</F_G_PERCENT>
+<F_G_PERCENT>72.0000000</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>3</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
@@ -10263,7 +10263,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_G_PRICE>0.1625000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2013-07-15</_MOD_>
+<Hops><_MOD_>2015-08-27</_MOD_>
 <F_H_NAME>Willamette</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -10286,7 +10286,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2013-07-15</_MOD_>
+<Hops><_MOD_>2015-08-29</_MOD_>
 <F_H_NAME>Willamette</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -10309,7 +10309,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2013-07-15</_MOD_>
+<Hops><_MOD_>2015-08-29</_MOD_>
 <F_H_NAME>Willamette</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -10332,7 +10332,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2013-07-15</_MOD_>
+<Yeast><_MOD_>2015-08-29</_MOD_>
 <F_Y_NAME>Wild Honey Yeast 2012</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID></F_Y_PRODUCT_ID>
@@ -10360,34 +10360,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_Y_BEST_FOR>???</F_Y_BEST_FOR>
 <F_Y_NOTES></F_Y_NOTES>
 </Yeast>
-<Grain><_MOD_>1978-12-23</_MOD_>
-<F_G_NAME>Fruit - Grape Regular</F_G_NAME>
-<F_G_ORIGIN></F_G_ORIGIN>
-<F_G_SUPPLIER></F_G_SUPPLIER>
-<F_G_TYPE>3</F_G_TYPE>
-<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>160.0000000</F_G_AMOUNT>
-<F_G_COLOR>0.0000000</F_G_COLOR>
-<F_G_YIELD>1.1000000</F_G_YIELD>
-<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>44.4444444</F_G_PERCENT>
-<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
-<F_ORDER>8</F_ORDER>
-<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>0.0000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
-<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
-<F_G_ADD_AFTER_BOIL>1</F_G_ADD_AFTER_BOIL>
-<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>http://www.plantsfood.com/brixvalue.htm  Med/Hi Crossover values used.  For the best accuracy measure the Brix (Refractometer) of the fruit used and place that value in the Yield field. Wine grapes frequently approach 25 brix.</F_G_NOTES>
-<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
-<F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
-</Grain>
-<Grain><_MOD_>2013-07-15</_MOD_>
+<Grain><_MOD_>2015-08-27</_MOD_>
 <F_G_NAME>Sugar, Table (Sucrose)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -10398,9 +10371,9 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_G_COLOR>1.0000000</F_G_COLOR>
 <F_G_YIELD>100.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>8.8888889</F_G_PERCENT>
+<F_G_PERCENT>16.0000000</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
-<F_ORDER>9</F_ORDER>
+<F_ORDER>8</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
@@ -11945,13 +11918,13 @@ Generally limit to 30% when used as an adjunct. Pasturize and add to primary dur
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Table><_MOD_>2015-08-17</_MOD_>
+<Table><_MOD_>2015-09-02</_MOD_>
 <Name>Theory</Name>
 <Type>7372</Type>
 <Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>1</TID>
-<Size>59</Size>
+<Size>60</Size>
 <_XName>Folder</_XName>
 <Allocinc>16</Allocinc>
 <Data><Recipe><_MOD_>2013-10-31</_MOD_>
@@ -27294,7 +27267,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2015-08-20</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>1192.3200000</F_MS_INFUSION>
@@ -27468,7 +27441,7 @@ Examples: Belgian White beer, Wit</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-08-20</_MOD_>
 <F_H_NAME>Hallertauer</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -27490,7 +27463,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-08-20</_MOD_>
 <F_M_NAME>Irish Moss</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -27508,7 +27481,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>5</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-08-20</_MOD_>
 <F_H_NAME>Hallertauer</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -27530,7 +27503,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-08-20</_MOD_>
 <F_M_NAME>Yeast Nutrient</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Fermentation</F_M_USE_FOR>
@@ -33628,7 +33601,7 @@ Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2015-06-24</_MOD_>
+<Recipe><_MOD_>2015-09-06</_MOD_>
 <F_R_NAME>Spruce</F_R_NAME>
 <F_R_BREWER>Matt</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -33811,7 +33784,7 @@ Mouthfeel: Medium-light to medium body; never heavy. Suspended yeast may increas
 <Size>9</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2015-07-01</_MOD_>
+<Data><Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Northwest Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>USA</F_G_ORIGIN>
 <F_G_SUPPLIER>Great Western Malting</F_G_SUPPLIER>
@@ -33838,7 +33811,7 @@ Mouthfeel: Medium-light to medium body; never heavy. Suspended yeast may increas
 <F_G_PRICE>0.0450000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-06-24</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Munich Malt - 20L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -33867,7 +33840,7 @@ Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-07-01</_MOD_>
+<Grain><_MOD_>1975-08-25</_MOD_>
 <F_G_NAME>Wheat, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -33933,7 +33906,7 @@ Examples: Belgian White beer, Wit</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>5</F_ORDER>
 </Misc>
-<Misc><_MOD_>1978-11-18</_MOD_>
+<Misc><_MOD_>1985-06-23</_MOD_>
 <F_M_NAME>Spruce Tips</F_M_NAME>
 <F_M_TYPE>2</F_M_TYPE>
 <F_M_USE_FOR>Flavor</F_M_USE_FOR>
@@ -33974,7 +33947,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2015-07-01</_MOD_>
+<Yeast><_MOD_>1976-02-28</_MOD_>
 <F_Y_NAME>Mute Dog Plum Blossom Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL010</F_Y_PRODUCT_ID>
@@ -34002,7 +33975,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_Y_BEST_FOR>belgians, sours</F_Y_BEST_FOR>
 <F_Y_NOTES>third sample of uber local yeast, harvested by setting some wort out while cleaning up a brew day and then dropping a plum blossom in for good measure. Harvested mid february.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2015-07-01</_MOD_>
+<Yeast><_MOD_>1976-02-28</_MOD_>
 <F_Y_NAME>Mute Dog Wild Grape Test</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL009</F_Y_PRODUCT_ID>
@@ -35484,7 +35457,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2015-08-06</_MOD_>
+<Recipe><_MOD_>2015-08-30</_MOD_>
 <F_R_NAME>Raw Mild</F_R_NAME>
 <F_R_BREWER>Matt</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -35578,7 +35551,7 @@ Mouthfeel: Light to medium body. Generally low to mediumlow carbonation. Roast-b
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2015-08-10</_MOD_>
+<Data><MashStep><_MOD_>2015-09-02</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>640.0000000</F_MS_INFUSION>
@@ -35667,7 +35640,7 @@ Mouthfeel: Light to medium body. Generally low to mediumlow carbonation. Roast-b
 <Size>8</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2015-08-10</_MOD_>
+<Data><Grain><_MOD_>2015-09-02</_MOD_>
 <F_G_NAME>Northwest Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>USA</F_G_ORIGIN>
 <F_G_SUPPLIER>Great Western Malting</F_G_SUPPLIER>
@@ -35694,7 +35667,7 @@ Mouthfeel: Light to medium body. Generally low to mediumlow carbonation. Roast-b
 <F_G_PRICE>0.0450000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-08-06</_MOD_>
+<Grain><_MOD_>2015-09-02</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt - 60L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -35722,7 +35695,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-08-10</_MOD_>
+<Grain><_MOD_>2015-09-02</_MOD_>
 <F_G_NAME>Brown Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -35749,7 +35722,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 60L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-08-10</_MOD_>
+<Grain><_MOD_>1975-12-15</_MOD_>
 <F_G_NAME>Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -35779,52 +35752,49 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Hops><_MOD_>2015-08-06</_MOD_>
-<F_H_NAME>Phoenix</F_H_NAME>
-<F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
+<F_H_NAME>Horizon</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>8.0000000</F_H_ALPHA>
-<F_H_BETA>4.6000000</F_H_BETA>
-<F_H_PERCENT>80.0000000</F_H_PERCENT>
+<F_H_ALPHA>11.5000000</F_H_ALPHA>
+<F_H_BETA>7.5000000</F_H_BETA>
+<F_H_PERCENT>50.0000000</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>4.0000000</F_H_AMOUNT>
-<F_H_HSI>10.0000000</F_H_HSI>
+<F_H_AMOUNT>2.0000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
 <F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>Seedling derived from Wye Yoeman.
-Used for: Ales
-Aroma: Similar to Wye Challenger hops
-Substitutes: Challenger, East Kent Golding, Northdown</F_H_NOTES>
-<F_H_IBU_CONTRIB>11.9366805</F_H_IBU_CONTRIB>
+<F_H_NOTES>Good dual purpose hops derived from Nugget hops in Oregon (1970)
+Used for: All purpose Ales, Lagers
+Aroma: Pleasant, hoppy
+Substitutes: Magnum or other high alpha hops</F_H_NOTES>
+<F_H_IBU_CONTRIB>8.5794891</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>2</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
 <Hops><_MOD_>2015-08-10</_MOD_>
-<F_H_NAME>Phoenix</F_H_NAME>
-<F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
-<F_H_TYPE>0</F_H_TYPE>
+<F_H_NAME>Sonnet</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>8.0000000</F_H_ALPHA>
-<F_H_BETA>4.6000000</F_H_BETA>
-<F_H_PERCENT>20.0000000</F_H_PERCENT>
-<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
-<F_H_HSI>10.0000000</F_H_HSI>
-<F_H_BOIL_TIME>20.0000000</F_H_BOIL_TIME>
+<F_H_ALPHA>2.6000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>50.0000000</F_H_PERCENT>
+<F_H_INVENTORY>16.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>2.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>Seedling derived from Wye Yoeman.
-Used for: Ales
-Aroma: Similar to Wye Challenger hops
-Substitutes: Challenger, East Kent Golding, Northdown</F_H_NOTES>
-<F_H_IBU_CONTRIB>4.5181142</F_H_IBU_CONTRIB>
+<F_H_NOTES>British-like</F_H_NOTES>
+<F_H_IBU_CONTRIB>4.8492764</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>4</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
-<F_H_PRICE>1.0000000</F_H_PRICE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2015-08-10</_MOD_>
+<Yeast><_MOD_>1976-06-05</_MOD_>
 <F_Y_NAME>Mute Dog Fruity Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL006</F_Y_PRODUCT_ID>
@@ -35852,7 +35822,7 @@ Substitutes: Challenger, East Kent Golding, Northdown</F_H_NOTES>
 <F_Y_BEST_FOR></F_Y_BEST_FOR>
 <F_Y_NOTES></F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2015-08-10</_MOD_>
+<Yeast><_MOD_>1975-12-15</_MOD_>
 <F_Y_NAME>Mute Dog Palatki Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL005</F_Y_PRODUCT_ID>
@@ -37258,220 +37228,6 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2015-06-17</_MOD_>
-<F_R_NAME>Untitled Recipe</F_R_NAME>
-<F_R_BREWER></F_R_BREWER>
-<F_R_ASST_BREWER></F_R_ASST_BREWER>
-<F_R_DATE>2015-06-17</F_R_DATE>
-<F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
-<F_R_FOLDER_NAME></F_R_FOLDER_NAME>
-<F_R_VOLUME_MEASURED>640.0000000</F_R_VOLUME_MEASURED>
-<F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
-<F_R_MASH_TIMER>0</F_R_MASH_TIMER>
-<F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
-<F_R_MTIMER_DOWN>0</F_R_MTIMER_DOWN>
-<F_R_BTIMER_DOWN>3600</F_R_BTIMER_DOWN>
-<Image></Image>
-<F_R_IMAGE_X>0</F_R_IMAGE_X>
-<F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>2015-06-23</_MOD_>
-<F_E_NAME>Pot ( 3 Gal/11.4 L) - Extract</F_E_NAME>
-<F_E_MASH_VOL>384.0000000</F_E_MASH_VOL>
-<F_E_TUN_MASS>48.0000000</F_E_TUN_MASS>
-<F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
-<F_E_TUN_SPECIFIC_HEAT>0.1200000</F_E_TUN_SPECIFIC_HEAT>
-<F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
-<F_E_TUN_ADJ_DEADSPACE>1</F_E_TUN_ADJ_DEADSPACE>
-<F_E_CALC_BOIL>1</F_E_CALC_BOIL>
-<F_E_BOIL_VOL>294.4000000</F_E_BOIL_VOL>
-<F_E_BOIL_TIME>60.0000000</F_E_BOIL_TIME>
-<F_E_OLD_EVAP_RATE>9.0000000</F_E_OLD_EVAP_RATE>
-<F_EQUIP_39>1</F_EQUIP_39>
-<F_E_BOIL_OFF>28.1600000</F_E_BOIL_OFF>
-<F_E_TRUB_LOSS>0.0000000</F_E_TRUB_LOSS>
-<F_E_COOL_PCT>4.0000000</F_E_COOL_PCT>
-<F_E_TOP_UP_KETTLE>0.0000000</F_E_TOP_UP_KETTLE>
-<F_E_BATCH_VOL>640.0000000</F_E_BATCH_VOL>
-<F_E_FERMENTER_LOSS>32.0000000</F_E_FERMENTER_LOSS>
-<F_E_TOP_UP>384.0000000</F_E_TOP_UP>
-<F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
-<F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
-<F_E_NOTES>Simple Brew Pot with a 3 Gallon Capacity - leaving a workable boil volume of around 2.5 gal.  Used for extract or partial mash brewing.</F_E_NOTES>
-</F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>2015-06-23</_MOD_>
-<F_S_NAME>American Amber Ale</F_S_NAME>
-<F_S_CATEGORY>American Pale Ale</F_S_CATEGORY>
-<F_S_GUIDE>BJCP 1999</F_S_GUIDE>
-<F_S_LETTER>2</F_S_LETTER>
-<F_S_NUMBER>6</F_S_NUMBER>
-<F_S_TYPE>0</F_S_TYPE>
-<F_S_MIN_OG>1.0450000</F_S_MIN_OG>
-<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
-<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
-<F_S_MAX_FG>1.0150000</F_S_MAX_FG>
-<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
-<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
-<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
-<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
-<F_S_MIN_COLOR>11.0000000</F_S_MIN_COLOR>
-<F_S_MAX_COLOR>18.0000000</F_S_MAX_COLOR>
-<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
-<F_S_MAX_ABV>5.7000000</F_S_MAX_ABV>
-<F_S_DESCRIPTION>Variation of the American Pale Ale style from the West Coast.  Slightly darker in color and more caramel flavor than American Pale.</F_S_DESCRIPTION>
-<F_S_PROFILE>Medium body, less malty with noticable caramel/crystal malt flavor.  Medium to high hop rate with corresponding aroma.  Light copper to brown in color.  Fruity and estery with low diacetyl.  Moderate carbonation.</F_S_PROFILE>
-<F_S_INGREDIENTS>American 2-row Pale Malt. Medium to dark crystal malt. American hops.  Dry hopping for aroma.  American ale yeast.</F_S_INGREDIENTS>
-<F_S_EXAMPLES>North Coast Red Seal Ale, Fat Tire Amber Ale, Full Sail Amber Ale</F_S_EXAMPLES>
-<F_S_WEB_LINK></F_S_WEB_LINK>
-</F_R_STYLE>
-<F_R_MASH><_MOD_>2015-06-23</_MOD_>
-<F_MH_NAME>Single Infusion, Light Body, No Mash Out</F_MH_NAME>
-<F_MH_GRAIN_WEIGHT>160.0000000</F_MH_GRAIN_WEIGHT>
-<F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
-<F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
-<F_MH_TUN_TEMP>72.0000000</F_MH_TUN_TEMP>
-<F_MH_PH>5.4000000</F_MH_PH>
-<F_MH_SPARGE_TEMP>168.0000000</F_MH_SPARGE_TEMP>
-<F_MH_BATCH>0</F_MH_BATCH>
-<F_MH_BATCH_PCT>100.0000000</F_MH_BATCH_PCT>
-<F_MH_BATCH_EVEN>0</F_MH_BATCH_EVEN>
-<F_MH_BATCH_DRAIN>0</F_MH_BATCH_DRAIN>
-<F_MASH_39>1</F_MASH_39>
-<F_MH_TUN_DEADSPACE>0.0000000</F_MH_TUN_DEADSPACE>
-<F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
-<F_MH_BIAB>0</F_MH_BIAB>
-<F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>2015-06-23</_MOD_>
-<Name>steps</Name>
-<Type>7432</Type>
-<Dirty>1</Dirty>
-<Owndata>1</Owndata>
-<TID>7149</TID>
-<Size>1</Size>
-<_XName>steps</_XName>
-<Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2015-06-23</_MOD_>
-<F_MS_NAME>Mash In</F_MS_NAME>
-<F_MS_TYPE>0</F_MS_TYPE>
-<F_MS_INFUSION>400.0000000</F_MS_INFUSION>
-<F_MS_STEP_TEMP>150.0000000</F_MS_STEP_TEMP>
-<F_MS_STEP_TIME>75.0000000</F_MS_STEP_TIME>
-<F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
-<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
-<F_MS_TUN_HC>0.0000000</F_MS_TUN_HC>
-<F_MS_TUN_VOL>0.0000000</F_MS_TUN_VOL>
-<F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
-<F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
-<F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
-<F_MS_GRAIN_TEMP>0.0000000</F_MS_GRAIN_TEMP>
-<F_MS_START_VOL>0.0000000</F_MS_START_VOL>
-<F_MS_GRAIN_WEIGHT>160.0000000</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>162.4419275</F_MS_INFUSION_TEMP>
-<F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
-</MashStep>
-</Data>
-<_TExpanded>1</_TExpanded>
-</steps>
-<F_MH_EQUIP_ADJUST>1</F_MH_EQUIP_ADJUST>
-<F_MH_TUN_VOL>384.0000000</F_MH_TUN_VOL>
-<F_MH_TUN_MASS>48.0000000</F_MH_TUN_MASS>
-<F_MH_TUN_HC>0.1200000</F_MH_TUN_HC>
-</F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1978-11-21</_MOD_>
-<F_G_NAME>Malt</F_G_NAME>
-<F_G_ORIGIN></F_G_ORIGIN>
-<F_G_SUPPLIER></F_G_SUPPLIER>
-<F_G_TYPE>0</F_G_TYPE>
-<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
-<F_G_COLOR>3.0000000</F_G_COLOR>
-<F_G_YIELD>75.0000000</F_G_YIELD>
-<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>0.0000000</F_G_PERCENT>
-<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
-<F_ORDER>0</F_ORDER>
-<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
-<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
-<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
-<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES></F_G_NOTES>
-<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>1.5000000</F_G_PRICE>
-<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
-</F_R_BASE_GRAIN>
-<F_R_CARB><_MOD_>2015-06-23</_MOD_>
-<F_C_NAME>Corn Sugar</F_C_NAME>
-<F_C_TEMPERATURE>70.0000000</F_C_TEMPERATURE>
-<F_C_TYPE>0</F_C_TYPE>
-<F_C_PRIMER_NAME>Corn Sugar</F_C_PRIMER_NAME>
-<F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
-<F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
-</F_R_CARB>
-<F_R_AGE><_MOD_>2015-06-23</_MOD_>
-<F_A_NAME>Ale, Two Stage</F_A_NAME>
-<F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
-<F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
-<F_A_SEC_TEMP>67.0000000</F_A_SEC_TEMP>
-<F_A_SEC_END_TEMP>67.0000000</F_A_SEC_END_TEMP>
-<F_A_TERT_TEMP>65.0000000</F_A_TERT_TEMP>
-<F_A_AGE_TEMP>65.0000000</F_A_AGE_TEMP>
-<F_A_TERT_END_TEMP>65.0000000</F_A_TERT_END_TEMP>
-<F_A_END_AGE_TEMP>65.0000000</F_A_END_AGE_TEMP>
-<F_A_END_TEMPS_SET>1</F_A_END_TEMPS_SET>
-<F_A_PRIM_DAYS>4.0000000</F_A_PRIM_DAYS>
-<F_A_SEC_DAYS>10.0000000</F_A_SEC_DAYS>
-<F_A_TERT_DAYS>7.0000000</F_A_TERT_DAYS>
-<F_A_AGE>30.0000000</F_A_AGE>
-<F_A_TYPE>1</F_A_TYPE>
-<F_A_NOTES></F_A_NOTES>
-</F_R_AGE>
-<Ingredients><_MOD_>2015-06-23</_MOD_>
-<Name>Ingredients</Name>
-<Type>7405</Type>
-<Dirty>0</Dirty>
-<Owndata>1</Owndata>
-<TID>7182</TID>
-<Size>0</Size>
-<_XName>Ingredients</_XName>
-<Allocinc>16</Allocinc>
-<Data></Data>
-<_TExpanded>1</_TExpanded>
-</Ingredients>
-<F_R_TYPE>0</F_R_TYPE>
-<F_R_OLD_TYPE>0</F_R_OLD_TYPE>
-<F_R_LOCKED>0</F_R_LOCKED>
-<F_R_OG_MEASURED>1.0460000</F_R_OG_MEASURED>
-<F_R_FG_MEASURED>1.0100000</F_R_FG_MEASURED>
-<F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
-<F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
-<F_R_BOIL_VOL_MEASURED>640.0000000</F_R_BOIL_VOL_MEASURED>
-<F_R_OG_BOIL_MEASURED>1.0500000</F_R_OG_BOIL_MEASURED>
-<F_R_NOTES></F_R_NOTES>
-<F_R_RATING>30.0000000</F_R_RATING>
-<F_R_DESCRIPTION></F_R_DESCRIPTION>
-<F_R_CARB_VOLS>2.3000000</F_R_CARB_VOLS>
-<F_R_MASH_PH>5.2000000</F_R_MASH_PH>
-<F_R_RUNOFF_PH>6.0000000</F_R_RUNOFF_PH>
-<F_R_RUNNING_GRAVITY>1.0100000</F_R_RUNNING_GRAVITY>
-<F_R_GRAIN_STEEP_TIME>30</F_R_GRAIN_STEEP_TIME>
-<F_R_GRAIN_STEEP_TEMP>155.0000000</F_R_GRAIN_STEEP_TEMP>
-<F_R_INCLUDE_STARTER>0</F_R_INCLUDE_STARTER>
-<F_R_VERSION>1.0000000</F_R_VERSION>
-<F_R_STARTER_SIZE>0.0000000</F_R_STARTER_SIZE>
-<F_R_STIR_PLATE>0</F_R_STIR_PLATE>
-<F_R_OLD_VOL>640.0000000</F_R_OLD_VOL>
-<F_R_OLD_BOIL_VOL>640.0000000</F_R_OLD_BOIL_VOL>
-<F_R_OLD_EFFICIENCY>72.0000000</F_R_OLD_EFFICIENCY>
-<F_R_DESIRED_IBU>20.0000000</F_R_DESIRED_IBU>
-<F_R_DESIRED_COLOR>10.0000000</F_R_DESIRED_COLOR>
-<F_R_COLOR_ADJ_STRING></F_R_COLOR_ADJ_STRING>
-<F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
-<F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
-</Recipe>
 <Recipe><_MOD_>2015-07-27</_MOD_>
 <F_R_NAME>American Solera Saison</F_R_NAME>
 <F_R_BREWER>CBA</F_R_BREWER>
@@ -37845,7 +37601,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2015-08-06</_MOD_>
+<Recipe><_MOD_>2015-08-27</_MOD_>
 <F_R_NAME>Downtrodden - AG</F_R_NAME>
 <F_R_BREWER>Matt</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -37856,8 +37612,8 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
 <F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
-<F_R_MTIMER_DOWN>3720</F_R_MTIMER_DOWN>
-<F_R_BTIMER_DOWN>3300</F_R_BTIMER_DOWN>
+<F_R_MTIMER_DOWN>2820</F_R_MTIMER_DOWN>
+<F_R_BTIMER_DOWN>3000</F_R_BTIMER_DOWN>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
@@ -37881,7 +37637,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_E_BATCH_VOL>1536.0000000</F_E_BATCH_VOL>
 <F_E_FERMENTER_LOSS>0.0000000</F_E_FERMENTER_LOSS>
 <F_E_TOP_UP>0.0000000</F_E_TOP_UP>
-<F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
+<F_E_EFFICIENCY>70.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES></F_E_NOTES>
 </F_R_EQUIPMENT>
@@ -37914,7 +37670,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
 </F_R_STYLE>
 <F_R_MASH><_MOD_>2015-08-10</_MOD_>
-<F_MH_NAME>Single Infusion, Medium Body, Batch Sparge</F_MH_NAME>
+<F_MH_NAME>Single Infusion, Full Body, Batch Sparge</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>592.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
@@ -37939,12 +37695,12 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2015-08-10</_MOD_>
+<Data><MashStep><_MOD_>2015-08-29</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>1480.0000000</F_MS_INFUSION>
-<F_MS_STEP_TEMP>152.0000000</F_MS_STEP_TEMP>
-<F_MS_STEP_TIME>60.0000000</F_MS_STEP_TIME>
+<F_MS_STEP_TEMP>156.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>45.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
 <F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
 <F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
@@ -37955,7 +37711,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
 <F_MS_GRAIN_WEIGHT>592.0000000</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>163.6566382</F_MS_INFUSION_TEMP>
+<F_MS_INFUSION_TEMP>168.2394701</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
 </Data>
@@ -38025,21 +37781,21 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7182</TID>
-<Size>7</Size>
+<Size>9</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1979-03-16</_MOD_>
+<Data><Grain><_MOD_>2015-08-27</_MOD_>
 <F_G_NAME>Northwest Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>USA</F_G_ORIGIN>
 <F_G_SUPPLIER>Great Western Malting</F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>544.0000000</F_G_AMOUNT>
+<F_G_AMOUNT>528.0000000</F_G_AMOUNT>
 <F_G_COLOR>2.8000000</F_G_COLOR>
 <F_G_YIELD>75.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>82.9268293</F_G_PERCENT>
+<F_G_PERCENT>80.4878049</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>1</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
@@ -38055,7 +37811,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_G_PRICE>0.0450000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1979-03-16</_MOD_>
+<Grain><_MOD_>2015-08-27</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -38083,18 +37839,18 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1979-03-16</_MOD_>
+<Grain><_MOD_>2015-08-27</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt - 10L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_AMOUNT>32.0000000</F_G_AMOUNT>
 <F_G_COLOR>10.0000000</F_G_COLOR>
 <F_G_YIELD>75.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>2.4390244</F_G_PERCENT>
+<F_G_PERCENT>4.8780488</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>3</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
@@ -38111,14 +37867,14 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1979-03-16</_MOD_>
+<Hops><_MOD_>2015-08-29</_MOD_>
 <F_H_NAME>Horizon</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>12.0000000</F_H_ALPHA>
+<F_H_ALPHA>11.5000000</F_H_ALPHA>
 <F_H_BETA>7.5000000</F_H_BETA>
-<F_H_PERCENT>60.0000000</F_H_PERCENT>
+<F_H_PERCENT>50.0000000</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.5000000</F_H_AMOUNT>
 <F_H_HSI>30.0000000</F_H_HSI>
@@ -38128,13 +37884,13 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 Used for: All purpose Ales, Lagers
 Aroma: Pleasant, hoppy
 Substitutes: Magnum or other high alpha hops</F_H_NOTES>
-<F_H_IBU_CONTRIB>23.1773589</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>22.5993562</F_H_IBU_CONTRIB>
 <F_ORDER>4</F_ORDER>
 <F_H_USE>3</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Grain><_MOD_>1979-03-16</_MOD_>
+<Grain><_MOD_>2015-08-27</_MOD_>
 <F_G_NAME>Sugar, Table (Sucrose)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -38161,14 +37917,37 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2015-08-10</_MOD_>
+<Hops><_MOD_>2015-08-27</_MOD_>
+<F_H_NAME>Horizon</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>0</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>11.5000000</F_H_ALPHA>
+<F_H_BETA>7.5000000</F_H_BETA>
+<F_H_PERCENT>16.6666667</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>0.5000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>10.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Good dual purpose hops derived from Nugget hops in Oregon (1970)
+Used for: All purpose Ales, Lagers
+Aroma: Pleasant, hoppy
+Substitutes: Magnum or other high alpha hops</F_H_NOTES>
+<F_H_IBU_CONTRIB>2.4829962</F_H_IBU_CONTRIB>
+<F_ORDER>6</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2015-08-29</_MOD_>
 <F_H_NAME>Glacier</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>5.6000000</F_H_ALPHA>
+<F_H_ALPHA>3.0000000</F_H_ALPHA>
 <F_H_BETA>7.6000000</F_H_BETA>
-<F_H_PERCENT>40.0000000</F_H_PERCENT>
+<F_H_PERCENT>33.3333333</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.0000000</F_H_AMOUNT>
 <F_H_HSI>28.5000000</F_H_HSI>
@@ -38178,13 +37957,41 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 Used for: Aroma
 Aroma: Excellent, hoppy
 Substitutes: N/A</F_H_NOTES>
-<F_H_IBU_CONTRIB>1.3068095</F_H_IBU_CONTRIB>
-<F_ORDER>6</F_ORDER>
+<F_H_IBU_CONTRIB>0.7122969</F_H_IBU_CONTRIB>
+<F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2015-08-10</_MOD_>
+<Yeast><_MOD_>2015-08-29</_MOD_>
+<F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
+<F_Y_LAB>Mute Dog Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>0.0000000</F_Y_PRICE>
+<F_ORDER>8</F_ORDER>
+<F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2015-08-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2015-08-27</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>78.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>88.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2012-08-27</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Styles</F_Y_BEST_FOR>
+<F_Y_NOTES>Loads of bubble gum/fruity esters.</F_Y_NOTES>
+</Yeast>
+<Misc><_MOD_>2015-08-29</_MOD_>
 <F_M_NAME>Pomace</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Color, Flavor</F_M_USE_FOR>
@@ -38200,7 +38007,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_NOTES>The pressed remains of fermented fruit, typically from wines or possibly cider.</F_M_NOTES>
 <F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>7</F_ORDER>
+<F_ORDER>9</F_ORDER>
 </Misc>
 </Data>
 <_TExpanded>1</_TExpanded>
@@ -39171,7 +38978,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2015-08-19</_MOD_>
+<Recipe><_MOD_>2015-09-06</_MOD_>
 <F_R_NAME>Mute Dog No&euml;l</F_R_NAME>
 <F_R_BREWER>Matt</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -39187,7 +38994,7 @@ Substitutes: N/A</F_H_NOTES>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2015-08-20</_MOD_>
 <F_E_NAME>My Equipment</F_E_NAME>
 <F_E_MASH_VOL>1536.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>160.0000000</F_E_TUN_MASS>
@@ -39211,7 +39018,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES></F_E_NOTES>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
+<F_R_STYLE><_MOD_>2015-08-20</_MOD_>
 <F_S_NAME>Belgian Golden Strong Ale</F_S_NAME>
 <F_S_CATEGORY>Belgian Strong Ale</F_S_CATEGORY>
 <F_S_GUIDE>BJCP 2008</F_S_GUIDE>
@@ -39239,9 +39046,9 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_S_EXAMPLES>Duvel, Russian River Damnation, Hapkin, Lucifer, Brigand, Judas, Delirium Tremens, Dulle Teve, Piraat, Great Divide Hades, Avery Salvation, North Coast Pranqster, Unibroue Eau Benite, AleSmith Horny Devil</F_S_EXAMPLES>
 <F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
 </F_R_STYLE>
-<F_R_MASH><_MOD_>1969-12-31</_MOD_>
+<F_R_MASH><_MOD_>2015-08-20</_MOD_>
 <F_MH_NAME>Single Infusion, Full Body, Batch Sparge</F_MH_NAME>
-<F_MH_GRAIN_WEIGHT>656.0000000</F_MH_GRAIN_WEIGHT>
+<F_MH_GRAIN_WEIGHT>662.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
 <F_MH_TUN_TEMP>72.0000000</F_MH_TUN_TEMP>
@@ -39256,7 +39063,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2015-08-20</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -39265,10 +39072,10 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2015-09-05</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
-<F_MS_INFUSION>1640.0000000</F_MS_INFUSION>
+<F_MS_INFUSION>1655.0000000</F_MS_INFUSION>
 <F_MS_STEP_TEMP>156.0000000</F_MS_STEP_TEMP>
 <F_MS_STEP_TIME>45.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
@@ -39280,7 +39087,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
-<F_MS_GRAIN_WEIGHT>656.0000000</F_MS_GRAIN_WEIGHT>
+<F_MS_GRAIN_WEIGHT>662.0000000</F_MS_GRAIN_WEIGHT>
 <F_MS_INFUSION_TEMP>168.2394701</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
@@ -39292,7 +39099,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2015-08-20</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -39319,7 +39126,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </F_R_BASE_GRAIN>
-<F_R_CARB><_MOD_>1969-12-31</_MOD_>
+<F_R_CARB><_MOD_>2015-08-20</_MOD_>
 <F_C_NAME>Keg</F_C_NAME>
 <F_C_TEMPERATURE>45.0000000</F_C_TEMPERATURE>
 <F_C_TYPE>1</F_C_TYPE>
@@ -39327,7 +39134,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2015-08-20</_MOD_>
 <F_A_NAME>Ale, Single Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -39345,27 +39152,27 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_A_TYPE>0</F_A_TYPE>
 <F_A_NOTES>A simple single stage fermentation, often used by extract brewers or for classic ales.</F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2015-08-20</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7182</TID>
-<Size>13</Size>
+<Size>15</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2015-08-19</_MOD_>
+<Data><Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Northwest Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>USA</F_G_ORIGIN>
 <F_G_SUPPLIER>Great Western Malting</F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>480.0000000</F_G_AMOUNT>
+<F_G_AMOUNT>432.0000000</F_G_AMOUNT>
 <F_G_COLOR>2.8000000</F_G_COLOR>
 <F_G_YIELD>75.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>73.1707317</F_G_PERCENT>
+<F_G_PERCENT>65.2567976</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>1</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
@@ -39381,7 +39188,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_G_PRICE>0.0450000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-08-19</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -39392,7 +39199,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_G_COLOR>2.0000000</F_G_COLOR>
 <F_G_YIELD>72.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>9.7560976</F_G_PERCENT>
+<F_G_PERCENT>9.6676737</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>2</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
@@ -39409,7 +39216,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-08-19</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Munich Malt - 10L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -39420,9 +39227,9 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_COLOR>10.0000000</F_G_COLOR>
 <F_G_YIELD>77.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>7.3170732</F_G_PERCENT>
+<F_G_PERCENT>7.2507553</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
-<F_ORDER>3</F_ORDER>
+<F_ORDER>4</F_ORDER>
 <F_G_COARSE_FINE_DIFF>2.8000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>5.0000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>50.0000000</F_G_DIASTATIC_POWER>
@@ -39438,37 +39245,35 @@ Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-08-19</_MOD_>
-<F_G_NAME>Oats, Flaked</F_G_NAME>
+<Grain><_MOD_>1969-12-31</_MOD_>
+<F_G_NAME>Caramel/Crystal Malt - 20L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
 <F_G_AMOUNT>32.0000000</F_G_AMOUNT>
-<F_G_COLOR>1.0000000</F_G_COLOR>
-<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_COLOR>20.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>4.8780488</F_G_PERCENT>
+<F_G_PERCENT>4.8338369</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>5</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>9.0000000</F_G_MOISTURE>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>9.0000000</F_G_PROTEIN>
+<F_G_PROTEIN>13.2000000</F_G_PROTEIN>
 <F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
 <F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
-<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>30.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Adds body, mouth feel and head retention to the beer
-Used in oatmeal stouts and porters
-Adds substantial protein haze to light beers
-Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Adds body, color and improves head retention.
+Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
 <F_G_PRICE>0.0800000</F_G_PRICE>
-<F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-08</_MOD_>
 <F_H_NAME>Glacier</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -39485,22 +39290,40 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 Used for: Aroma
 Aroma: Excellent, hoppy
 Substitutes: N/A</F_H_NOTES>
-<F_H_IBU_CONTRIB>24.7660111</F_H_IBU_CONTRIB>
-<F_ORDER>6</F_ORDER>
+<F_H_IBU_CONTRIB>24.5683021</F_H_IBU_CONTRIB>
+<F_ORDER>7</F_ORDER>
 <F_H_USE>3</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-05</_MOD_>
+<F_M_NAME>Irish Moss</F_M_NAME>
+<F_M_TYPE>1</F_M_TYPE>
+<F_M_USE_FOR>Clarity</F_M_USE_FOR>
+<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>6</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES>Fining agent that aids in the post-boil protein break.  Reduces protein chill haze and improves beer clarity.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>8</F_ORDER>
+</Misc>
+<Hops><_MOD_>2015-09-08</_MOD_>
 <F_H_NAME>Glacier</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>5.6000000</F_H_ALPHA>
 <F_H_BETA>7.6000000</F_H_BETA>
-<F_H_PERCENT>35.0000000</F_H_PERCENT>
+<F_H_PERCENT>15.0000000</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>1.7500000</F_H_AMOUNT>
+<F_H_AMOUNT>0.7500000</F_H_AMOUNT>
 <F_H_HSI>28.5000000</F_H_HSI>
 <F_H_BOIL_TIME>10.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
@@ -39508,12 +39331,66 @@ Substitutes: N/A</F_H_NOTES>
 Used for: Aroma
 Aroma: Excellent, hoppy
 Substitutes: N/A</F_H_NOTES>
-<F_H_IBU_CONTRIB>4.3955375</F_H_IBU_CONTRIB>
-<F_ORDER>8</F_ORDER>
+<F_H_IBU_CONTRIB>1.8687633</F_H_IBU_CONTRIB>
+<F_ORDER>10</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
+<Misc><_MOD_>2015-09-05</_MOD_>
+<F_M_NAME>Yeast Nutrient</F_M_NAME>
+<F_M_TYPE>4</F_M_TYPE>
+<F_M_USE_FOR>Fermentation</F_M_USE_FOR>
+<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>6</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES>Gives yeast nutrients for healthy fermentation.  Not needed for most beers, but good for those with a high percentage of adjuncts.  Add before yeast.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>11</F_ORDER>
+</Misc>
+<Misc><_MOD_>1975-08-31</_MOD_>
+<F_M_NAME>Cardamom (Pod, green)</F_M_NAME>
+<F_M_TYPE>0</F_M_TYPE>
+<F_M_USE_FOR>flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>6.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES>Green cardamom pods, smash with a muddler for more flavor extraction in the boil or add to primary unsmashed.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>12</F_ORDER>
+</Misc>
+<Misc><_MOD_>2015-09-05</_MOD_>
+<F_M_NAME>Orange Peel, Sweet</F_M_NAME>
+<F_M_TYPE>0</F_M_TYPE>
+<F_M_USE_FOR>Holiday Beers</F_M_USE_FOR>
+<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>1.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES>Adds a Conitreau or Grand Marnier flavor to your beer.  Used primarily in Belgian Strong Ale and Holiday Ales to add a sweet orange flavor and aroma.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>13</F_ORDER>
+</Misc>
 <Yeast><_MOD_>1969-12-31</_MOD_>
 <F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
@@ -39525,7 +39402,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
 <F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>0.0000000</F_Y_PRICE>
-<F_ORDER>12</F_ORDER>
+<F_ORDER>14</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
 <F_Y_BREW_DATE>2015-08-17</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2015-08-17</F_Y_PKG_DATE>
@@ -39542,79 +39419,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_Y_BEST_FOR>Belgian Styles</F_Y_BEST_FOR>
 <F_Y_NOTES>Loads of bubble gum/fruity esters.</F_Y_NOTES>
 </Yeast>
-<Misc><_MOD_>2015-08-19</_MOD_>
-<F_M_NAME>Yeast Nutrient</F_M_NAME>
-<F_M_TYPE>4</F_M_TYPE>
-<F_M_USE_FOR>Fermentation</F_M_USE_FOR>
-<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
-<F_M_UNITS>6</F_M_UNITS>
-<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>0.2500000</F_M_PRICE>
-<F_M_USE>0</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>10.0000000</F_M_TIME>
-<F_M_NOTES>Gives yeast nutrients for healthy fermentation.  Not needed for most beers, but good for those with a high percentage of adjuncts.  Add before yeast.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>9</F_ORDER>
-</Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
-<F_M_NAME>Irish Moss</F_M_NAME>
-<F_M_TYPE>1</F_M_TYPE>
-<F_M_USE_FOR>Clarity</F_M_USE_FOR>
-<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
-<F_M_UNITS>6</F_M_UNITS>
-<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>0.2500000</F_M_PRICE>
-<F_M_USE>0</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>10.0000000</F_M_TIME>
-<F_M_NOTES>Fining agent that aids in the post-boil protein break.  Reduces protein chill haze and improves beer clarity.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>7</F_ORDER>
-</Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
-<F_M_NAME>Orange Peel, Sweet</F_M_NAME>
-<F_M_TYPE>0</F_M_TYPE>
-<F_M_USE_FOR>Holiday Beers</F_M_USE_FOR>
-<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
-<F_M_UNITS>2</F_M_UNITS>
-<F_M_AMOUNT>1.5000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>0.2500000</F_M_PRICE>
-<F_M_USE>0</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>10.0000000</F_M_TIME>
-<F_M_NOTES>Adds a Conitreau or Grand Marnier flavor to your beer.  Used primarily in Belgian Strong Ale and Holiday Ales to add a sweet orange flavor and aroma.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>11</F_ORDER>
-</Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
-<F_M_NAME>Cardamom (Pod, green)</F_M_NAME>
-<F_M_TYPE>0</F_M_TYPE>
-<F_M_USE_FOR>flavor</F_M_USE_FOR>
-<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
-<F_M_UNITS>13</F_M_UNITS>
-<F_M_AMOUNT>6.0000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>1.0000000</F_M_PRICE>
-<F_M_USE>0</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>10.0000000</F_M_TIME>
-<F_M_NOTES>Green cardamom pods, smash with a muddler for more flavor extraction in the boil or add to primary unsmashed.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>10</F_ORDER>
-</Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>1976-01-18</_MOD_>
 <F_M_NAME>Almond Extract</F_M_NAME>
 <F_M_TYPE>3</F_M_TYPE>
 <F_M_USE_FOR>Flavor</F_M_USE_FOR>
@@ -39630,22 +39435,860 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_NOTES>Add before packaging, in small amounts at a time to taste.</F_M_NOTES>
 <F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>13</F_ORDER>
+<F_ORDER>15</F_ORDER>
 </Misc>
-<Grain><_MOD_>2015-08-19</_MOD_>
-<F_G_NAME>Caramel/Crystal Malt - 30L</F_G_NAME>
+<Grain><_MOD_>1969-12-31</_MOD_>
+<F_G_NAME>Wheat, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
 <F_G_AMOUNT>32.0000000</F_G_AMOUNT>
-<F_G_COLOR>30.0000000</F_G_COLOR>
+<F_G_COLOR>1.6000000</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>4.8338369</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>6</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>9.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>16.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>40.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flaked wheat adds to increased body and foam retention
+Used in place of raw or torrified wheat for faster conversion and better yield.
+May be used in small amounts to improve head retention and body
+Examples: Belgian White beer, Wit</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>1976-02-29</_MOD_>
+<F_G_NAME>Pale Malt (2 Row) US</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>54.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>79.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>8.1570997</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>3</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>140.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>12.3000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Base malt for all beer styles</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
+</Grain>
+<Hops><_MOD_>1998-04-07</_MOD_>
+<F_H_NAME>Glacier</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>3.8000000</F_H_ALPHA>
+<F_H_BETA>7.6000000</F_H_BETA>
+<F_H_PERCENT>20.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>28.5000000</F_H_HSI>
+<F_H_BOIL_TIME>10.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Genetic mix of at least 8 hops including Elsasser, Brewers Gold, N Brewer, Bullion, Early Green, and others...released in 2000.
+Used for: Aroma
+Aroma: Excellent, hoppy
+Substitutes: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>1.6907858</F_H_IBU_CONTRIB>
+<F_ORDER>9</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Ingredients>
+<F_R_TYPE>2</F_R_TYPE>
+<F_R_OLD_TYPE>0</F_R_OLD_TYPE>
+<F_R_LOCKED>0</F_R_LOCKED>
+<F_R_OG_MEASURED>1.0850000</F_R_OG_MEASURED>
+<F_R_FG_MEASURED>1.0100000</F_R_FG_MEASURED>
+<F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
+<F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
+<F_R_BOIL_VOL_MEASURED>640.0000000</F_R_BOIL_VOL_MEASURED>
+<F_R_OG_BOIL_MEASURED>1.0500000</F_R_OG_BOIL_MEASURED>
+<F_R_NOTES></F_R_NOTES>
+<F_R_RATING>30.0000000</F_R_RATING>
+<F_R_DESCRIPTION></F_R_DESCRIPTION>
+<F_R_CARB_VOLS>2.3000000</F_R_CARB_VOLS>
+<F_R_MASH_PH>5.2000000</F_R_MASH_PH>
+<F_R_RUNOFF_PH>6.0000000</F_R_RUNOFF_PH>
+<F_R_RUNNING_GRAVITY>1.0100000</F_R_RUNNING_GRAVITY>
+<F_R_GRAIN_STEEP_TIME>30</F_R_GRAIN_STEEP_TIME>
+<F_R_GRAIN_STEEP_TEMP>155.0000000</F_R_GRAIN_STEEP_TEMP>
+<F_R_INCLUDE_STARTER>0</F_R_INCLUDE_STARTER>
+<F_R_VERSION>1.0000000</F_R_VERSION>
+<F_R_STARTER_SIZE>0.0000000</F_R_STARTER_SIZE>
+<F_R_STIR_PLATE>0</F_R_STIR_PLATE>
+<F_R_OLD_VOL>640.0000000</F_R_OLD_VOL>
+<F_R_OLD_BOIL_VOL>640.0000000</F_R_OLD_BOIL_VOL>
+<F_R_OLD_EFFICIENCY>72.0000000</F_R_OLD_EFFICIENCY>
+<F_R_DESIRED_IBU>20.0000000</F_R_DESIRED_IBU>
+<F_R_DESIRED_COLOR>10.0000000</F_R_DESIRED_COLOR>
+<F_R_COLOR_ADJ_STRING></F_R_COLOR_ADJ_STRING>
+<F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
+<F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
+</Recipe>
+<Recipe><_MOD_>2015-09-08</_MOD_>
+<F_R_NAME>Currant Pale</F_R_NAME>
+<F_R_BREWER>Matt</F_R_BREWER>
+<F_R_ASST_BREWER></F_R_ASST_BREWER>
+<F_R_DATE>2015-08-30</F_R_DATE>
+<F_R_INV_DATE>1990-06-01</F_R_INV_DATE>
+<F_R_FOLDER_NAME></F_R_FOLDER_NAME>
+<F_R_VOLUME_MEASURED>1536.0000000</F_R_VOLUME_MEASURED>
+<F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
+<F_R_MASH_TIMER>0</F_R_MASH_TIMER>
+<F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
+<F_R_MTIMER_DOWN>2820</F_R_MTIMER_DOWN>
+<F_R_BTIMER_DOWN>3000</F_R_BTIMER_DOWN>
+<Image></Image>
+<F_R_IMAGE_X>0</F_R_IMAGE_X>
+<F_R_IMAGE_Y>0</F_R_IMAGE_Y>
+<F_R_EQUIPMENT><_MOD_>2015-09-02</_MOD_>
+<F_E_NAME>My Equipment</F_E_NAME>
+<F_E_MASH_VOL>1536.0000000</F_E_MASH_VOL>
+<F_E_TUN_MASS>160.0000000</F_E_TUN_MASS>
+<F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
+<F_E_TUN_SPECIFIC_HEAT>0.3000000</F_E_TUN_SPECIFIC_HEAT>
+<F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
+<F_E_CALC_BOIL>1</F_E_CALC_BOIL>
+<F_E_BOIL_VOL>1693.4400000</F_E_BOIL_VOL>
+<F_E_BOIL_TIME>60.0000000</F_E_BOIL_TIME>
+<F_E_OLD_EVAP_RATE>10.0000000</F_E_OLD_EVAP_RATE>
+<F_EQUIP_39>1</F_EQUIP_39>
+<F_E_BOIL_OFF>96.0000000</F_E_BOIL_OFF>
+<F_E_TRUB_LOSS>0.0000000</F_E_TRUB_LOSS>
+<F_E_COOL_PCT>4.0000000</F_E_COOL_PCT>
+<F_E_TOP_UP_KETTLE>0.0000000</F_E_TOP_UP_KETTLE>
+<F_E_BATCH_VOL>1536.0000000</F_E_BATCH_VOL>
+<F_E_FERMENTER_LOSS>0.0000000</F_E_FERMENTER_LOSS>
+<F_E_TOP_UP>0.0000000</F_E_TOP_UP>
+<F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
+<F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
+<F_E_NOTES></F_E_NOTES>
+</F_R_EQUIPMENT>
+<F_R_STYLE><_MOD_>2030-10-23</_MOD_>
+<F_S_NAME>Belgian Pale Ale</F_S_NAME>
+<F_S_CATEGORY>Belgian and French Ale</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2008</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>16</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0480000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0540000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.1000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>8.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>14.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A fruity, moderately malty, somewhat spicy, easy-drinking, copper-colored ale. Produced by breweries with roots as far back as the mid-1700s, the most well-known examples were perfected after the Second World War with some influence from Britain, including hops and yeast strains. Most commonly found in the Flemish provinces of Antwerp and Brabant. Considered &ldquo;everyday&rdquo; beers (Category I). Compared to their higher alcohol Category S cousins, they are Belgian &ldquo;session beers&rdquo; for ease of drinking. Nothing should be too pronounced or dominant; balance is the key.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Prominent aroma of malt with moderate fruity character and low hop aroma. Toasty, biscuity malt aroma. May have an orange- or pear-like fruitiness though not as fruity/citrusy as many other Belgian ales. Distinctive floral or spicy, low to moderate strength hop character optionally blended with background level peppery, spicy phenols. No diacetyl.
+Appearance: Amber to copper in color. Clarity is very good. Creamy, rocky, white head often fades more quickly than other Belgian beers.
+Flavor: Fruity and lightly to moderately spicy with a soft, smooth malt and relatively light hop character and low to very low phenols. May have an orange- or pear-like fruitiness, though not as fruity/citrusy as many other Belgian ales. Has an initial soft, malty sweetness with a toasty, biscuity, nutty malt flavor. The hop flavor is low to none. The hop bitterness is medium to low, and is optionally complemented by low amounts of peppery phenols. There is a moderately dry to moderately sweet finish, with hops becoming more pronounced in those with a drier finish.
+Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any warming character should be low if present. No hot alcohol or solventy character. Medium carbonation.</F_S_PROFILE>
+<F_S_INGREDIENTS>Pilsner or pale ale malt contributes the bulk of the grist with (cara) Vienna and Munich malts adding color, body and complexity. Sugar is not commonly used as high gravity is not desired. Noble hops, Styrian Goldings, East Kent Goldings or Fuggles are commonly used. Yeasts prone to moderate production of phenols are often used but fermentation temperatures should be kept moderate to limit this character.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>De Koninck, Speciale Palm, Dobble Palm, Russian River Perdition, Ginder Ale, Op-Ale, St. Pieters Zinnebir, Brewer&#39;s Art House Pale Ale, Avery Karma, Eisenbahn Pale Ale, Ommegang Rare Vos (unusual in its 6.5% ABV strength)</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</F_R_STYLE>
+<F_R_MASH><_MOD_>2015-09-02</_MOD_>
+<F_MH_NAME>Single Infusion, Full Body, Batch Sparge</F_MH_NAME>
+<F_MH_GRAIN_WEIGHT>400.0000000</F_MH_GRAIN_WEIGHT>
+<F_MH_GRAIN_TEMP>65.0000000</F_MH_GRAIN_TEMP>
+<F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
+<F_MH_TUN_TEMP>72.0000000</F_MH_TUN_TEMP>
+<F_MH_PH>5.4000000</F_MH_PH>
+<F_MH_SPARGE_TEMP>168.0000000</F_MH_SPARGE_TEMP>
+<F_MH_BATCH>1</F_MH_BATCH>
+<F_MH_BATCH_PCT>90.0000000</F_MH_BATCH_PCT>
+<F_MH_BATCH_EVEN>1</F_MH_BATCH_EVEN>
+<F_MH_BATCH_DRAIN>0</F_MH_BATCH_DRAIN>
+<F_MASH_39>1</F_MASH_39>
+<F_MH_TUN_DEADSPACE>0.0000000</F_MH_TUN_DEADSPACE>
+<F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
+<F_MH_BIAB>0</F_MH_BIAB>
+<F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
+<steps><_MOD_>1976-07-01</_MOD_>
+<Name>steps</Name>
+<Type>7432</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7149</TID>
+<Size>1</Size>
+<_XName>steps</_XName>
+<Allocinc>16</Allocinc>
+<Data><MashStep><_MOD_>2015-09-04</_MOD_>
+<F_MS_NAME>Mash In</F_MS_NAME>
+<F_MS_TYPE>0</F_MS_TYPE>
+<F_MS_INFUSION>1024.0000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>156.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>45.0000000</F_MS_STEP_TIME>
+<F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
+<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
+<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>1536.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
+<F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
+<F_MS_GRAIN_TEMP>65.0000000</F_MS_GRAIN_TEMP>
+<F_MS_START_VOL>0.0000000</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>400.0000000</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>168.9486581</F_MS_INFUSION_TEMP>
+<F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
+</MashStep>
+</Data>
+<_TExpanded>1</_TExpanded>
+</steps>
+<F_MH_EQUIP_ADJUST>0</F_MH_EQUIP_ADJUST>
+<F_MH_TUN_VOL>1536.0000000</F_MH_TUN_VOL>
+<F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
+<F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
+</F_R_MASH>
+<F_R_BASE_GRAIN><_MOD_>2015-09-02</_MOD_>
+<F_G_NAME>Malt</F_G_NAME>
+<F_G_ORIGIN></F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.0000000</F_G_COLOR>
 <F_G_YIELD>75.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>4.8780488</F_G_PERCENT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES></F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>1.5000000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</F_R_BASE_GRAIN>
+<F_R_CARB><_MOD_>2015-08-30</_MOD_>
+<F_C_NAME>Corn Sugar</F_C_NAME>
+<F_C_TEMPERATURE>70.0000000</F_C_TEMPERATURE>
+<F_C_TYPE>0</F_C_TYPE>
+<F_C_PRIMER_NAME>Corn Sugar</F_C_PRIMER_NAME>
+<F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
+<F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
+</F_R_CARB>
+<F_R_AGE><_MOD_>2015-09-02</_MOD_>
+<F_A_NAME>Ale, Single Stage</F_A_NAME>
+<F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
+<F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
+<F_A_SEC_TEMP>65.0000000</F_A_SEC_TEMP>
+<F_A_SEC_END_TEMP>65.0000000</F_A_SEC_END_TEMP>
+<F_A_TERT_TEMP>65.0000000</F_A_TERT_TEMP>
+<F_A_AGE_TEMP>65.0000000</F_A_AGE_TEMP>
+<F_A_TERT_END_TEMP>65.0000000</F_A_TERT_END_TEMP>
+<F_A_END_AGE_TEMP>65.0000000</F_A_END_AGE_TEMP>
+<F_A_END_TEMPS_SET>1</F_A_END_TEMPS_SET>
+<F_A_PRIM_DAYS>14.0000000</F_A_PRIM_DAYS>
+<F_A_SEC_DAYS>10.0000000</F_A_SEC_DAYS>
+<F_A_TERT_DAYS>7.0000000</F_A_TERT_DAYS>
+<F_A_AGE>30.0000000</F_A_AGE>
+<F_A_TYPE>0</F_A_TYPE>
+<F_A_NOTES>A simple single stage fermentation, often used by extract brewers or for classic ales.</F_A_NOTES>
+</F_R_AGE>
+<Ingredients><_MOD_>1976-07-01</_MOD_>
+<Name>Ingredients</Name>
+<Type>7405</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7182</TID>
+<Size>11</Size>
+<_XName>Ingredients</_XName>
+<Allocinc>16</Allocinc>
+<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<F_G_NAME>Northwest Pale Ale Malt</F_G_NAME>
+<F_G_ORIGIN>USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Great Western Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>176.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.8000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>44.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>1</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>A slightly darker base malt than our Premium 2-Row, our Northwest Pale Ale Malt is produced from well-modified, Western-grown 2-Row barley, with a kilning regimen based closely on traditional British Pale Ale malting practices. Contributes a malty complexity to beer flavor and aroma. Excellent in American Pale Ales and American versions of British beer styles.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0450000</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>1969-12-31</_MOD_>
+<F_G_NAME>Caramunich Malt</F_G_NAME>
+<F_G_ORIGIN>Belgium</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>32.0000000</F_G_AMOUNT>
+<F_G_COLOR>56.0000000</F_G_COLOR>
+<F_G_YIELD>71.7000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>8.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>3</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Caramel, copper colored malt.  Used in Belgian ales and German bocks.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>1975-11-17</_MOD_>
+<F_G_NAME>Victory Malt</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>32.0000000</F_G_AMOUNT>
+<F_G_COLOR>25.0000000</F_G_COLOR>
+<F_G_YIELD>73.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>8.0000000</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>4</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>50.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>13.2000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Toasted malt that adds a &quot;Biscuit&quot; or toasted flavor to English ales.
+Use for: Nut brown ales, porters</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 30L</F_G_CONVERT_GRAIN>
+</Grain>
+<Hops><_MOD_>2015-09-08</_MOD_>
+<F_H_NAME>Horizon</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>0</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>11.5000000</F_H_ALPHA>
+<F_H_BETA>7.5000000</F_H_BETA>
+<F_H_PERCENT>25.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Good dual purpose hops derived from Nugget hops in Oregon (1970)
+Used for: All purpose Ales, Lagers
+Aroma: Pleasant, hoppy
+Substitutes: Magnum or other high alpha hops</F_H_NOTES>
+<F_H_IBU_CONTRIB>20.3822766</F_H_IBU_CONTRIB>
+<F_ORDER>5</F_ORDER>
+<F_H_USE>3</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+<Misc><_MOD_>2015-09-04</_MOD_>
+<F_M_NAME>Irish Moss</F_M_NAME>
+<F_M_TYPE>1</F_M_TYPE>
+<F_M_USE_FOR>Clarity</F_M_USE_FOR>
+<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>6</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES>Fining agent that aids in the post-boil protein break.  Reduces protein chill haze and improves beer clarity.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>6</F_ORDER>
+</Misc>
+<Hops><_MOD_>2015-09-08</_MOD_>
+<F_H_NAME>Sonnet</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>2.6000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>50.0000000</F_H_PERCENT>
+<F_H_INVENTORY>16.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>2.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>10.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>British-like</F_H_NOTES>
+<F_H_IBU_CONTRIB>3.0378018</F_H_IBU_CONTRIB>
+<F_ORDER>7</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Misc><_MOD_>1978-11-20</_MOD_>
+<F_M_NAME>Yeast Nutrient</F_M_NAME>
+<F_M_TYPE>4</F_M_TYPE>
+<F_M_USE_FOR>Fermentation</F_M_USE_FOR>
+<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>6</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES>Gives yeast nutrients for healthy fermentation.  Not needed for most beers, but good for those with a high percentage of adjuncts.  Add before yeast.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>8</F_ORDER>
+</Misc>
+<Hops><_MOD_>1969-12-31</_MOD_>
+<F_H_NAME>Sonnet</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>2.6000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>25.0000000</F_H_PERCENT>
+<F_H_INVENTORY>16.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>20.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>British-like</F_H_NOTES>
+<F_H_IBU_CONTRIB>1.2685253</F_H_IBU_CONTRIB>
+<F_ORDER>9</F_ORDER>
+<F_H_USE>4</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Yeast><_MOD_>1969-12-31</_MOD_>
+<F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
+<F_Y_LAB>Mute Dog Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>0.0000000</F_Y_PRICE>
+<F_ORDER>10</F_ORDER>
+<F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2015-08-30</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2015-08-30</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>78.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>88.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2012-08-27</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Styles</F_Y_BEST_FOR>
+<F_Y_NOTES>Loads of bubble gum/fruity esters.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>1969-12-31</_MOD_>
+<F_Y_NAME>Mute Dog Fruity Yeast</F_Y_NAME>
+<F_Y_LAB>Mute Dog Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>MDL006</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>11</F_ORDER>
+<F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2015-08-30</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2015-08-30</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2014-04-25</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES></F_Y_NOTES>
+</Yeast>
+<Grain><_MOD_>1975-10-25</_MOD_>
+<F_G_NAME>Pale Malt (2 Row) US</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>160.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>79.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>40.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>2</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>140.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>12.3000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Base malt for all beer styles</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
+</Grain>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Ingredients>
+<F_R_TYPE>2</F_R_TYPE>
+<F_R_OLD_TYPE>0</F_R_OLD_TYPE>
+<F_R_LOCKED>0</F_R_LOCKED>
+<F_R_OG_MEASURED>1.0550000</F_R_OG_MEASURED>
+<F_R_FG_MEASURED>1.0080000</F_R_FG_MEASURED>
+<F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
+<F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
+<F_R_BOIL_VOL_MEASURED>640.0000000</F_R_BOIL_VOL_MEASURED>
+<F_R_OG_BOIL_MEASURED>1.0500000</F_R_OG_BOIL_MEASURED>
+<F_R_NOTES>Split off one gallon from the kettle to test out the magic stick.
+
+After primary fermentation, split one six gallon batch into 3 different carboys and add red, white and black currants; one in each carboy. 0.5lbs white currants, 0.5lbs red currants, 0.25lbs black currants.</F_R_NOTES>
+<F_R_RATING>30.0000000</F_R_RATING>
+<F_R_DESCRIPTION></F_R_DESCRIPTION>
+<F_R_CARB_VOLS>2.3000000</F_R_CARB_VOLS>
+<F_R_MASH_PH>5.2000000</F_R_MASH_PH>
+<F_R_RUNOFF_PH>6.0000000</F_R_RUNOFF_PH>
+<F_R_RUNNING_GRAVITY>1.0100000</F_R_RUNNING_GRAVITY>
+<F_R_GRAIN_STEEP_TIME>30</F_R_GRAIN_STEEP_TIME>
+<F_R_GRAIN_STEEP_TEMP>155.0000000</F_R_GRAIN_STEEP_TEMP>
+<F_R_INCLUDE_STARTER>0</F_R_INCLUDE_STARTER>
+<F_R_VERSION>1.0000000</F_R_VERSION>
+<F_R_STARTER_SIZE>0.0000000</F_R_STARTER_SIZE>
+<F_R_STIR_PLATE>0</F_R_STIR_PLATE>
+<F_R_OLD_VOL>640.0000000</F_R_OLD_VOL>
+<F_R_OLD_BOIL_VOL>640.0000000</F_R_OLD_BOIL_VOL>
+<F_R_OLD_EFFICIENCY>72.0000000</F_R_OLD_EFFICIENCY>
+<F_R_DESIRED_IBU>20.0000000</F_R_DESIRED_IBU>
+<F_R_DESIRED_COLOR>10.0000000</F_R_DESIRED_COLOR>
+<F_R_COLOR_ADJ_STRING></F_R_COLOR_ADJ_STRING>
+<F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
+<F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
+</Recipe>
+<Recipe><_MOD_>2015-09-02</_MOD_>
+<F_R_NAME>Unsunk norwegian</F_R_NAME>
+<F_R_BREWER>Matt</F_R_BREWER>
+<F_R_ASST_BREWER></F_R_ASST_BREWER>
+<F_R_DATE>2015-09-02</F_R_DATE>
+<F_R_INV_DATE>1990-06-01</F_R_INV_DATE>
+<F_R_FOLDER_NAME></F_R_FOLDER_NAME>
+<F_R_VOLUME_MEASURED>640.0000000</F_R_VOLUME_MEASURED>
+<F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
+<F_R_MASH_TIMER>0</F_R_MASH_TIMER>
+<F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
+<F_R_MTIMER_DOWN>2820</F_R_MTIMER_DOWN>
+<F_R_BTIMER_DOWN>3000</F_R_BTIMER_DOWN>
+<Image></Image>
+<F_R_IMAGE_X>0</F_R_IMAGE_X>
+<F_R_IMAGE_Y>0</F_R_IMAGE_Y>
+<F_R_EQUIPMENT><_MOD_>2015-09-02</_MOD_>
+<F_E_NAME>My Equipment</F_E_NAME>
+<F_E_MASH_VOL>1536.0000000</F_E_MASH_VOL>
+<F_E_TUN_MASS>160.0000000</F_E_TUN_MASS>
+<F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
+<F_E_TUN_SPECIFIC_HEAT>0.3000000</F_E_TUN_SPECIFIC_HEAT>
+<F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
+<F_E_CALC_BOIL>1</F_E_CALC_BOIL>
+<F_E_BOIL_VOL>1693.4400000</F_E_BOIL_VOL>
+<F_E_BOIL_TIME>60.0000000</F_E_BOIL_TIME>
+<F_E_OLD_EVAP_RATE>10.0000000</F_E_OLD_EVAP_RATE>
+<F_EQUIP_39>1</F_EQUIP_39>
+<F_E_BOIL_OFF>96.0000000</F_E_BOIL_OFF>
+<F_E_TRUB_LOSS>0.0000000</F_E_TRUB_LOSS>
+<F_E_COOL_PCT>4.0000000</F_E_COOL_PCT>
+<F_E_TOP_UP_KETTLE>0.0000000</F_E_TOP_UP_KETTLE>
+<F_E_BATCH_VOL>1536.0000000</F_E_BATCH_VOL>
+<F_E_FERMENTER_LOSS>0.0000000</F_E_FERMENTER_LOSS>
+<F_E_TOP_UP>0.0000000</F_E_TOP_UP>
+<F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
+<F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
+<F_E_NOTES></F_E_NOTES>
+</F_R_EQUIPMENT>
+<F_R_STYLE><_MOD_>2015-09-02</_MOD_>
+<F_S_NAME>Baltic Porter</F_S_NAME>
+<F_S_CATEGORY>Porter</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2008</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>1.0600000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0900000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0160000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0240000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>17.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>9.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A Baltic Porter often has the malt flavors reminiscent of an English brown porter and the restrained roast of a schwarzbier, but with a higher OG and alcohol content than either. Very complex, with multi-layered flavors. Traditional beer from countries bordering the Baltic Sea. Derived from English porters but influenced by Russian Imperial Stouts. May also be described as an Imperial Porter, although heavily roasted or hopped versions should be entered as either Imperial Stouts (13F) or Specialty Beers (23).</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Rich malty sweetness often containing caramel, toffee, nutty to deep toast, and/or licorice notes. Complex alcohol and ester profile of moderate strength, and reminiscent of plums, prunes, raisins, cherries or currants, occasionally with a vinous Port-like quality. Some darker malt character that is deep chocolate, coffee or molasses but never burnt. No hops. No sourness. Very smooth.
+Appearance: Dark reddish copper to opaque dark brown (not black). Thick, persistent tan-colored head. Clear, although darker versions can be opaque.
+Flavor: As with aroma, has a rich malty sweetness with a complex blend of deep malt, dried fruit esters, and alcohol. Has a prominent yet smooth schwarzbier-like roasted flavor that stops short of burnt. Mouth-filling and very smooth. Clean lager character; no diacetyl. Starts sweet but darker malt flavors quickly dominates and persists through finish. Just a touch dry with a hint of roast coffee or licorice in the finish. Malt can have a caramel, toffee, nutty, molasses and/or licorice complexity. Light hints of black currant and dark fruits. Medium-low to medium bitterness from malt and hops, just to provide balance. Hop flavor from slightly spicy hops (Lublin or Saaz types) ranges from none to medium-low.
+Mouthfeel: Generally quite full-bodied and smooth, with a well-aged alcohol warmth (although the rarer lower gravity Carnegie-style versions will have a medium body and less warmth). Medium to medium-high carbonation, making it seem even more mouth-filling. Not heavy on the tongue due to carbonation level. Most versions are in the 7-8.5% ABV range.</F_S_PROFILE>
+<F_S_INGREDIENTS>Generally lager yeast (cold fermented if using ale yeast). Debittered chocolate or black malt. Munich or Vienna base malt. Continental hops. May contain crystal malts and/or adjuncts. Brown or amber malt common in historical recipes.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Sinebrychoff Porter (Finland), Okocim Porter (Poland), Zywiec Porter (Poland), Baltika #6 Porter (Russia), Carnegie Stark Porter (Sweden), Aldaris Porteris (Latvia), Utenos Porter (Lithuania), Stepan Razin Porter (Russia), N&oslash;gne &oslash; porter (Norway), Neuzeller Kloster-Br&auml;u Neuzeller Porter (Germany), Southampton Imperial Baltic Porter</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</F_R_STYLE>
+<F_R_MASH><_MOD_>2015-09-02</_MOD_>
+<F_MH_NAME>Single Infusion, Full Body, Batch Sparge</F_MH_NAME>
+<F_MH_GRAIN_WEIGHT>540.0000000</F_MH_GRAIN_WEIGHT>
+<F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
+<F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
+<F_MH_TUN_TEMP>72.0000000</F_MH_TUN_TEMP>
+<F_MH_PH>5.4000000</F_MH_PH>
+<F_MH_SPARGE_TEMP>168.0000000</F_MH_SPARGE_TEMP>
+<F_MH_BATCH>1</F_MH_BATCH>
+<F_MH_BATCH_PCT>90.0000000</F_MH_BATCH_PCT>
+<F_MH_BATCH_EVEN>1</F_MH_BATCH_EVEN>
+<F_MH_BATCH_DRAIN>0</F_MH_BATCH_DRAIN>
+<F_MASH_39>1</F_MASH_39>
+<F_MH_TUN_DEADSPACE>0.0000000</F_MH_TUN_DEADSPACE>
+<F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
+<F_MH_BIAB>0</F_MH_BIAB>
+<F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
+<steps><_MOD_>2015-09-02</_MOD_>
+<Name>steps</Name>
+<Type>7432</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7149</TID>
+<Size>1</Size>
+<_XName>steps</_XName>
+<Allocinc>16</Allocinc>
+<Data><MashStep><_MOD_>2015-09-03</_MOD_>
+<F_MS_NAME>Mash In</F_MS_NAME>
+<F_MS_TYPE>0</F_MS_TYPE>
+<F_MS_INFUSION>1350.0000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>156.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>45.0000000</F_MS_STEP_TIME>
+<F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
+<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
+<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>1536.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
+<F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
+<F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
+<F_MS_START_VOL>0.0000000</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>540.0000000</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>168.2394701</F_MS_INFUSION_TEMP>
+<F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
+</MashStep>
+</Data>
+<_TExpanded>1</_TExpanded>
+</steps>
+<F_MH_EQUIP_ADJUST>0</F_MH_EQUIP_ADJUST>
+<F_MH_TUN_VOL>1536.0000000</F_MH_TUN_VOL>
+<F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
+<F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
+</F_R_MASH>
+<F_R_BASE_GRAIN><_MOD_>1978-12-23</_MOD_>
+<F_G_NAME>Malt</F_G_NAME>
+<F_G_ORIGIN></F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES></F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>1.5000000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</F_R_BASE_GRAIN>
+<F_R_CARB><_MOD_>2015-09-02</_MOD_>
+<F_C_NAME>Corn Sugar</F_C_NAME>
+<F_C_TEMPERATURE>70.0000000</F_C_TEMPERATURE>
+<F_C_TYPE>0</F_C_TYPE>
+<F_C_PRIMER_NAME>Corn Sugar</F_C_PRIMER_NAME>
+<F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
+<F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
+</F_R_CARB>
+<F_R_AGE><_MOD_>2015-09-02</_MOD_>
+<F_A_NAME>Ale, Two Stage</F_A_NAME>
+<F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
+<F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
+<F_A_SEC_TEMP>67.0000000</F_A_SEC_TEMP>
+<F_A_SEC_END_TEMP>67.0000000</F_A_SEC_END_TEMP>
+<F_A_TERT_TEMP>65.0000000</F_A_TERT_TEMP>
+<F_A_AGE_TEMP>65.0000000</F_A_AGE_TEMP>
+<F_A_TERT_END_TEMP>65.0000000</F_A_TERT_END_TEMP>
+<F_A_END_AGE_TEMP>65.0000000</F_A_END_AGE_TEMP>
+<F_A_END_TEMPS_SET>1</F_A_END_TEMPS_SET>
+<F_A_PRIM_DAYS>4.0000000</F_A_PRIM_DAYS>
+<F_A_SEC_DAYS>10.0000000</F_A_SEC_DAYS>
+<F_A_TERT_DAYS>7.0000000</F_A_TERT_DAYS>
+<F_A_AGE>30.0000000</F_A_AGE>
+<F_A_TYPE>1</F_A_TYPE>
+<F_A_NOTES></F_A_NOTES>
+</F_R_AGE>
+<Ingredients><_MOD_>2015-09-02</_MOD_>
+<Name>Ingredients</Name>
+<Type>7405</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7182</TID>
+<Size>11</Size>
+<_XName>Ingredients</_XName>
+<Allocinc>16</Allocinc>
+<Data><Grain><_MOD_>2015-09-02</_MOD_>
+<F_G_NAME>Munich Malt</F_G_NAME>
+<F_G_ORIGIN>Germany</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>480.0000000</F_G_AMOUNT>
+<F_G_COLOR>9.0000000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>88.8888889</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>1</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.3000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>72.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.5000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>80.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Malty-sweet flavor characteristic and adds a reddish amber color to the beer.
+Does not contribute signficantly to body or head retention.
+Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2015-09-02</_MOD_>
+<F_G_NAME>Rye Malt</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>32.0000000</F_G_AMOUNT>
+<F_G_COLOR>4.7000000</F_G_COLOR>
+<F_G_YIELD>63.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>5.9259259</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>2</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>75.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.3000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Adds a dry, crisp character to the beer.  
+Yields a deep red color, and a distinctive rye flavor
+Must limit to 10-15% fo the mash as it tends to produce &quot;stuck&quot; mashes.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2015-09-03</_MOD_>
+<F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>72.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>2.9629630</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>3</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
@@ -39654,19 +40297,204 @@ Substitutes: N/A</F_H_NOTES>
 <F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
 <F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
 <F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Adds body, color and improves head retention.
-Also called &quot;Crystal&quot; malt.</F_G_NOTES>
+<F_G_NOTES>Significantly increases foam/head retention and body of the beer.
+Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
+<Grain><_MOD_>1978-11-18</_MOD_>
+<F_G_NAME>Black (Patent) Malt</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>8.0000000</F_G_AMOUNT>
+<F_G_COLOR>500.0000000</F_G_COLOR>
+<F_G_YIELD>55.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>1.4814815</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>4</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>13.2000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Dark color and dry roasted flavor characteristic of Stouts and Porters
+Use for: Coloring in small amounts, or flavoring of Stouts and Porters in larger amounts.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>1978-11-18</_MOD_>
+<F_G_NAME>Chocolate Malt</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>4.0000000</F_G_AMOUNT>
+<F_G_COLOR>450.0000000</F_G_COLOR>
+<F_G_YIELD>73.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.7407407</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>5</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.5000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Dark malt that gives a rich red or brown color and nutty flavor.
+Use for: Brown ales, porters, some stouts
+Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Misc><_MOD_>2015-09-03</_MOD_>
+<F_M_NAME>Yarrow, flowers and leaves (dried)</F_M_NAME>
+<F_M_TYPE>2</F_M_TYPE>
+<F_M_USE_FOR>Bittering, flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>2.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>60.0000000</F_M_TIME>
+<F_M_NOTES></F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>6</F_ORDER>
+</Misc>
+<Misc><_MOD_>1978-11-18</_MOD_>
+<F_M_NAME>Gale, Sweet</F_M_NAME>
+<F_M_TYPE>0</F_M_TYPE>
+<F_M_USE_FOR>Holiday Beers</F_M_USE_FOR>
+<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>0.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.1000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>60.0000000</F_M_TIME>
+<F_M_NOTES>Very strong, fragrant shrub.  Great spice, though relatively unknown.  Aroma used in soups, stews, and candles.  Well suited for holiday beers.  Use sparingly -- the aroma and flavor are VERY strong.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>7</F_ORDER>
+</Misc>
+<Misc><_MOD_>1978-11-18</_MOD_>
+<F_M_NAME>Yarrow, flowers and leaves (dried)</F_M_NAME>
+<F_M_TYPE>2</F_M_TYPE>
+<F_M_USE_FOR>Bittering, flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>1.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES></F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>8</F_ORDER>
+</Misc>
+<Misc><_MOD_>1978-11-18</_MOD_>
+<F_M_NAME>Lapsang Souchong</F_M_NAME>
+<F_M_TYPE>2</F_M_TYPE>
+<F_M_USE_FOR>Smoke and tea flavors, mostly smoke</F_M_USE_FOR>
+<F_M_TEMP_VOL>1536.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>0.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES></F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>9</F_ORDER>
+</Misc>
+<Yeast><_MOD_>1978-11-18</_MOD_>
+<F_Y_NAME>Mute Dog Brett Blend</F_Y_NAME>
+<F_Y_LAB>Mute Dog Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>MDL011</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>10</F_ORDER>
+<F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2015-09-02</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2015-09-02</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>90.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>60.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2015-06-19</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES></F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>1978-11-18</_MOD_>
+<F_Y_NAME>Mute Dog Fruity Yeast</F_Y_NAME>
+<F_Y_LAB>Mute Dog Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>MDL006</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>11</F_ORDER>
+<F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2015-09-02</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2015-09-02</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2014-04-25</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES></F_Y_NOTES>
+</Yeast>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
 <F_R_TYPE>2</F_R_TYPE>
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
-<F_R_OG_MEASURED>1.0680000</F_R_OG_MEASURED>
+<F_R_OG_MEASURED>1.0460000</F_R_OG_MEASURED>
 <F_R_FG_MEASURED>1.0100000</F_R_FG_MEASURED>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>

@@ -1,7 +1,7 @@
 <Cloud><_MOD_>2011-12-14</_MOD_>
 <Name>Cloud</Name>
 <Type>8717</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>8717</TID>
 <Size>22</Size>
@@ -10477,7 +10477,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </F_C_RECIPE>
 </Cloud>
-<Cloud><_MOD_>1969-12-31</_MOD_>
+<Cloud><_MOD_>2015-09-05</_MOD_>
 <F_R_NAME>Mute Dog No&euml;l</F_R_NAME>
 <F_R_BREWER>Matt</F_R_BREWER>
 <F_R_STYLE_NAME>Belgian Golden Strong Ale</F_R_STYLE_NAME>
@@ -10525,7 +10525,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2015-09-05</_MOD_>
 <F_E_NAME>My Equipment</F_E_NAME>
 <F_E_MASH_VOL>1536.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>160.0000000</F_E_TUN_MASS>
@@ -10549,7 +10549,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES></F_E_NOTES>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
+<F_R_STYLE><_MOD_>2015-09-05</_MOD_>
 <F_S_NAME>Belgian Golden Strong Ale</F_S_NAME>
 <F_S_CATEGORY>Belgian Strong Ale</F_S_CATEGORY>
 <F_S_GUIDE>BJCP 2008</F_S_GUIDE>
@@ -10577,7 +10577,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_S_EXAMPLES>Duvel, Russian River Damnation, Hapkin, Lucifer, Brigand, Judas, Delirium Tremens, Dulle Teve, Piraat, Great Divide Hades, Avery Salvation, North Coast Pranqster, Unibroue Eau Benite, AleSmith Horny Devil</F_S_EXAMPLES>
 <F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
 </F_R_STYLE>
-<F_R_MASH><_MOD_>1969-12-31</_MOD_>
+<F_R_MASH><_MOD_>2015-09-05</_MOD_>
 <F_MH_NAME>Single Infusion, Full Body, Batch Sparge</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>656.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
@@ -10603,7 +10603,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2015-09-05</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>1640.0000000</F_MS_INFUSION>
@@ -10630,7 +10630,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2015-09-05</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -10657,7 +10657,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </F_R_BASE_GRAIN>
-<F_R_CARB><_MOD_>1969-12-31</_MOD_>
+<F_R_CARB><_MOD_>2015-09-05</_MOD_>
 <F_C_NAME>Keg</F_C_NAME>
 <F_C_TEMPERATURE>45.0000000</F_C_TEMPERATURE>
 <F_C_TYPE>1</F_C_TYPE>
@@ -10665,7 +10665,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2015-09-05</_MOD_>
 <F_A_NAME>Ale, Single Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -10804,7 +10804,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2015-09-05</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -10857,7 +10857,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-05</_MOD_>
 <F_M_NAME>Irish Moss</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -10875,7 +10875,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>7</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-05</_MOD_>
 <F_H_NAME>Glacier</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -10898,7 +10898,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-05</_MOD_>
 <F_M_NAME>Yeast Nutrient</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Fermentation</F_M_USE_FOR>
@@ -10916,7 +10916,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>9</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-05</_MOD_>
 <F_M_NAME>Cardamom (Pod, green)</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>flavor</F_M_USE_FOR>
@@ -10934,7 +10934,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-05</_MOD_>
 <F_M_NAME>Orange Peel, Sweet</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>Holiday Beers</F_M_USE_FOR>
@@ -10952,7 +10952,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>11</F_ORDER>
 </Misc>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2015-09-05</_MOD_>
 <F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
