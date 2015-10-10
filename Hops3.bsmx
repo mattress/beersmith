@@ -1,10 +1,10 @@
-<Hops><_MOD_>2015-09-18</_MOD_>
+<Hops><_MOD_>2015-09-21</_MOD_>
 <Name>Hops</Name>
 <Type>7403</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7403</TID>
-<Size>108</Size>
+<Size>109</Size>
 <_XName>Hops</_XName>
 <Allocinc>16</Allocinc>
 <Data><Hops><_MOD_>2003-06-09</_MOD_>
@@ -2420,6 +2420,26 @@ Possible Substitutions: Magnum, German Taurus, German Tradition</F_H_NOTES>
 <F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
 <F_H_NOTES>Amalia bine grown in the back yard.</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>0.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2015-09-21</_MOD_>
+<F_H_NAME>Elkins Estate hops</F_H_NAME>
+<F_H_ORIGIN>WA</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>2</F_H_FORM>
+<F_H_ALPHA>7.0000000</F_H_ALPHA>
+<F_H_BETA>3.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>50.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Mix of Cascade and an unknown hop (possibly columbus?) grown on the Elkin&#39;s property AA% is a complete guess</F_H_NOTES>
 <F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
 <F_ORDER>0</F_ORDER>
 <F_H_USE>0</F_H_USE>

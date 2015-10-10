@@ -1,7 +1,7 @@
 <Cloud><_MOD_>2011-12-14</_MOD_>
 <Name>Cloud</Name>
 <Type>8717</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>8717</TID>
 <Size>12</Size>
@@ -3564,7 +3564,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2015-09-25</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>1024.1920000</F_MS_INFUSION>
@@ -3680,7 +3680,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <F_G_PRICE>0.0625000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2015-09-25</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -3708,7 +3708,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Munich Malt - 10L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -3737,7 +3737,7 @@ Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2015-09-25</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt - 30L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -3765,7 +3765,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Glacier</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -3788,7 +3788,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-25</_MOD_>
 <F_M_NAME>Irish Moss</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -3806,7 +3806,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>6</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Glacier</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -3829,7 +3829,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-25</_MOD_>
 <F_M_NAME>Yeast Nutrient</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Fermentation</F_M_USE_FOR>
@@ -3847,7 +3847,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>8</F_ORDER>
 </Misc>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2015-09-25</_MOD_>
 <F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
@@ -3875,7 +3875,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_Y_BEST_FOR>Belgian Styles</F_Y_BEST_FOR>
 <F_Y_NOTES>Loads of bubble gum/fruity esters.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2015-09-21</_MOD_>
+<Yeast><_MOD_>2015-09-24</_MOD_>
 <F_Y_NAME>Mute Dog Wild Grape Test</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL009</F_Y_PRODUCT_ID>
@@ -4064,7 +4064,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2015-09-25</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>1640.0000000</F_MS_INFUSION>
@@ -4153,7 +4153,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <Size>13</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2015-09-21</_MOD_>
+<Data><Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Northwest Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>USA</F_G_ORIGIN>
 <F_G_SUPPLIER>Great Western Malting</F_G_SUPPLIER>
@@ -4180,7 +4180,7 @@ Mouthfeel: Very highly carbonated. Light to medium body, although lighter than t
 <F_G_PRICE>0.0450000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -4208,7 +4208,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Munich Malt - 10L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -4237,7 +4237,7 @@ Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt - 30L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -4265,7 +4265,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -4295,7 +4295,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Glacier</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -4318,7 +4318,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-25</_MOD_>
 <F_M_NAME>Irish Moss</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -4336,7 +4336,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>7</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Glacier</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -4359,7 +4359,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-25</_MOD_>
 <F_M_NAME>Yeast Nutrient</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Fermentation</F_M_USE_FOR>
@@ -4377,7 +4377,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>9</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-25</_MOD_>
 <F_M_NAME>Cardamom (Pod, green)</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>flavor</F_M_USE_FOR>
@@ -4395,7 +4395,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-25</_MOD_>
 <F_M_NAME>Orange Peel, Sweet</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>Holiday Beers</F_M_USE_FOR>
@@ -4413,7 +4413,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>11</F_ORDER>
 </Misc>
-<Yeast><_MOD_>2015-09-21</_MOD_>
+<Yeast><_MOD_>2015-09-24</_MOD_>
 <F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
@@ -4441,7 +4441,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_Y_BEST_FOR>Belgian Styles</F_Y_BEST_FOR>
 <F_Y_NOTES>Loads of bubble gum/fruity esters.</F_Y_NOTES>
 </Yeast>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-25</_MOD_>
 <F_M_NAME>Almond Extract</F_M_NAME>
 <F_M_TYPE>3</F_M_TYPE>
 <F_M_USE_FOR>Flavor</F_M_USE_FOR>
@@ -4620,7 +4620,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2015-09-25</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>880.0000000</F_MS_INFUSION>
@@ -4736,7 +4736,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <F_G_PRICE>0.0450000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>CaraBelge Malt</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -4793,7 +4793,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Hallertauer</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -4815,7 +4815,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Hallertauer</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -4837,7 +4837,7 @@ Substitutes: Crystal, Liberty, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2015-09-25</_MOD_>
 <F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
@@ -5039,7 +5039,7 @@ Mouthfeel: Variable. Some are well-attenuated, thus fairly light-bodied for thei
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2015-09-25</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>1174.8320000</F_MS_INFUSION>
@@ -5128,7 +5128,7 @@ Mouthfeel: Variable. Some are well-attenuated, thus fairly light-bodied for thei
 <Size>13</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2015-09-21</_MOD_>
+<Data><Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Northwest Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>USA</F_G_ORIGIN>
 <F_G_SUPPLIER>Great Western Malting</F_G_SUPPLIER>
@@ -5155,7 +5155,7 @@ Mouthfeel: Variable. Some are well-attenuated, thus fairly light-bodied for thei
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Maris Otter LME</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Caramunich Malt</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5182,7 +5182,7 @@ Mouthfeel: Variable. Some are well-attenuated, thus fairly light-bodied for thei
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5212,7 +5212,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Munich Malt</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5241,7 +5241,7 @@ Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Biscuit Malt</F_G_NAME>
 <F_G_ORIGIN>Belgian</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5270,7 +5270,7 @@ Can be used as a substitute for toasted malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 20L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Special B Malt</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5297,7 +5297,7 @@ Can be used as a substitute for toasted malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Horizon</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -5320,7 +5320,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Horizon</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -5343,7 +5343,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-25</_MOD_>
 <F_M_NAME>Coriander Seed</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>Belgian Wit</F_M_USE_FOR>
@@ -5361,7 +5361,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>9</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2015-09-25</_MOD_>
 <F_M_NAME>Coriander Seed</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>Belgian Wit</F_M_USE_FOR>
@@ -5379,7 +5379,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Glacier</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -5402,7 +5402,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2015-09-25</_MOD_>
 <F_Y_NAME>BugCounty</F_Y_NAME>
 <F_Y_LAB>East Coast Yeast</F_Y_LAB>
 <F_Y_PRODUCT_ID>ECY20</F_Y_PRODUCT_ID>
@@ -5430,7 +5430,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_Y_BEST_FOR></F_Y_BEST_FOR>
 <F_Y_NOTES>ECY20 BugCounty: The mother bugger for sour ales. Contains ECY01, ECY02, ECY03, ECY04, and ECY05. Also includes: Brettanomyces lambicus, bruxellensis, anomulus, clausenii, custersianus, nanus, and naardenensis. Various Lactobacilli and Pediococci were added to round out this LIMITED RELEASE sour blend for 2012. Availability : NOV/DEC</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2015-09-21</_MOD_>
+<Yeast><_MOD_>2015-09-24</_MOD_>
 <F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
@@ -5493,7 +5493,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </F_C_RECIPE>
 </Cloud>
-<Cloud><_MOD_>2015-09-21</_MOD_>
+<Cloud><_MOD_>2015-09-24</_MOD_>
 <F_R_NAME>New Pale</F_R_NAME>
 <F_R_BREWER>Matt</F_R_BREWER>
 <F_R_STYLE_NAME>Belgian Pale Ale</F_R_STYLE_NAME>
@@ -5541,7 +5541,7 @@ Substitutes: N/A</F_H_NOTES>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2015-09-25</_MOD_>
 <F_E_NAME>My Equipment</F_E_NAME>
 <F_E_MASH_VOL>1536.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>160.0000000</F_E_TUN_MASS>
@@ -5565,7 +5565,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES></F_E_NOTES>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
+<F_R_STYLE><_MOD_>2015-09-25</_MOD_>
 <F_S_NAME>Belgian Pale Ale</F_S_NAME>
 <F_S_CATEGORY>Belgian and French Ale</F_S_CATEGORY>
 <F_S_GUIDE>BJCP 2008</F_S_GUIDE>
@@ -5593,7 +5593,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <F_S_EXAMPLES>De Koninck, Speciale Palm, Dobble Palm, Russian River Perdition, Ginder Ale, Op-Ale, St. Pieters Zinnebir, Brewer&#39;s Art House Pale Ale, Avery Karma, Eisenbahn Pale Ale, Ommegang Rare Vos (unusual in its 6.5% ABV strength)</F_S_EXAMPLES>
 <F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
 </F_R_STYLE>
-<F_R_MASH><_MOD_>1969-12-31</_MOD_>
+<F_R_MASH><_MOD_>2015-09-25</_MOD_>
 <F_MH_NAME>Single Infusion, Full Body, Batch Sparge</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>400.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
@@ -5610,7 +5610,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2015-09-25</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -5619,7 +5619,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2015-09-25</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>1000.0000000</F_MS_INFUSION>
@@ -5646,7 +5646,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>2015-09-21</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5673,7 +5673,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </F_R_BASE_GRAIN>
-<F_R_CARB><_MOD_>1969-12-31</_MOD_>
+<F_R_CARB><_MOD_>2015-09-25</_MOD_>
 <F_C_NAME>Keg</F_C_NAME>
 <F_C_TEMPERATURE>45.0000000</F_C_TEMPERATURE>
 <F_C_TYPE>1</F_C_TYPE>
@@ -5681,7 +5681,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2015-09-25</_MOD_>
 <F_A_NAME>Ale, Single Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -5699,7 +5699,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <F_A_TYPE>0</F_A_TYPE>
 <F_A_NOTES>A simple single stage fermentation, often used by extract brewers or for classic ales.</F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2015-09-25</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -5708,7 +5708,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <Size>8</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2015-09-21</_MOD_>
+<Data><Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Northwest Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>USA</F_G_ORIGIN>
 <F_G_SUPPLIER>Great Western Malting</F_G_SUPPLIER>
@@ -5762,7 +5762,7 @@ Mouthfeel: Medium to medium-light body. Alcohol level is restrained, and any war
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2015-09-21</_MOD_>
+<Grain><_MOD_>2015-09-24</_MOD_>
 <F_G_NAME>Victory Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5790,7 +5790,7 @@ Use for: Nut brown ales, porters</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 30L</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Horizon</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -5835,7 +5835,7 @@ Strisselspalt, Hersbrucker </F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>0.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2015-09-25</_MOD_>
 <F_H_NAME>Sonnet</F_H_NAME>
 <F_H_ORIGIN>US</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -5857,7 +5857,7 @@ Strisselspalt, Hersbrucker </F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>0.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2015-09-25</_MOD_>
 <F_Y_NAME>Mude Dog Abbey Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL002</F_Y_PRODUCT_ID>
@@ -5885,7 +5885,7 @@ Strisselspalt, Hersbrucker </F_H_NOTES>
 <F_Y_BEST_FOR>Belgian Styles</F_Y_BEST_FOR>
 <F_Y_NOTES>Loads of bubble gum/fruity esters.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2015-09-25</_MOD_>
 <F_Y_NAME>Mute Dog Fruity Yeast</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL006</F_Y_PRODUCT_ID>
