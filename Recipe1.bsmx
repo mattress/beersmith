@@ -50751,7 +50751,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2016-08-23</_MOD_>
+<Data><MashStep><_MOD_>2016-08-24</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>1000.0000000</F_MS_INFUSION>
@@ -50840,7 +50840,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <Size>10</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2016-08-23</_MOD_>
+<Data><Grain><_MOD_>2016-08-24</_MOD_>
 <F_G_NAME>Pilsner (2 Row) Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -50867,7 +50867,7 @@ Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, tho
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2016-08-23</_MOD_>
+<Grain><_MOD_>2016-08-24</_MOD_>
 <F_G_NAME>Munich Malt - 10L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -50919,7 +50919,7 @@ Substitutes: Magnum or other high alpha hops</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Grain><_MOD_>2016-08-23</_MOD_>
+<Grain><_MOD_>2016-08-24</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -50947,7 +50947,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2016-08-23</_MOD_>
+<Hops><_MOD_>2016-08-24</_MOD_>
 <F_H_NAME>Estate Amalia - Fresh</F_H_NAME>
 <F_H_ORIGIN>Washington</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -51019,7 +51019,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_Y_NOTES></F_Y_NOTES>
 <F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
 </Yeast>
-<Yeast><_MOD_>2016-08-23</_MOD_>
+<Yeast><_MOD_>2016-08-24</_MOD_>
 <F_Y_NAME>Mute Dog Sauvie Raspberry</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL013</F_Y_PRODUCT_ID>
@@ -51048,7 +51048,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_Y_NOTES></F_Y_NOTES>
 <F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
 </Yeast>
-<Yeast><_MOD_>2016-08-23</_MOD_>
+<Yeast><_MOD_>2016-08-24</_MOD_>
 <F_Y_NAME>Mute Dog Hood Cherry :)</F_Y_NAME>
 <F_Y_LAB>Mute Dog Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>MDL014</F_Y_PRODUCT_ID>
