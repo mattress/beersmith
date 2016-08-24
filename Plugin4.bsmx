@@ -4,9 +4,34 @@
 <Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>8344</TID>
-<Size>0</Size>
+<Size>5</Size>
 <_XName>Plugin</_XName>
 <Allocinc>16</Allocinc>
-<Data></Data>
+<Data><Plugin><_MOD_>1979-04-30</_MOD_>
+<F_PLUG_NAME>Fruits (29 items)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Fruits.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2016-06-06</_MOD_>
+<F_PLUG_NAME>Gambrinus Malts (12 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>GambrinusMalts.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2016-06-15</_MOD_>
+<F_PLUG_NAME>Great Western Malts (10 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Great-Western.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2016-06-06</_MOD_>
+<F_PLUG_NAME>Norwegian Style Guide 14- Change Options-&gt;Brewing-&gt;Style Guide to view </F_PLUG_NAME>
+<F_PLUG_TYPE>7428</F_PLUG_TYPE>
+<F_PLUG_FILE>Norbrygg2014.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2016-06-15</_MOD_>
+<F_PLUG_NAME>Misc Update 2016 (48 items)</F_PLUG_NAME>
+<F_PLUG_TYPE>7421</F_PLUG_TYPE>
+<F_PLUG_FILE>Misc2016Update.bsmx</F_PLUG_FILE>
+</Plugin>
+</Data>
 <_TExpanded>1</_TExpanded>
 </Plugin>

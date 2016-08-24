@@ -14,6 +14,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.1200000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>217.6000000</F_E_BOIL_VOL>
@@ -30,6 +31,8 @@
 <F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Simple brew pot with 2 gallon capacity for extract brewing.  May also be used for partial mash with temperature or infusion mashing.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-08</_MOD_>
 <F_E_NAME>Pot ( 3 Gal/11.4 L) - Extract</F_E_NAME>
@@ -38,6 +41,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.1200000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>1</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>360.9600000</F_E_BOIL_VOL>
@@ -54,6 +58,8 @@
 <F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Simple Brew Pot with a 3 Gallon Capacity - leaving a workable boil volume of around 2.5 gal.  Used for extract or partial mash brewing.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-08</_MOD_>
 <F_E_NAME>Pot ( 4 Gal/15.1 L) - Extract</F_E_NAME>
@@ -62,6 +68,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.1200000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>1</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>469.7600000</F_E_BOIL_VOL>
@@ -78,6 +85,8 @@
 <F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Simple Brew Pot with a 4 Gallon Capacity - leaving a workable boil volume of around 3.25 gal.  Used for extract or partial mash brewing.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-08</_MOD_>
 <F_E_NAME>Pot and Cooler ( 5 Gal/19 L) - All Grain</F_E_NAME>
@@ -86,6 +95,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.3000000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>32.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>834.5600000</F_E_BOIL_VOL>
@@ -102,6 +112,8 @@
 <F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Popular all grain setup.  5 Gallon cooler as mash tun with false bottom, and 7-9 gallon brewpot capable of boiling at least 6 gallons of wort without spilling over.  Primarily used for single infusion mashes.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-09</_MOD_>
 <F_E_NAME>Pot and Cooler ( 5 Gal/19 L) - Extract/Partial Mash</F_E_NAME>
@@ -110,6 +122,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.1200000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>32.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>1</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>546.5600000</F_E_BOIL_VOL>
@@ -126,6 +139,8 @@
 <F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Simple Brew Pot with a 5 Gallon Capacity - leaving a workable boil volume of around 4.5 gal.   Used for extract or partial mash brewing.  Note top-up water is still required as we can&#39;t reach a full volume boil in this setup.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-08</_MOD_>
 <F_E_NAME>Pot (18.5 Gal/70 L) and Cooler (9.5 Gal/40 L)  - All Grain</F_E_NAME>
@@ -134,6 +149,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.3000000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>102.4000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>1</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>1253.1200000</F_E_BOIL_VOL>
@@ -150,6 +166,8 @@
 <F_E_EFFICIENCY>68.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Based on a 18.5 Gal/70 L pot with a diameter of 18 inches/45 cm and a 9.5 Gal/40 L cooler. The above assumes loose pellet hops and only clear, chilled wort transferred from the kettle using no trub management techniques. Experienced brewers should adjust &#39;Loss to Trub and Chiller&#39; and &#39;Brewhouse Efficiency&#39; accordingly to suit their trub management techniques.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-22</_MOD_>
 <F_E_NAME>Electric Urn (10 Gal/40 L) - BIAB</F_E_NAME>
@@ -158,6 +176,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.1200000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>1025.2800000</F_E_BOIL_VOL>
@@ -174,6 +193,8 @@
 <F_E_EFFICIENCY>70.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Sample Brew-In-A-Bag equipment profile set up for a 40 litre electric urn (diameter of 38cm or 15 inches) using a polyester grain bag to hold the grain.  This profile should be used with the BIAB mash profiles available in the BeerSmith mash profiles area. The above assumes loose pellet hops and only clear, chilled wort transferred from the kettle using no trub management techniques. Experienced brewers should adjust &#39;Loss to Trub and Chiller&#39; and &#39;Brewhouse Efficiency&#39; accordingly to suit their trub management techniques.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-22</_MOD_>
 <F_E_NAME>Pot (13 Gal/50 L) - BIAB</F_E_NAME>
@@ -182,6 +203,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.1200000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>1217.2800000</F_E_BOIL_VOL>
@@ -198,6 +220,8 @@
 <F_E_EFFICIENCY>70.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Sample Brew-In-A-Bag equipment profile set up for a 50 litre brew pot (diameter of 40cm or 16 inches) using a polyester grain bag to hold the grain.  This profile should be used with the BIAB mash profiles available in the BeerSmith mash profiles area.  The above assumes loose pellet hops and only clear, chilled wort transferred from the kettle using no trub management techniques. Experienced brewers should adjust &#39;Loss to Trub and Chiller&#39; and &#39;Brewhouse Efficiency&#39; accordingly to suit their trub management techniques.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-22</_MOD_>
 <F_E_NAME>Pot (18.5 Gal/70 L) - BIAB</F_E_NAME>
@@ -206,6 +230,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.1200000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>1904.6400000</F_E_BOIL_VOL>
@@ -222,6 +247,8 @@
 <F_E_EFFICIENCY>70.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Sample Brew-in-a-bag equipment profile set up for a 70 liter brewing pot  (diameter of 45cm or 18 inches) and using a polyester grain bag to hold the grain.  This profile should be used with the BIAB mash profiles available in the BeerSmith mash profiles area. The above assumes loose pellet hops and only clear, chilled wort transferred from the kettle using no trub management techniques. Experienced brewers should adjust &#39;Loss to Trub and Chiller&#39; and &#39;Brewhouse Efficiency&#39; accordingly to suit their trub management techniques. Careful when mashing in as this profile approaches the pot limits.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-22</_MOD_>
 <F_E_NAME>Pot ( 5 Gal/19 L) - Mini-BIAB</F_E_NAME>
@@ -230,6 +257,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.1200000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>550.4000000</F_E_BOIL_VOL>
@@ -246,6 +274,8 @@
 <F_E_EFFICIENCY>65.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Sample Brew-In-A-Bag equipment profile set up for a 19 litre pot (diameter of 29cm or 15 inches) using a polyester grain bag to hold the grain.  This profile should be used with the BIAB mash profiles available in the BeerSmith mash profiles area. As this is a small pot size, it may be necessary to hold back some mash water until after the bag has been removed to prevent over-flow.  The above assumes loose pellet hops and only clear, chilled wort transferred from the kettle using no trub management techniques. Experienced brewers should adjust &#39;Loss to Trub and Chiller&#39; and &#39;Brewhouse Efficiency&#39; accordingly to suit their trub management techniques.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-09</_MOD_>
 <F_E_NAME>Stainless Kegs (10 Gal/37.8 L) - All Grain</F_E_NAME>
@@ -254,6 +284,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.1500000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>128.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>1</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>1720.3200000</F_E_BOIL_VOL>
@@ -270,6 +301,8 @@
 <F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Popular 10 gallon batch setup for all grain brewing.  Uses two large stainless 15 gal/58 l kegs for the boil pot and mash tun with the tops cut off the keg.  A third keg is often used as a pot to heat mash tun water.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2011-06-09</_MOD_>
 <F_E_NAME>Pot and Cooler (10 Gal/37.8 L) - All Grain</F_E_NAME>
@@ -278,6 +311,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.3000000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>102.4000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>1</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>1608.9600000</F_E_BOIL_VOL>
@@ -294,6 +328,8 @@
 <F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Popular 10 gallon setup for all grain brewing.  Uses a 10 gallon water cooler as mash tun for single infusion mashes and a 15 gallon brew pot for full size boil of the 12+ gallons of wort.</F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 <Equipment><_MOD_>2015-02-17</_MOD_>
 <F_E_NAME>My Equipment</F_E_NAME>
@@ -302,6 +338,7 @@
 <F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
 <F_E_TUN_SPECIFIC_HEAT>0.3000000</F_E_TUN_SPECIFIC_HEAT>
 <F_E_TUN_DEADSPACE>0.0000000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
 <F_E_BOIL_VOL>1693.4400000</F_E_BOIL_VOL>
@@ -318,6 +355,8 @@
 <F_E_EFFICIENCY>72.0000000</F_E_EFFICIENCY>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES></F_E_NOTES>
+<F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
+<F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </Equipment>
 </Data>
 <_TExpanded>1</_TExpanded>

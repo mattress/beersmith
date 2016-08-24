@@ -2406,7 +2406,7 @@ Possible Substitutions: Magnum, German Taurus, German Tradition</F_H_NOTES>
 <F_H_IN_RECIPE>0</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2015-09-18</_MOD_>
+<Hops><_MOD_>2016-04-15</_MOD_>
 <F_H_NAME>Estate Amalia</F_H_NAME>
 <F_H_ORIGIN>Washington</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -2419,7 +2419,17 @@ Possible Substitutions: Magnum, German Taurus, German Tradition</F_H_NOTES>
 <F_H_HSI>23.6000000</F_H_HSI>
 <F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>Amalia bine grown in the back yard.</F_H_NOTES>
+<F_H_NOTES>Amalia bine grown in the back yard.
+
+Guesstimates on some oils based on: http://amaliahops.com/2014Results.pdf
+
+Cohumulone: 57%
+Myrcene: 64%
+Linalool: 0.6%
+Caryophyllene: 8%
+Farnesene 0.75%
+Humulene: 0.15%
+Geraniol: 1.08%</F_H_NOTES>
 <F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
 <F_ORDER>0</F_ORDER>
 <F_H_USE>0</F_H_USE>

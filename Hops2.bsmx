@@ -1,10 +1,10 @@
-<Hops><_MOD_>2015-09-21</_MOD_>
+<Hops><_MOD_>2016-08-23</_MOD_>
 <Name>Hops</Name>
 <Type>7403</Type>
-<Dirty>0</Dirty>
+<Dirty>1</Dirty>
 <Owndata>0</Owndata>
 <TID>7403</TID>
-<Size>109</Size>
+<Size>110</Size>
 <_XName>Hops</_XName>
 <Allocinc>16</Allocinc>
 <Data><Hops><_MOD_>2003-06-09</_MOD_>
@@ -2406,11 +2406,11 @@ Possible Substitutions: Magnum, German Taurus, German Tradition</F_H_NOTES>
 <F_H_IN_RECIPE>0</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2015-09-18</_MOD_>
+<Hops><_MOD_>2016-08-23</_MOD_>
 <F_H_NAME>Estate Amalia</F_H_NAME>
 <F_H_ORIGIN>Washington</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
-<F_H_FORM>0</F_H_FORM>
+<F_H_FORM>2</F_H_FORM>
 <F_H_ALPHA>4.5000000</F_H_ALPHA>
 <F_H_BETA>6.0000000</F_H_BETA>
 <F_H_PERCENT>0.0000000</F_H_PERCENT>
@@ -2419,7 +2419,17 @@ Possible Substitutions: Magnum, German Taurus, German Tradition</F_H_NOTES>
 <F_H_HSI>23.6000000</F_H_HSI>
 <F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>Amalia bine grown in the back yard.</F_H_NOTES>
+<F_H_NOTES>Amalia bine grown in the back yard.
+
+Guesstimates on some oils based on: http://amaliahops.com/2014Results.pdf
+
+Cohumulone: 57%
+Myrcene: 64%
+Linalool: 0.6%
+Caryophyllene: 8%
+Farnesene 0.75%
+Humulene: 0.15%
+Geraniol: 1.08%</F_H_NOTES>
 <F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
 <F_ORDER>0</F_ORDER>
 <F_H_USE>0</F_H_USE>
@@ -2445,6 +2455,26 @@ Possible Substitutions: Magnum, German Taurus, German Tradition</F_H_NOTES>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>0</F_H_IN_RECIPE>
 <F_H_PRICE>0.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-08-23</_MOD_>
+<F_H_NAME>Estate Amalia - Fresh</F_H_NAME>
+<F_H_ORIGIN>Washington</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>2</F_H_FORM>
+<F_H_ALPHA>0.9000000</F_H_ALPHA>
+<F_H_BETA>1.2000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES></F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
 </Data>
 <_TExpanded>1</_TExpanded>
